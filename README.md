@@ -43,7 +43,7 @@ Hoe onderzocht je dit? Wees volledig.
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
-[image](https://github.com/user-attachments/assets/7da7d18c-69b3-4ae8-9049-3e0240bfabd0)
+
 
 ## Bill of materials
 - Welk
