@@ -1,9 +1,11 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# FEELLINK
+*Met FEELLINK kan een leerling uit een autiklas zijn emoties en gevoelens makkelijk en laagdrempelig communiceren met de leerkracht om zo conflicten, ongemakken en frustraties bij leerlingen in de klas makkelijker te begrijpen en opgelossen. Ook helpt FEELLINK bij zelfregulatie van de leerling door middel van fidgeting en stimming.* 
 
-*Projectteam: Naam 1; Naam 2*
+![image](https://github.com/user-attachments/assets/05638e33-2e71-440f-8102-ae7d94fcf502)
 
-Datum
+*Projectteam: Aster Vuylsteke, Aimé Van Alboom*
+
+*Datum: 07/01/2025*
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
