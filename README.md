@@ -25,7 +25,18 @@ Dit onderzoek richt zich op de ontwikkeling van een product dat kinderen met ASS
 ! Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).!
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+Doorheen het ontwerpproces hebben we gewerkt met een gestructureerde aanpak die steeds de gebruiker centraal stelde in het ontwerpproces. Zo hebben we zoveel mogelijk de gebruikersdoelgroep aangesproken om hen te betrekken in het ontwerpproces. Ook konden we zo het product zo gebruikersvriendelijk mogelijk maken.
+
+In de exploratiefase zijn we eerst een vooral begonnen met onderzoek naar de gebruiker, aangezien de gebruikers vaak specifieke noden kunnen hebben was het belangrijk om te gaan onderzoeken waar gebruikers veel belang aan hechten. Hiermee ging gepaard dat we een goed doordachte identificatie van het probleem opstelden alsook de analyse ervan. Dit deden we aan de hand van literatuuronderzoek, gebruiker interviews, expert interviews en een ‘day in the life’.  Het ondervonden probleem is dan verder onderzocht geweest, dit aan de hand van literatuuronderzoek en benchmarking over bestaande systemen die men gebruikt bij kinderen met ASS.
+
+In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
+
+Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept. 
+
+De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
+
+![image](https://github.com/user-attachments/assets/ed46740a-e9d4-43e7-8405-87adf1c10b96)
+
 
 ## Discovery
 Max. 1000 woorden
