@@ -23,7 +23,6 @@ ASS is een spectrumstoornis, wat betekent dat de kenmerken en intensiteit ervan 
 
 Dit onderzoek richt zich op de ontwikkeling van een product dat kinderen met ASS helpt bij drie cruciale aspecten: communicatie, emotionele regulatie en focus. Het doel is een oplossing te bieden die hen helpt hun emoties op een toegankelijke manier te uiten, zonder dat dit extra stress veroorzaakt. Door dit hulpmiddel te integreren in de klas kunnen misverstanden worden verminderd, kunnen leerlingen zich beter concentreren en kunnen conflicten sneller worden opgelost, wat uiteindelijk bijdraagt aan een effectievere leerervaring.
 
-! Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).!
 
 ## Methodologie
 Doorheen het ontwerpproces hebben we gewerkt met een gestructureerde aanpak die steeds de gebruiker centraal stelde in het ontwerpproces. Zo hebben we zoveel mogelijk de gebruikersdoelgroep aangesproken om hen te betrekken in het ontwerpproces. Ook konden we zo het product zo gebruikersvriendelijk mogelijk maken.
