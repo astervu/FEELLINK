@@ -13,6 +13,7 @@ Om dit probleem te onderzoeken, observeerden we een type 9-klas en voerden we dr
 Onze oplossing is een slimme fidget met een ingebouwd apparaatje waarmee leerlingen hun emoties kunnen aangeven via iconen (zoals emoji’s). De leerkracht kan in een bijbehorende app de status van elke leerling bekijken.
 
 Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie met het apparaat minder confronterend is dan directe mens-mens communicatie. De visuele iconen bevorderen de zelfexpressie en verbeteren het begrip van de eigen emotie bij de leerling. De fidget helpt met zelfregulatie, focus en het verminderen van angst en stress door tactiele stimulatie. Bovendien merkt de omgeving niet dat de leerling iets communiceert, wat extra comfort biedt. Dit zorgt voor een rustigere en meer begripvolle leeromgeving waarin leerlingen beter ondersteund worden.
+
 ![image](https://github.com/user-attachments/assets/05638e33-2e71-440f-8102-ae7d94fcf502)
 
 ## Introductie
