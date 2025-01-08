@@ -15,7 +15,8 @@ Onze oplossing is een slimme fidget met een ingebouwd apparaatje waarmee leerlin
 Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie met het apparaat minder confronterend is dan directe mens-mens communicatie. De visuele iconen bevorderen de zelfexpressie en verbeteren het begrip van de eigen emotie bij de leerling. De fidget helpt met zelfregulatie, focus en het verminderen van angst en stress door tactiele stimulatie. Bovendien merkt de omgeving niet dat de leerling iets communiceert, wat extra comfort biedt. Dit zorgt voor een rustigere en meer begripvolle leeromgeving waarin leerlingen beter ondersteund worden.
 
 ![image](https://github.com/user-attachments/assets/05638e33-2e71-440f-8102-ae7d94fcf502)
-![pnj emojidrukker](https://github.com/user-attachments/assets/1415d9d4-c52f-4737-9951-452878550b58)
+![png emojidrukker](https://github.com/user-attachments/assets/58436ce3-d644-4b52-9e2a-65e1fab8a5e1)
+
 
 ## Introductie
 Er zijn al verschillende hulpmiddelen beschikbaar die kinderen met autisme spectrum stoornis (ASS) ondersteunen bij het verbeteren van hun communicatieve vaardigheden. Echter, er is nog geen hulpmiddel dat hen direct helpt om hun emoties te identificeren en te communiceren op het moment dat dit nodig is, zonder dat ze een drempel moeten overschrijden die hen kwetsbaar maakt voor de aandacht van andere leerlingen. Dit is vooral problematisch in de klas, waar snel overprikkelde leerlingen vaak niet in staat zijn om effectief te communiceren over hun gevoelens, wat hun welzijn en hun vermogen om zich te concentreren verstoort.
