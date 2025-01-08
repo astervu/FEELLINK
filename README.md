@@ -136,7 +136,7 @@ De meeste bestaande producten houden geen rekening met de confrontatie met medel
 
 <ins> 4.	A day in the life </ins>
 
-Er werd gelet op de fysieke beperkingen van de klas, die meestal klein is en bestaat uit maximaal 6 leerlingen. De tafels en stoelen zijn vaak neutraal beige van kleur, en veel objecten in de klas hebben een kubusvorm. Ook werden praktische aspecten onderzocht: de leerkracht heeft altijd toegang tot een gsm of laptop, en de leerlingen blijven meestal in hetzelfde lokaal.
+Er werd gelet op de fysieke beperkingen van de klas, die meestal klein is en bestaat uit maximaal 6 leerlingen. De tafels en stoelen zijn vaak neutraal beige van kleur, en veel objecten in de klas hebben een kubusvorm. Ook werden praktische aspecten onderzocht: de leerkracht heeft altijd toegang tot een gsm of laptop (de laptop van de leerkracht is echter doorgaans verbonden met het digibord, wat voor moeilijkheden zorgt bij het werken met een app op de laptop). De leerlingen blijven meestal in hetzelfde lokaal.
 
 
 ### Conclusies & implicaties
