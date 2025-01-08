@@ -36,6 +36,7 @@ Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerp
 De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
 
 ![image](https://github.com/user-attachments/assets/ed46740a-e9d4-43e7-8405-87adf1c10b96)
+![pnj emojidrukker](https://github.com/user-attachments/assets/1415d9d4-c52f-4737-9951-452878550b58)
 
 
 ## Discovery
