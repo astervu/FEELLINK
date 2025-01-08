@@ -280,9 +280,6 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 
  De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
-## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
-
 ## Bijlagen
 
 Discovery
