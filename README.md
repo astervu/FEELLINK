@@ -268,7 +268,7 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 Discovery
 -	Protocol
-    - Interview: [Interview protocol]([https://www.scribbr.nl/category/apa-stijl/](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B ))
+    - Interview: ([Interview protocol]([https://www.scribbr.nl/category/apa-stijl/](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B ))
     - Literatuuronderzoek: literatuuronderzoek protocol.docx
     - Benchmarking: Benchmarking protocol.docx
     - Expertinterview: interview - protocol.docx
