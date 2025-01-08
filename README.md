@@ -151,6 +151,7 @@ Er werd gelet op de fysieke beperkingen van de klas, die meestal klein is en bes
 
 > [!IMPORTANT]
 > Design requirements:
+> - D1.5: Het product moet kubusvormig zijn en moet een neutrale kleur hebben om goed in het klasbeeld te blenderen.
 > - D3.1: De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer.
 
 
@@ -252,7 +253,7 @@ Daarnaast zagen we dat het gebruik van kleur het gebruiksgemak weinig beïnvloed
 
 > [!IMPORTANT]
 > Design requirements:
-> - D1.5: Er moet een draaiend fidgeting element aanwezig zijn.
+> - D1.6: Er moet een draaiend fidgeting element aanwezig zijn.
 
 
 In wave 2 hebben we voor het emotieaanduidsysteem gekozen voor het drukknoppensysteem. Ook al was dit niet het populairst hebben we toch besloten om deze te nemen. Dit omdat we merkten dat de nood om verschillende emoties aan te duiden groot was. Op de emotieradar en emotieslider kon je wel verschillende emoties aanduiden maar werd je steeds beperkt doordat je enkel combinaties kon maken van emoties die naast elkaar lagen georiënteerd op het product. Bij het gekozen drukknopsysteem zouden we wel een bevestigingsknop toevoegen, zo kunnen de leerlingen meerdere emoties aanduiden en dan bevestigen. Dit zorgt ook voor een extra staps verificatie waardoor de angst om fouten te maken kleiner zal zijn voor de leerling.
@@ -269,8 +270,8 @@ Uit de gebruikerstesten met het touch and feel board zijn we tot de conclusie ge
 
 > [!IMPORTANT]
 > Design requirements:
-> - D1.6: Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber.
-> - D1.7: Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board.
+> - D1.7: Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber.
+> - D1.8: Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board.
 > - D2.4: Je moet meerdere verschillende emoties tegelijk kunnen aanduiden.
 > - D2.5: De emoties moeten zo simpel mogelijk gehouden worden.
 > - D2.6: De emoties moeten aangeduid kunnen worden aan de hand van verschillende knoppen.
@@ -301,6 +302,8 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 
  De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
+
+
 ## Design Requirements
 
 | Nummer  | Design requirement | Source | Datum |
@@ -310,9 +313,10 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 | D1.2 | Het gebruiksdoel moet duidelijk aangegeven zijn. | Discovery | 30/10/2024 |
 | D1.3 | Er moet ruimte zijn voor fouten. | Discovery | 30/10/2024 |
 | D1.4 | Het product mag heel weinig tot liefst geen geluid maken. | Discovery | 30/10/2024 |
-| D1.5 | Er moet een draaiend fidgeting element aanwezig zijn. | Definition wave 1 | 06/12/2024 |
-| D1.6 | Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber. | Definition wave 2 | 13/12/2024 |
-| D1.7 | Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board. | Definition wave 2 | 13/12/2024 |
+| D1.5 | Het product moet kubusvormig zijn en moet een neutrale kleur hebben om goed in het klasbeeld te blenderen. | Discovery ‘A day in the life’ | 21/10/2024 |
+| D1.6 | Er moet een draaiend fidgeting element aanwezig zijn. | Definition wave 1 | 06/12/2024 |
+| D1.7 | Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber. | Definition wave 2 | 13/12/2024 |
+| D1.8 | Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board. | Definition wave 2 | 13/12/2024 |
 | **D2**  | **Emoties aanduiden** |  |  |
 | D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
 | D2.2 | Het aanduiden van emoties moet onopvallend kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
