@@ -301,6 +301,32 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 
  De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
+## Design Requirements
+
+| Nummer  | Design requirement | Source | Datum |
+| ------------- | ------------- | ------------- | ------------- |
+| **D1**  | **Algemene eisen** |  |  |
+| D1.1 | Het product moet stevig zijn zodat leerlingen het niet makkelijk uit elkaar kunnen halen. | Discovery | 30/10/2024 |
+| D1.2 | Het gebruiksdoel moet duidelijk aangegeven zijn. | Discovery | 30/10/2024 |
+| D1.3 | Er moet ruimte zijn voor fouten. | Discovery | 30/10/2024 |
+| D1.4 | Het product mag heel weinig tot liefst geen geluid maken. | Discovery | 30/10/2024 |
+| D1.5 | Er moet een draaiend fidgeting element aanwezig zijn. | Definition wave 1 | 06/12/2024 |
+| D1.6 | Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber. | Definition wave 2 | 13/12/2024 |
+| D1.7 | Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board. | Definition wave 2 | 13/12/2024 |
+| **D2**  | **Emoties aanduiden** |  |  |
+| D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
+| D2.2 | Het aanduiden van emoties moet anoniem kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
+| D2.3 | Bij het aanduiden van emoties moeten gezichtsuitdrukkingen gebruikt worden. | Discovery | 30/10/2024 |
+| D2.4 | Je moet meerdere verschillende emoties tegelijk kunnen aanduiden. | Definition wave 2 | 13/12/2024 |
+| D2.5 | De emoties moeten zo simpel mogelijk gehouden worden. | Definition wave 2 | 13/12/2024 |
+| D2.6 | De emoties moeten aangeduid kunnen worden aan de hand van verschillende knoppen. | Definition wave 2 | 13/12/2024 |
+| D2.7 | Er moet een bevestigingsknop zijn om de error proofness te vergroten. | Definition wave 2 | 13/12/2024 |
+| D2.8 | Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
+| D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
+| **D3** | **App** |  |  |
+| D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
+
+
 ## Bijlagen
 
 Discovery
