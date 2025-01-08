@@ -68,11 +68,10 @@ Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om
 Tijdens het onderzoek naar de doelgroep werd voornamelijk gebruik gemaakt van onlinebronnen. Aan de hand van zeven verschillende bronnen werd onderzocht wat het betekent om ASS te hebben.
 Voor de analyse van bestaande producten/ hulpmiddelen werden 4 bronnen geraadpleegd. De focus lag daarbij op de vraag: Hoe kan ik de communicatie en sociale interacties vlotter doen verlopen
 voor kinderen met autisme?
-Het protocol hiervan is hier te vinden. 
 
 2.	Interviews 
 
-Er werden twee kinderen met ASS geïnterviewd om hun ervaringen en gevoelens in een klasomgeving beter te begrijpen. Daarnaast werd ook een leerkracht geïnterviewd die lesgeeft aan kinderen met ASS in het type 9 onderwijs, om het probleem vanuit een ander perspectief te bekijken. Ook werden twee auti-coaches en één therapeut geïnterviewd, waarbij de focus lag op het achterhalen waarom kinderen met ASS mindere emotieherkenning en emotiedeling ervaren. De vragen richtten zich verder op communicatie-uitdagingen, overprikkeling en de mogelijkheden die er op school zijn. Het interviewprotocol is hier te vinden
+Er werden twee kinderen met ASS geïnterviewd om hun ervaringen en gevoelens in een klasomgeving beter te begrijpen. Daarnaast werd ook een leerkracht geïnterviewd die lesgeeft aan kinderen met ASS in het type 9 onderwijs, om het probleem vanuit een ander perspectief te bekijken. Ook werden twee auti-coaches en één therapeut geïnterviewd, waarbij de focus lag op het achterhalen waarom kinderen met ASS mindere emotieherkenning en emotiedeling ervaren. De vragen richtten zich verder op communicatie-uitdagingen, overprikkeling en de mogelijkheden die er op school zijn. 
 
 3.	Benchmarking 
 
