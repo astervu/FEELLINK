@@ -70,13 +70,14 @@ Voor de analyse van bestaande producten/ hulpmiddelen werden 4 bronnen geraadple
 voor kinderen met autisme?
 
 2.	Interviews (N = 6)
+
 Er werden twee kinderen met ASS geïnterviewd om hun ervaringen en gevoelens in een klasomgeving beter te begrijpen. Daarnaast werd ook een leerkracht geïnterviewd die lesgeeft aan kinderen met ASS in het type 9 onderwijs, om het probleem vanuit een ander perspectief te bekijken. Ook werden twee auti-coaches en één therapeut geïnterviewd, waarbij de focus lag op het achterhalen waarom kinderen met ASS mindere emotieherkenning en emotiedeling ervaren. De vragen richtten zich verder op communicatie-uitdagingen, overprikkeling en de mogelijkheden die er op school zijn. 
 
 3.	Benchmarking 
 
 Om te bepalen welke aanpak het beste werkt, werden verschillende benchmarks geanalyseerd. Hierbij werd gekeken naar de werkwijze van andere producten en naar de onderlinge verbanden tussen de benchmarks. De producten die werden onderzocht, kwamen zowel uit de suggesties van de respondenten tijdens de interviews als uit zoekopdrachten op Google.
 
-4.	A day in the life
+4.	A day in the life (N = 4)
 
 Om de schoolomgeving grondig te onderzoeken volgden we een dag mee met een auti-klasje van het tweede middelbaar. Er werd vooral gelet op hoe de klas is ingericht, hoe hun dag eruit ziet, hoe de leerlingen zich gedragen in de les, wat de aanpassingen zijn in een auti-klasje, … . Dit biedt meer inzicht in de context waarin het product zal worden gebruikt.
 
