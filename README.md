@@ -45,7 +45,7 @@ In de discoveryfase onderzoeken we de onderzoeksvraag: Hoe kan de leer- en schoo
 
   <ins>  1.	Onderzoek naar de doelgroep</ins>
 
-Hier gingen we vooral opzoek naar wat het betekent om ASS te hebben, met een specifieke focus op kinderen. Hierdoor krijgen we meer inzicht in hun behoeften en uitdagingen.
+Hier gingen we vooral op zoek naar wat het betekent om ASS te hebben, met een specifieke focus op kinderen. Hierdoor krijgen we meer inzicht in hun behoeften en uitdagingen.
 
    <ins>  2.	Probleemidentificatie en analyse</ins> 
 
@@ -57,7 +57,7 @@ We bekijken kritisch welke hulpmiddelen er momenteel beschikbaar zijn voor kinde
 
   <ins>  4.	Onderzoek naar de schoolomgeving</ins> 
 
-Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om die grondig te verkennen. We analyseren fysieke beperkingen en praktische aspecten zoals: Past dit op een schoolbank? Hoe ziet het schoolmeubilair uit? Verplaatsen de kinderen vaak van klaslokaal? Heeft de leerkracht steeds toegang tot hun gsm/ laptop? …?
+Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om die grondig te verkennen. We analyseren fysieke beperkingen en praktische aspecten zoals: Past dit op een schoolbank? Hoe ziet het schoolmeubilair uit? Verplaatsen de kinderen vaak van klaslokaal naar klaslokaal? Heeft de leerkracht steeds toegang tot hun gsm/ laptop? …?
 
 ### Materiaal & methoden
 1.	Literatuuronderzoek
@@ -77,13 +77,13 @@ Om te bepalen welke aanpak het beste werkt, werden verschillende benchmarks gean
 
 5.	A day in the life
 
-Om de schoolomgeving grondig te onderzoeken volgden we een dag mee met een auti-klasje van het tweede middelbaar. Er werd vooral gelet op hoe de klas is ingericht, hoe hun dag eruit ziet, hoe de leerlingen zich gedragen in de les, wat de aanpassingen zijn in een auti-klasje, … . Dit biedt meer inzicht in de context waarin het product uiteindelijk zal worden gebruikt.
+Om de schoolomgeving grondig te onderzoeken volgden we een dag mee met een auti-klasje van het tweede middelbaar. Er werd vooral gelet op hoe de klas is ingericht, hoe hun dag eruit ziet, hoe de leerlingen zich gedragen in de les, wat de aanpassingen zijn in een auti-klasje, … . Dit biedt meer inzicht in de context waarin het product zal worden gebruikt.
 
 ### Resultaten
  
  <ins> 1.	Literatuuronderzoek </ins> 
 
-Uit het onderzoek blijkt dat de kenmerken en intensiteit van ASS variëren per individu, omdat het een spectrumstoornis is. Kinderen met ASS hebben vaak moeite met non-verbale en verbale communicatie, wat sociale interacties bemoeilijkt en het vermogen om zich in te leven of gevoelens te interpreteren beperkt. Dit leidt vaak tot isolatie. Ze hebben ook slechtere emotionele regulatie dan typisch ontwikkelde kinderen, met minder effectieve strategieën om tot rust te komen tijdens stressvolle momenten. Prikkelverwerkingsproblemen zijn een kernsymptoom van ASS, waarbij overprikkeling somberheid en angst kan veroorzaken. Externe prikkels krijgen vaak voorrang boven sociale signalen, wat problemen oplevert met centrale coherentie. Ook hebben ze moeite met vaardigheden die essentieel zijn voor taalontwikkeling, zoals joint attention, social referencing, imitatie en doen-alsof spel.
+Uit het onderzoek blijkt dat de kenmerken en intensiteit van ASS variëren per individu, omdat het een spectrumstoornis is. Kinderen met ASS hebben vaak moeite met non-verbale en verbale communicatie, wat sociale interacties bemoeilijkt en het vermogen om zich in te leven of gevoelens te interpreteren beperkt. Dit leidt vaak tot isolatie. Ze hebben ook slechtere emotionele regulatie dan typisch ontwikkelde kinderen, met minder effectieve strategieën om tot rust te komen tijdens stressvolle momenten. Prikkelverwerkingsproblemen zijn een kernsymptoom van ASS, waarbij overprikkeling somberheid of angst kan veroorzaken. Externe prikkels krijgen vaak voorrang boven sociale signalen, wat problemen oplevert met centrale coherentie. Ook hebben ze moeite met vaardigheden die essentieel zijn voor taalontwikkeling, zoals joint attention, social referencing, imitatie en doen-alsof spel.
 Enkele aspecten die de communicatie en sociale interacties en het leerproces vlotter doen verlopen voor kinderen met ASS zijn: 
 
   -	PECS
@@ -248,7 +248,7 @@ De conclusies van wave 3 hebben we nog niet genomen, dit aangezien we nog te wei
 
 
 ## Kritische reflectie
-Tijdens ons lopend project hebben we ervaren hoe essentieel het is om een grondige voorkennis en diepgaand inzicht te hebben in ASS (autismespectrumstoornis) om een product te ontwerpen dat aansluit bij de specifieke noden van deze doelgroep. De complexiteit van ASS als spectrumstoornis maakt het echter uitdagend om een universele oplossing te bieden. Elk individu met ASS is uniek, en waar sommige kinderen moeite hebben met het uiten van hun gevoelens, ervaren anderen die drempel veel minder. Dit werd duidelijk tijdens onze gebruikerstests, waarin de diversiteit van ervaringen en behoeften naar voren kwam. 
+Tijdens ons lopende project hebben we ervaren hoe essentieel het is om een grondige voorkennis en diepgaand inzicht te hebben in ASS (autismespectrumstoornis) om een product te ontwerpen dat aansluit bij de specifieke noden van deze doelgroep. De complexiteit van ASS als spectrumstoornis maakt het echter uitdagend om een universele oplossing te bieden. Elk individu met ASS is uniek, en waar sommige kinderen moeite hebben met het uiten van hun gevoelens, ervaren anderen die drempel veel minder. Dit werd duidelijk tijdens onze gebruikerstests, waarin de diversiteit van ervaringen en behoeften naar voren kwam. 
 
 Een belangrijk aspect van ons product is de ontwikkeling van een ondersteunende app. Om de interface-indeling te testen, hebben we in onze derde wave gekozen voor een enquête, aangezien deze fase zich dicht bij de kerstvakantie bevond. Met een enquête konden we efficiënt en snel feedback verzamelen zonder fysieke afspraken te maken met leerkrachten, wat moeilijk te organiseren was in deze periode. Helaas bleef de respons onder onze verwachtingen, waardoor we nog wachten met het opstellen van een volledig verslag. Dit gebrek aan data is jammer, omdat het ons verhindert om conclusies te trekken en verdere stappen te nemen. 
 
