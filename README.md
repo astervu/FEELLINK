@@ -43,7 +43,7 @@ De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde con
 ### Doestellingen
 In de discoveryfase onderzoeken we de onderzoeksvraag: Hoe kan de leer- en schoolervaring voor kinderen met autisme aangenamer gemaakt worden? Voordat we deze vraag kunnen beantwoorden moeten we volgende stappen doorlopen:
 
-  1.	Onderzoek naar de doelgroep
+  <ins>1.	Onderzoek naar de doelgroep</ins>
 
 Hier gingen we vooral opzoek naar wat het betekent om ASS te hebben, met een specifieke focus op kinderen. Hierdoor krijgen we meer inzicht in hun behoeften en uitdagingen.
 
