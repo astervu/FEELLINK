@@ -69,8 +69,7 @@ Tijdens het onderzoek naar de doelgroep werd voornamelijk gebruik gemaakt van on
 Voor de analyse van bestaande producten/ hulpmiddelen werden 4 bronnen geraadpleegd. De focus lag daarbij op de vraag: Hoe kan ik de communicatie en sociale interacties vlotter doen verlopen
 voor kinderen met autisme?
 
-2.	Interviews 
-
+2.	Interviews (N = 6)
 Er werden twee kinderen met ASS geïnterviewd om hun ervaringen en gevoelens in een klasomgeving beter te begrijpen. Daarnaast werd ook een leerkracht geïnterviewd die lesgeeft aan kinderen met ASS in het type 9 onderwijs, om het probleem vanuit een ander perspectief te bekijken. Ook werden twee auti-coaches en één therapeut geïnterviewd, waarbij de focus lag op het achterhalen waarom kinderen met ASS mindere emotieherkenning en emotiedeling ervaren. De vragen richtten zich verder op communicatie-uitdagingen, overprikkeling en de mogelijkheden die er op school zijn. 
 
 3.	Benchmarking 
@@ -175,7 +174,7 @@ WAVE 3: Het doel van de derde wave is om te definiëren hoe we de interface van 
 
 ### Resultaten
 
-<ins> WAVE 1 </ins>
+<ins> WAVE 1 (N = 4) </ins>
 
 Op basis van benchmarks zijn er verschillende oplossingen geprototyped om emoties aan te duiden. Namelijk de emotieradar, emotiedraaiknop, emotiedraairad, emotieschuifknop en emotieknoppen. Aan de hand van verschillende verhalen waarin het kind zich moest inleven, moest het kind aanduiden op deze verschillende prototypes hoe de persoon in het verhaal zich voelde. Hierbij keken we hoe gemakkelijk dat het kind de emoties kon aanduiden en stelden hun ook enkele vragen omtrent de gebruikservaring en hun mening over wat ze het beste vonden en waarom ze dit vonden.
 
@@ -188,7 +187,7 @@ Daarna kreeg het kind een blaadje met emoticons van de verschillende gebruikte e
 
 
 
-<ins> WAVE 2 </ins>
+<ins> WAVE 2 (N = 10)(</ins>
 
 In wave 1 hebben we bepaalde ontwerpen voor het aanduiden van emoties kunnen elimineren waardoor we nu iets gerichter konden tewerk gaan. We gaan op dezelfde manier te werk, maar nu op een andere school, als in wave 1 maar deze keer maken we het uitdagender om een specifieke emotie te identificeren door de scenario’s complexer en gedetailleerder te maken. Op deze manier kunnen we elk prototype grondig testen en de grenzen van hun effectiviteit evalueren. 
 
@@ -208,7 +207,7 @@ Omdat personen met ASS makkelijker overprikkeld geraken is het sensorische aspec
 ![image](https://github.com/user-attachments/assets/62e1a5e1-e5e3-49d8-a01a-c94ca666fa27)
 
 
-<ins> WAVE 3 </ins>
+<ins> WAVE 3 (N = 4+) </ins>
 
 Bij deze wave zijn we ons gaan focussen op het deel van het concept dat betrekking heeft op gebruik door de leerkracht. Namelijk de interface van de tool die door de leerkracht kan worden gebruikt. Hierbij hebben we een enquête opgesteld. Om de app intuïtief te maken voor de leerkracht, vragen we ook welke apps zij vaak gebruiken in een schoolse context. Hierdoor kunnen we bepaalde lay-outs, symbolen en kleurencombinaties overwegen om te gebruiken in de finale interface.
 
