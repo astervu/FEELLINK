@@ -315,7 +315,7 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 | D1.7 | Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board. | Definition wave 2 | 13/12/2024 |
 | **D2**  | **Emoties aanduiden** |  |  |
 | D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
-| D2.2 | Het aanduiden van emoties moet anoniem kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
+| D2.2 | Het aanduiden van emoties moet onopvallend kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
 | D2.3 | Bij het aanduiden van emoties moeten gezichtsuitdrukkingen gebruikt worden. | Discovery | 30/10/2024 |
 | D2.4 | Je moet meerdere verschillende emoties tegelijk kunnen aanduiden. | Definition wave 2 | 13/12/2024 |
 | D2.5 | De emoties moeten zo simpel mogelijk gehouden worden. | Definition wave 2 | 13/12/2024 |
