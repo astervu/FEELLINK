@@ -219,7 +219,7 @@ Daarnaast vroegen we ook opnieuw om de emoticons in te kleuren zodat we een grot
 
 ![image](https://github.com/user-attachments/assets/8f40c1d7-1947-44aa-b35c-94b4184d268f)
 
-Ook is er gekeken naar toevoeging van vragen-hulpfunctie: ‘ik wil mijn hand opsteken’ en ‘ik heb hulp nodig’. We hebben verschillende prototypes ontwikkeld die verschillende manieren voorstellen om deze functies aan te geven. Tijdens de test vragen we de leerlingen om de prototypes uit te proberen en beantwoorden ze enkele vragen om hun ervaringen en voorkeuren beter te begrijpen.
+Ook is er gekeken naar toevoeging van vraag en hulpfunctie: ‘ik wil mijn hand opsteken’ en ‘ik heb hulp nodig’. We hebben verschillende prototypes ontwikkeld die verschillende manieren voorstellen om deze functies aan te geven. Tijdens de test vragen we de leerlingen om de prototypes uit te proberen en beantwoorden ze enkele vragen om hun ervaringen en voorkeuren beter te begrijpen.
 
 ![image](https://github.com/user-attachments/assets/bb8ab95f-2f95-4c00-ac87-df4a6af2092b)
 
@@ -249,7 +249,15 @@ Uit wave 1 concluderen we dat de emotiedraaiknop en het emotiedraairad niet gesc
 
 Daarnaast zagen we dat het gebruik van kleur het gebruiksgemak weinig beïnvloed, we hebben wel gekozen om verder te gaan op het gebruik van kleur omdat dit het gebruik iets aangenamer kan maken. Omdat er nog geen duidelijke verbanden gevonden waren in de kleuren besloten we de testpool te vergroten en dit ook in wave 2 te doen.
 
+
+> [!IMPORTANT]
+> Design requirements:
+> - D1.5: Er moet een draaiend fidgeting element aanwezig zijn.
+
+
 In wave 2 hebben we voor het emotieaanduidsysteem gekozen voor het drukknoppensysteem. Ook al was dit niet het populairst hebben we toch besloten om deze te nemen. Dit omdat we merkten dat de nood om verschillende emoties aan te duiden groot was. Op de emotieradar en emotieslider kon je wel verschillende emoties aanduiden maar werd je steeds beperkt doordat je enkel combinaties kon maken van emoties die naast elkaar lagen georiënteerd op het product. Bij het gekozen drukknopsysteem zouden we wel een bevestigingsknop toevoegen, zo kunnen de leerlingen meerdere emoties aanduiden en dan bevestigen. Dit zorgt ook voor een extra staps verificatie waardoor de angst om fouten te maken kleiner zal zijn voor de leerling.
+
+Voor de vraag en hulpfunctie hebben we besloten om te werken met knoppen. Dit aangezien deze ze een schuifknop niet zo duidelijk vonden. Omdat het verschil tussen de twee functies (‘ik wil mijn hand opsteken’ en ‘ik heb hulp nodig’) vaak als niet zo duidelijk werd ervaren is er nu ook gekozen om één knop te voorzien voor beide functies. Deze knop heeft een vraagteken aangezien de leerlingen het handje van ‘hand in de lucht steken’ associeerden met STOP.
 
 Bij de kleurassociaties hebben we besloten de 7 emoties te versimpelen en naar 6 emoties aangezien we merkten dat de kinderen het verschil niet wisten tussen de 2 ernsten van verdriet, en ook willen we het symbool van gefrustreerd aanpassen aangezien deze vaak voor verwarring zorgde.
 
@@ -258,6 +266,19 @@ Uit de kleurassociaties zijn volgende verbanden gekomen: verdriet = blauw, blij 
 ![image](https://github.com/user-attachments/assets/fbd15cd2-9d34-4aac-a533-76b59f53e8d1)
 
 Uit de gebruikerstesten met het touch and feel board zijn we tot de conclusie gekomen dat we gaan gebruikmaken van het materiaal waaruit de dogbone is gemaakt, namelijk thermoplastische rubber. Ook al was de topfavoriet de middelste textuurmat. Dit aangezien de reden voor het kiezen van de middelste textuurmat vaak was dat het lichtjes indruk baar was zoals computertoetsen dachten we dat dit beter zou zijn als fidgeting element op het eindconcept.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D1.6: Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber.
+> - D1.7: Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board.
+> - D2.4: Je moet meerdere verschillende emoties tegelijk kunnen aanduiden.
+> - D2.5: De emoties moeten zo simpel mogelijk gehouden worden.
+> - D2.6: De emoties moeten aangeduid kunnen worden aan de hand van verschillende knoppen.
+> - D2.7: Er moet een bevestigingsknop zijn om de error proofness te vergroten.
+> - D2.8: Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen.
+> - D2.9: De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin.
+
+
 
 De conclusies van wave 3 hebben we nog niet genomen, dit aangezien we nog te weinig testpersonen de enquête hebben kunnen laten invullen. De reden hiervoor is waarschijnlijk omdat de kerstvakantie viel op het moment dat we wave 3 wouden uitvoeren. Daarmee hebben we besloten om de conclusies van wave 3 .
 
