@@ -39,9 +39,22 @@ De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde con
 
 
 ## Discovery
-Max. 1000 woorden
+
 ### Doestellingen
-Wat wilde je bereiken?
+In de discoveryfase onderzoeken we de onderzoeksvraag: Hoe kan de leer- en schoolervaring voor kinderen met autisme aangenamer gemaakt worden? Voordat we deze vraag kunnen beantwoorden moeten we volgende stappen doorlopen:
+
+1.	Onderzoek naar de doelgroep
+Hier gingen we vooral opzoek naar wat het betekent om ASS te hebben, met een specifieke focus op kinderen. Hierdoor krijgen we meer inzicht in hun behoeften en uitdagingen.
+
+2.	Probleemidentificatie en analyse
+We onderzoeken waar kinderen met ASS de meeste moeite mee hebben in een klasomgeving. Welke activiteiten op school leveren het meeste problemen op en wat heeft dit als gevolg op hun resultaten en schoolervaring? Zijn de kinderen bewust van hun eigen emotie en in welke mate kunnen ze die reguleren of communiceren?
+
+3.	Analyse van bestaande producten/hulpmiddelen
+We bekijken kritisch welke hulpmiddelen er momenteel beschikbaar zijn voor kinderen met ASS. Hoe helpen deze producten hen? Wat zijn de beperkingen, welke verbeterpunten zien we? Welke elementen zijn interessant om te integreren in ons eigen product?
+
+4.	Onderzoek naar de schoolomgeving
+Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om die grondig te verkennen. We analyseren fysieke beperkingen en praktische aspecten zoals: Past dit op een schoolbank? Hoe ziet het schoolmeubilair uit? Verplaatsen de kinderen vaak van klaslokaal? Heeft de leerkracht steeds toegang tot hun gsm/ laptop? …?
+
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
