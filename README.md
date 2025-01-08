@@ -329,7 +329,7 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 
 ## Bijlagen
 
-Discovery
+**Discovery**
 -	Protocol
     - [Interview](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B)
     - [Literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EfF0zFRiwRNHqrxJJkOKhiQBagrojCyjMdQhFmKGb2fW6Q?e=okToM9)
@@ -341,7 +341,7 @@ Discovery
     - [Benchmarking](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbA8KuhzujxHg4QFj2ktJZ8BLwU4Pm_4NY6t16D52hl6nQ?e=GgvRSL)
     - [Expertinterview](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EYsLfmsywaFLqIKh9--rWfQBYwKdGqoVnoFl01wBaEcTjg?e=rtP1iI)
 
-Definition
+**Definition**
 -	Protocol
     - [Wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EQzFRJSVKgVHvhpB29MW8mwBDQ7O6rRJMIT918KuWzWjxw?e=yyACES)
     - [Wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcqheMuVSRhEkQV2BDz-iyMB4MqHqlQu4m8pRMHQAFeDyg?e=SqZwcs)
@@ -350,7 +350,9 @@ Definition
     - [Wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbCdK86V4D5EqtiuHMK7OPQBUEJYx8QuLB-m6AszW0D-Ug?e=rcH842)
     - [Wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EST_ebFZIlpGhgP4mV9fN6AB26-MVDRm-yiT8R5wLcJ2rw?e=DTHNoA)
 
-Storyboard
+
+**Storyboard**
+
 ![storyboard](https://github.com/user-attachments/assets/0fa13b35-bcf6-4280-995f-1649b2283089)
 
       
