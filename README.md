@@ -268,22 +268,22 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 Discovery
 -	Protocol
-    - Interview: ([Interview protocol]([https://www.scribbr.nl/category/apa-stijl/](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B ))
-    - Literatuuronderzoek: literatuuronderzoek protocol.docx
-    - Benchmarking: Benchmarking protocol.docx
-    - Expertinterview: interview - protocol.docx
+    - [Interview](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B)
+    - [Literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EfF0zFRiwRNHqrxJJkOKhiQBagrojCyjMdQhFmKGb2fW6Q?e=okToM9)
+    - [Benchmarking](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ESQnX2wANUtFrpu7xw_naMIBqzeu5zEyD0b7LqGH7DogWw?e=TmpJwr)
+    - [Expertinterview](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcCIeTubRUtGtPKPhhBLgdMBBp3u9nu4HagC_Zvy1GGE9w?e=BfA08g)
 -	Report 
-    - Interview, day in the life: Report interview,day in the life.docx
-    - Literatuuronderzoek: Report literatuuronderzoek.docx
-    - Benchmarking: Benchmarking.docx
-    - Expertinterview: Analyse interviews.docx
+    - [Interview, day in the life](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbXXsjpG5ydBoG-LV-Z2z7UBRn0qrCNRL4vNs0sjmX7OHA?e=7OfCOr)
+    - [Literatuuronderzoek](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ETPTrznzu9hBhJNWGq1PPxUBbNnAE-lKLgXP25Z5kOwpXw?e=CP9l3R)
+    - [Benchmarking](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbA8KuhzujxHg4QFj2ktJZ8BLwU4Pm_4NY6t16D52hl6nQ?e=GgvRSL)
+    - [Expertinterview](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EYsLfmsywaFLqIKh9--rWfQBYwKdGqoVnoFl01wBaEcTjg?e=rtP1iI)
 
 Definition
 -	Protocol
-    - Wave 1: WAVE 1 PROTOCOL.docx
-    - Wave 2: WAVE 2 PROTOCOL.docx
-    - Wave 3: WAVE 3 PROTOCOL.docx
+    - [Wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EQzFRJSVKgVHvhpB29MW8mwBDQ7O6rRJMIT918KuWzWjxw?e=yyACES)
+    - [Wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcqheMuVSRhEkQV2BDz-iyMB4MqHqlQu4m8pRMHQAFeDyg?e=SqZwcs)
+    - [Wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EYNmwyldCFJKidc277lI98UB3p2W4cRhaNx9lIBYMmKWng?e=Cy1Om8)
 -	Report
-    - Wave 1: report wave 1.docx
-    - Wave 2: WAVE 2 REPORT.docx
+    - [Wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbCdK86V4D5EqtiuHMK7OPQBUEJYx8QuLB-m6AszW0D-Ug?e=rcH842)
+    - [Wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EST_ebFZIlpGhgP4mV9fN6AB26-MVDRm-yiT8R5wLcJ2rw?e=DTHNoA)
 
