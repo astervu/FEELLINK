@@ -188,7 +188,7 @@ Daarna kreeg het kind een blaadje met emoticons van de verschillende gebruikte e
 
 
 
-<ins> WAVE 2 (N = 10)(</ins>
+<ins> WAVE 2 (N = 10)</ins>
 
 In wave 1 hebben we bepaalde ontwerpen voor het aanduiden van emoties kunnen elimineren waardoor we nu iets gerichter konden tewerk gaan. We gaan op dezelfde manier te werk, maar nu op een andere school, als in wave 1 maar deze keer maken we het uitdagender om een specifieke emotie te identificeren door de scenario’s complexer en gedetailleerder te maken. Op deze manier kunnen we elk prototype grondig testen en de grenzen van hun effectiviteit evalueren. 
 
