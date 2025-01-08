@@ -116,6 +116,13 @@ Enkele vereisten die de respondenten me meegaven:
 -	Het doel van het product moet duidelijk zijn, anders wordt het niet gebruikt.
 -	Er moet ruimte zijn voor fouten, aangezien kinderen met ASS impulsief zijn.
 -	Het product mag geen geluid maken, om de les niet te verstoren.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D1.1: Het product moet stevig zijn zodat leerlingen het niet makkelijk uit elkaar kunnen halen.
+> - D1.2: Het gebruiksdoel moet duidelijk aangegeven zijn.
+> - D1.3: Er moet ruimte zijn voor fouten.
+> - D1.4: Het product mag heel weinig tot liefst geen geluid maken.
  
 De coaches en therapeut lieten ons weten dat kinderen met ASS vaak niet begrijpen dat anderen hun gevoelens niet automatisch kunnen zien, omdat ze zelf denken dat lichaamstaal genoeg zegt. Dit maakt het moeilijk om sociaal gepast te reageren, vooral wanneer ze emoties verkeerd interpreteren of moeite hebben met het communiceren van hun behoeften. 
 
@@ -132,11 +139,19 @@ Veel bestaande oplossingen gebruiken gezichtsuitdrukkingen om kinderen te helpen
 
 De meeste bestaande producten houden geen rekening met de confrontatie met medeleerlingen, terwijl dit juist een probleem is voor de kinderen.
 
+> [!IMPORTANT]
+> Design requirements:
+> - D2.1: Bij het aanduiden van emoties moeten kleuren gebruikt worden.
+> - D2.2: Het aanduiden van emoties moet anoniem kunnen gebeuren ten opzichte van de medeleerlingen.
 
 
 <ins> 4.	A day in the life </ins>
 
 Er werd gelet op de fysieke beperkingen van de klas, die meestal klein is en bestaat uit maximaal 6 leerlingen. De tafels en stoelen zijn vaak neutraal beige van kleur, en veel objecten in de klas hebben een kubusvorm. Ook werden praktische aspecten onderzocht: de leerkracht heeft altijd toegang tot een gsm of laptop (de laptop van de leerkracht is echter doorgaans verbonden met het digibord, wat voor moeilijkheden zorgt bij het werken met een app op de laptop). De leerlingen blijven meestal in hetzelfde lokaal.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D3.1: De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer.
 
 
 ### Conclusies & implicaties
@@ -152,6 +167,11 @@ Design implicaties
 -	Visuele hulpmiddelen zoals pictogrammen, gezichtsuitdrukkingen en kleurencodes die emoties herkenbaar maakt.
 -	Om de emotionele regulatie en focus te optimaliseren kunnen fidgets een behulpzame maar secundaire tool in het ontwerp zijn.
 -	Een applicatie voor de leerkracht die overzicht biedt over de gevoelens van alle leerlingen zodat ze kunnen inspringen op de emotionele behoeften van het kind.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D2.3: Bij het aanduiden van emoties moeten gezichtsuitdrukkingen gebruikt worden.
+
 
 ## Definition
 In de definition fase is er gedefinieerd wat de oplossingen zijn die we kunnen gebruiken voor het gevonden probleem. Hierbij hebben we het oog gelegd op de gebruiker en zijn nood, zonder assumpties te maken over deze gebruiker. Dit is gebeurd aan de hand van 3 prototyping/design waves die elk focusten op bepaalde aspecten van het ontwerp concept.
