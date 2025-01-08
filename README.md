@@ -232,7 +232,7 @@ Daarnaast zagen we dat het gebruik van kleur het gebruiksgemak weinig beïnvloed
 
 In wave 2 hebben we voor het emotieaanduidsysteem gekozen voor het drukknoppensysteem. Ook al was dit niet het populairst hebben we toch besloten om deze te nemen. Dit omdat we merkten dat de nood om verschillende emoties aan te duiden groot was. Op de emotieradar en emotieslider kon je wel verschillende emoties aanduiden maar werd je steeds beperkt doordat je enkel combinaties kon maken van emoties die naast elkaar lagen georiënteerd op het product. Bij het gekozen drukknopsysteem zouden we wel een bevestigingsknop toevoegen, zo kunnen de leerlingen meerdere emoties aanduiden en dan bevestigen. Dit zorgt ook voor een extra staps verificatie waardoor de angst om fouten te maken kleiner zal zijn voor de leerling.
 
-Ook hebben we besloten de 7 emoties te versimpelen en naar 6 emoties aangezien we merkten dat de kinderen het verschil niet wisten tussen de 2 ernsten van verdriet, en ook willen we het symbool van gefrustreerd aanpassen aangezien deze vaak voor verwarring zorgde.
+Bij de kleurassociaties hebben we besloten de 7 emoties te versimpelen en naar 6 emoties aangezien we merkten dat de kinderen het verschil niet wisten tussen de 2 ernsten van verdriet, en ook willen we het symbool van gefrustreerd aanpassen aangezien deze vaak voor verwarring zorgde.
 
 Uit de kleurassociaties zijn volgende verbanden gekomen: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin.
 
