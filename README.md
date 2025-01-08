@@ -265,3 +265,25 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+Discovery
+-	Protocol
+    - Interview: [Interview protocol]([https://www.scribbr.nl/category/apa-stijl/](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ERDiAZO5nPxBjzCxDWfCPgABJusLvoNUR7Z7kE3nOPYccg?e=8Rjc6V&wdLOR=cCE6093B1-FD30-4D7F-ACF2-1B35F67FA24B ))
+    - Literatuuronderzoek: literatuuronderzoek protocol.docx
+    - Benchmarking: Benchmarking protocol.docx
+    - Expertinterview: interview - protocol.docx
+-	Report 
+    - Interview, day in the life: Report interview,day in the life.docx
+    - Literatuuronderzoek: Report literatuuronderzoek.docx
+    - Benchmarking: Benchmarking.docx
+    - Expertinterview: Analyse interviews.docx
+
+Definition
+-	Protocol
+    - Wave 1: WAVE 1 PROTOCOL.docx
+    - Wave 2: WAVE 2 PROTOCOL.docx
+    - Wave 3: WAVE 3 PROTOCOL.docx
+-	Report
+    - Wave 1: report wave 1.docx
+    - Wave 2: WAVE 2 REPORT.docx
+
