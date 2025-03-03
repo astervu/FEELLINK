@@ -229,7 +229,7 @@ Omdat personen met ASS makkelijker overprikkeld geraken is het sensorische aspec
 ![image](https://github.com/user-attachments/assets/62e1a5e1-e5e3-49d8-a01a-c94ca666fa27)
 
 
-<ins> WAVE 3 (N = 4+) </ins>
+<ins> WAVE 3 (N = 6) </ins>
 
 Bij deze wave zijn we ons gaan focussen op het deel van het concept dat betrekking heeft op gebruik door de leerkracht. Namelijk de interface van de tool die door de leerkracht kan worden gebruikt. Hierbij hebben we een enquête opgesteld. Om de app intuïtief te maken voor de leerkracht, vragen we ook welke apps zij vaak gebruiken in een schoolse context. Hierdoor kunnen we bepaalde lay-outs, symbolen en kleurencombinaties overwegen om te gebruiken in de finale interface.
 
@@ -281,8 +281,15 @@ Uit de gebruikerstesten met het touch and feel board zijn we tot de conclusie ge
 
 
 
-De conclusies van wave 3 hebben we nog niet genomen, dit aangezien we nog te weinig testpersonen de enquête hebben kunnen laten invullen. De reden hiervoor is waarschijnlijk omdat de kerstvakantie viel op het moment dat we wave 3 wouden uitvoeren. Daarmee hebben we besloten om de conclusies van wave 3 .
+De grote besluiten uit wave 3 hebben we nog niet genomen, dit aangezien nog net iets te weinig testpersonen de enquête hebben kunnen laten invullen. We zouden hier later nog eens op terug komen om het nog beter uit te werken en meer focus te leggen op het standpunt van de leerkracht zelf om het product vanuit hun kant ook te optimaliseren.
+Er zijn wel enkele suggesties verkregen en ook zijn er enkele zaken opgevallen die zeker nuttig kunnen zijn voor de volgende ontwerpfase. 
+Zo kan er bij de volgende ontwerpfase eens op de verschillende aangehaalde leerkrachtentools kijken om inspiratie te halen voor verschillende functies en handelingen.
+Daarnaast is bij het emotiescherm ook bevestigd dat werken met emoticons en kleuren ook vanuit het standpunt van de leerkrachten, die er dagelijks mee in contact komen, een goed idee lijkt. 
+Dit bleek namelijk uit de decision matrix die opgesteld werd waarbij we zagen dat de favorieten en commentaren steeds deze richting uitwezen.
 
+![image](https://github.com/user-attachments/assets/6369d812-4ed1-4b74-9d66-4b1c98cfcfff)
+
+Verdere analyse is te vinden in het report hiervan ([report wave 3]([url](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ETFXeHp6ypxMi6rCLQbqeeABHassiN-m-b7oYoHdmw8uig?e=NPAfzA)))
 
 ## Bill of materials
 - thermoplastische rubber
@@ -353,6 +360,7 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 -	Report
     - [Wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbCdK86V4D5EqtiuHMK7OPQBUEJYx8QuLB-m6AszW0D-Ug?e=rcH842)
     - [Wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EST_ebFZIlpGhgP4mV9fN6AB26-MVDRm-yiT8R5wLcJ2rw?e=DTHNoA)
+    - [Wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ETFXeHp6ypxMi6rCLQbqeeABHassiN-m-b7oYoHdmw8uig?e=NPAfzA) 
 
 
 **Storyboard**
