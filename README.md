@@ -34,6 +34,8 @@ In de exploratiefase zijn we eerst een vooral begonnen met onderzoek naar de geb
 
 In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
 
+Hierna is er over gegaan naar de developfase. In deze fase is er in de eerste wave begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface.
+
 Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept. 
 
 De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
@@ -290,6 +292,23 @@ Dit bleek namelijk uit de decision matrix die opgesteld werd waarbij we zagen da
 ![image](https://github.com/user-attachments/assets/6369d812-4ed1-4b74-9d66-4b1c98cfcfff)
 
 Verdere analyse is te vinden in het report hiervan ([report wave 3]([url](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ETFXeHp6ypxMi6rCLQbqeeABHassiN-m-b7oYoHdmw8uig?e=NPAfzA)))
+
+
+## Develop
+### Doelstellingen
+<ins> DEVELOP 1 </ins>
+De eerste develop fase willen we bepalen hoe en waar we het product kunnen integreren in het klasbeeld. Daarnaast zou er ook onderzocht en getest worden hoe het product zo ergonomisch mogelijk kan gemaakt worden.
+
+
+### Materiaal & methoden 
+- Antropometrische data
+- Gelasercutte kubussen
+- Interfaces met magnetisch verwisselbare knoppen
+- A/B testing
+
+
+### Resultaten
+
 
 ## Bill of materials
 - thermoplastische rubber
