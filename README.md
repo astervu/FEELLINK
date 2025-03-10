@@ -296,7 +296,9 @@ Verdere analyse is te vinden in het report hiervan ([report wave 3]([url](https:
 
 ## Develop
 ### Doelstellingen
+
 <ins> DEVELOP 1 </ins>
+
 De eerste develop fase willen we bepalen hoe en waar we het product kunnen integreren in het klasbeeld. Daarnaast zou er ook onderzocht en getest worden hoe het product zo ergonomisch mogelijk kan gemaakt worden.
 
 
