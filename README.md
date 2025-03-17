@@ -189,8 +189,8 @@ WAVE 2: In de tweede wave zouden we voortbouwen op de eerste wave, hierin zouden
 WAVE 3: Het doel van de derde wave is om te definiëren hoe we de interface van de leerkracht optimaal kunnen ontwerpen.
 
 ### Materiaal & methoden
--	Touch and feel board
--	Quick and dirty prototypen
+-	touch and feel board
+-	quick and dirty prototypen
 -	digitaal ontworpen interfaces
 -	gebruikersinterviews
 -	gebruikerstesten
@@ -299,7 +299,12 @@ Verdere analyse is te vinden in het report hiervan ([report wave 3]([url](https:
 
 <ins> DEVELOP 1 </ins>
 
-De eerste develop fase willen we bepalen hoe en waar we het product kunnen integreren in het klasbeeld. Daarnaast zou er ook onderzocht en getest worden hoe het product zo ergonomisch mogelijk kan gemaakt worden.
+In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
+1.	Hoe wordt het product in de klas geïntegreerd?
+2.	Hoe kunnen we ons product zo ergonomisch mogelijk maken?
+3.	Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?
+4.	Welke soorten fidgets kunnen we integreren in de tool?
+
 
 
 ### Materiaal & methoden 
