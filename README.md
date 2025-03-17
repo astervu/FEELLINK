@@ -342,12 +342,12 @@ De succescriteria voor de gewogen beslissingsmatrix is de volgende:
 6.	childproof (gewicht = 3)
 7.	kinderen vinden het een handig systeem (sticky dot voting) (gewicht = 5)
 
-![1](https://github.com/user-attachments/assets/82321730-73ae-467f-b200-afb98a09ea20)
-![2](https://github.com/user-attachments/assets/3c837801-9c69-4012-a3d6-126e33e2ab58)
-![3](https://github.com/user-attachments/assets/35b4dbff-260a-4947-9231-851e9090738b)
-![4](https://github.com/user-attachments/assets/840c5432-a1ed-411c-b02f-0b1590df6c27)
-![5](https://github.com/user-attachments/assets/3184eaaa-da1a-413a-a3b9-fc4881a3a44a)
-![6](https://github.com/user-attachments/assets/d9b65687-5ea9-4799-ac95-b6c3a29b2524)
+a. ![1](https://github.com/user-attachments/assets/82321730-73ae-467f-b200-afb98a09ea20)
+b. ![2](https://github.com/user-attachments/assets/3c837801-9c69-4012-a3d6-126e33e2ab58)
+c. ![3](https://github.com/user-attachments/assets/35b4dbff-260a-4947-9231-851e9090738b)
+d. ![4](https://github.com/user-attachments/assets/840c5432-a1ed-411c-b02f-0b1590df6c27)
+e. ![5](https://github.com/user-attachments/assets/3184eaaa-da1a-413a-a3b9-fc4881a3a44a)
+f. ![6](https://github.com/user-attachments/assets/d9b65687-5ea9-4799-ac95-b6c3a29b2524)
 
 
 <ins> Onderzoeksvraag 4: Welke soorten fidgets kunnen we integreren in de tool?  </ins>
@@ -381,7 +381,7 @@ Uit observatie en feedback bleek dat knoppen van 20 mm diameter het meest gepref
 > D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
 
 
-Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar voren als favorieten uit de keuzematrix met succescriteria, waarbij de mentale modellen van de kinderen aantonen dat deze concepten het beste aansluiten bij wat wij voor ogen hadden, namelijk een lade en een aan-/uitknop van elektronica. De lade roept associaties op met een bureau, terwijl de link met een elektrisch apparaat ervoor zorgt dat de tool minder snel mishandeld wordt, en deze twee concepten nemen we mee naar de volgende testfase om verder te onderzoeken welke de beste optie is.
+Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar voren als favorieten uit de keuzematrix met succescriteria, waarbij de mentale modellen van de kinderen aantonen dat deze concepten het beste aansluiten bij wat wij voor ogen hadden, namelijk een lade en een aan-/uitknop van elektronica. De lade roept associaties op met een bureau, terwijl de link met een elektrisch apparaat ervoor zorgt dat de tool minder snel mishandeld wordt (er mee gooien, stuk maken), en deze twee concepten nemen we mee naar de volgende testfase om verder te onderzoeken welke de beste optie is.
 
 
 ## Bill of materials
