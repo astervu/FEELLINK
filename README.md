@@ -315,7 +315,17 @@ In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 
 
 ### Resultaten
+<ins> Onderzoeksvraag 1: Hoe wordt het product in de klas geïntegreerd? </ins>
+Om de optimale plaatsing van de fidget in de klas te bepalen, beperken we ons tot de persoonlijke bank en stoel van elke leerling, zodat de fidget altijd beschikbaar is. We testen verschillende locaties, zoals de hoek van de bank, onderaan de stoel, aan de zijkant van de bank/stoel,... . Leerlingen proberen een prototype op een van deze plaatsen te grijpen, waarna we observeren hoe vlot en onopvallend dit gebeurt. Vervolgens kiezen ze hun twee voorkeurslocaties en lichten ze hun keuze toe. Tot slot voeren we A/B-testing uit om de beste optie te bepalen op basis van de voor- en nadelen van beide voorkeursplaatsen.
 
+<ins> Onderzoeksvraag 2: Hoe kunnen me ons product zo ergonomisch mogelijk maken? </ins>
+Om de ergonomie van het product te optimaliseren, focussen we op twee aspecten: de grootte van de kubus en de knoppen. We passen “design for the mean” toe en baseren ons op antropometrische data van 13-jarige kinderen. Voor de kubusbreedte gebruiken we de gemiddelde handbreedte (79 mm) als referentie en testen dit met vijf kubussen (60, 70, 79, 90 en 100 mm). Leerlingen krijgen deze in willekeurige volgorde en simuleren gebruik via situatieschetsen. Ze geven vervolgens hun voorkeur en motivatie aan.
+
+Voor de knoppen testen we drie diameters (10, 15 en 20 mm), omdat er geen geschikte antropometrische data beschikbaar was. Via A/B-testing vergelijken leerlingen twee interfaces en benoemen de voor- en nadelen. Om de test interactiever en leuker te maken, laten we hen in de rol van ontwerper stappen. Ze creëren zelf een interface met verschillende knopgroottes en ordeningen, waarna we hun keuzes en redeneringen bespreken.
+
+
+<ins> Onderzoeksvraag 3: Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?  </ins>
+Om het fidget- en communicatiegedeelte te scheiden, presenteren we verschillende conceptschetsen aan leerlingen. Elk concept wordt afzonderlijk getoond, waarbij we vragen stellen over hun interpretatie en associaties. Dit helpt ons inzicht te krijgen in hun mentale modellen en mogelijke metaforen. Vervolgens stemmen de leerlingen met sticky dot voting op hun favoriete concept. De verzamelde inzichten worden gecombineerd met een beslissingsmatrix om het ideale combineersysteem te bepalen.
 
 ## Bill of materials
 - thermoplastische rubber
