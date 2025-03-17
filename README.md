@@ -397,6 +397,15 @@ Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar v
 
 ![sticky dot](https://github.com/user-attachments/assets/eb4c0982-3dd8-4f50-8ef9-ee20e07d85da)
 
+> [!IMPORTANT]
+> Design requirements:
+> - D1.10: De fysieke interface moet lichtjes bevatten die aantonen dat de knoppen aanstaan en werken.
+
+Uit de antwoorden van het interview over fidgets blijkt dat de meest gebruikte fidgets op de school tangles en stressballen zijn. Beide fidgets liggen goed in de hand, kunnen met één hand gebruikt worden en bieden de mogelijkheid om druk uit te oefenen, wat bijdraagt aan kalmering. Deze druk stimuleert diepe drukstimulatie, die helpt bij zelfregulatie en prikkelverwerking in de hersenen. We besluiten verder onderzoek te doen naar deze bevindingen.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D1.11: De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken.
 
 ## Bill of materials
 - thermoplastische rubber
@@ -414,7 +423,7 @@ Daarnaast hebben we nog meer gebruikerstests nodig om ons product goed in contex
 
 Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om het overzicht te bewaren. Toch liep de planning niet altijd even soepel. Onze eerste wave kon pas laat plaatsvinden door beperkte beschikbaarheid van de school die ik eerder had bezocht. Hoewel de school uiteindelijk akkoord ging, mocht Aimé niet deelnemen aan deze wave omdat ik daar al een interview en observatiedag had gehad. Dit was een teleurstelling, omdat we de inzichten van beide teamleden hadden willen combineren voor een completere evaluatie. Met twee personen was het bovendien makkelijker geweest om de kinderen snel te testen, aangezien we onder tijdsdruk stonden door het lesrooster. 
 
- De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
+De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
 
 
@@ -431,6 +440,9 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 | D1.6 | Er moet een draaiend fidgeting element aanwezig zijn. | Definition wave 1 | 06/12/2024 |
 | D1.7 | Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber. | Definition wave 2 | 13/12/2024 |
 | D1.8 | Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board. | Definition wave 2 | 13/12/2024 |
+| D1.9 | De plaats van de tool in de klas is op de persoonlijke bank van de leerlingen. | Develop 1 | 12/3/2025 |
+| D1.10 | De fysieke interface moet lichtjes bevatten die aantonen dat de knoppen aanstaan en werken. | Develop 1 | 12/3/2025 |
+| D1.11 | De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken. | Develop 1 | 12/3/2025 |
 | **D2**  | **Emoties aanduiden** |  |  |
 | D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
 | D2.2 | Het aanduiden van emoties moet onopvallend kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
@@ -443,7 +455,12 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
 | **D3** | **App** |  |  |
 | D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
-
+| **D4** | **Ergonomie** |  |  |
+| D4.1 | De grootte van de tool (kubus) is 79 cm. | Develop 1 | 12/3/2025 |
+| D4.2 | De knoppen op de fysieke interface moeten een diameter hebben van 20 mm. | Develop 1 | 12/3/2025 |
+| D4.3 | De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben. | Develop 1 | 12/3/2025 |
+| D4.4 | De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan. | Develop 1 | 12/3/2025 |
+| D4.5 | De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen. | Develop 1 | 12/3/2025 |
 
 ## Bijlagen
 
