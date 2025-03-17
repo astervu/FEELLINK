@@ -324,6 +324,7 @@ Om de optimale plaatsing van de fidget in de klas te bepalen, beperken we ons to
 Om de ergonomie van het product te optimaliseren, focussen we op twee aspecten: de grootte van de kubus en de knoppen. We passen “design for the mean” toe en baseren ons op antropometrische data van 13-jarige kinderen. Voor de kubusbreedte gebruiken we de gemiddelde handbreedte (79 mm) als referentie en testen dit met vijf kubussen (60, 70, 79, 90 en 100 mm). Leerlingen krijgen deze in willekeurige volgorde en simuleren gebruik via situatieschetsen. Ze geven vervolgens hun voorkeur en motivatie aan.
 
 Voor de knoppen testen we drie diameters (10, 15 en 20 mm), omdat er geen geschikte antropometrische data beschikbaar was. Via A/B-testing vergelijken leerlingen twee interfaces en benoemen de voor- en nadelen. Om de test interactiever en leuker te maken, laten we hen in de rol van ontwerper stappen. Ze creëren zelf een interface met verschillende knopgroottes en ordeningen, waarna we hun keuzes en redeneringen bespreken.
+
 ![interface 1](https://github.com/user-attachments/assets/2aee5a03-4a1e-4d38-9b38-5db0cdcd9022)
 ![interface2](https://github.com/user-attachments/assets/913f1d27-8d05-4a9b-b7bb-2d3c516df7c7)
 
@@ -331,6 +332,7 @@ Voor de knoppen testen we drie diameters (10, 15 en 20 mm), omdat er geen geschi
 <ins> Onderzoeksvraag 3: Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?  </ins>
 
 Om het fidget- en communicatiegedeelte te scheiden, presenteren we verschillende conceptschetsen aan leerlingen. Elk concept wordt afzonderlijk getoond, waarbij we vragen stellen over hun interpretatie en associaties. Dit helpt ons inzicht te krijgen in hun mentale modellen en mogelijke metaforen. Vervolgens stemmen de leerlingen met sticky dot voting op hun favoriete concept. De verzamelde inzichten worden gecombineerd met een beslissingsmatrix om het ideale combineersysteem te bepalen.
+
 ![1](https://github.com/user-attachments/assets/82321730-73ae-467f-b200-afb98a09ea20)
 ![2](https://github.com/user-attachments/assets/3c837801-9c69-4012-a3d6-126e33e2ab58)
 ![3](https://github.com/user-attachments/assets/35b4dbff-260a-4947-9231-851e9090738b)
