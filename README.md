@@ -34,13 +34,14 @@ In de exploratiefase zijn we eerst een vooral begonnen met onderzoek naar de geb
 
 In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
 
-Hierna is er over gegaan naar de developfase. In deze fase is er in de eerste wave begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface.
+Hierna is er over gegaan naar de developfase. In deze fase is er in de eerste wave begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface. Daarnaast is er ook gekeken naar de integratie van het emotieaanduidsysteem tot een product samen met de fidget, dit is gebeurd aan de hand van een beslissingsmatrix met vooraf opgestelde succescriteria en aan de hand van de verschillende mentale modellen die de leerlingen opbouwden bij enkele conceptschetsen. Ook is er een korte peiling gebeurd om te achterhalen met welke fidgets de kinderen het meest vertrouwd zijn.
 
 Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept. 
 
 De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
 
-![image](https://github.com/user-attachments/assets/ed46740a-e9d4-43e7-8405-87adf1c10b96)
+
+![image](https://github.com/user-attachments/assets/2f27896e-2531-45f9-8a3e-e494e48dd6c6)
 
 
 ## Discovery
@@ -311,6 +312,10 @@ In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 - Gelasercutte kubussen
 - Interfaces met magnetisch verwisselbare knoppen
 - A/B testing
+- mentale modellen
+- sticky dot voting bij conceptschetsen
+- beslissingsmatrix met succescriteria
+- peiling
 
 
 ### Resultaten
