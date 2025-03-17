@@ -294,10 +294,9 @@ Dit bleek namelijk uit de decision matrix die opgesteld werd waarbij we zagen da
 Verdere analyse is te vinden in het report hiervan ([report wave 3]([url](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/ETFXeHp6ypxMi6rCLQbqeeABHassiN-m-b7oYoHdmw8uig?e=NPAfzA)))
 
 
-## Develop
+## Develop 1
 ### Doelstellingen
 
-<ins> DEVELOP 1 </ins>
 
 In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 1.	Hoe wordt het product in de klas geïntegreerd?
@@ -488,9 +487,9 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 
 **Develop**
 - protocol
-
+  - [Develop wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcwJWgr-xsBJjngo-9FJzZwBsNQBkmoPG4wla99mNBSVtA?e=9QsmC6)
 - report
-
+  - [Develop wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EV3ZKc4KRPtKllTtCGGaY94BTPROrd_bZDGaFCj3kz3DkQ?e=tfjdJa)
 
 
 
