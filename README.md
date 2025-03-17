@@ -333,6 +333,15 @@ Voor de knoppen testen we drie diameters (10, 15 en 20 mm), omdat er geen geschi
 
 Om het fidget- en communicatiegedeelte te scheiden, presenteren we verschillende conceptschetsen aan leerlingen. Elk concept wordt afzonderlijk getoond, waarbij we vragen stellen over hun interpretatie en associaties. Dit helpt ons inzicht te krijgen in hun mentale modellen en mogelijke metaforen. Vervolgens stemmen de leerlingen met sticky dot voting op hun favoriete concept. De verzamelde inzichten worden gecombineerd met een beslissingsmatrix om het ideale combineersysteem te bepalen.
 
+De succescriteria voor de gewogen beslissingsmatrix is de volgende:
+1. duidelijke scheiding tussen de functies (gewicht=5)
+2.	intuïtief gebruik (gewicht = 3)
+3.	makkelijke handeling (gewicht = 4)
+4.	doel snel bereiken (gewicht = 1)
+5.	voelt niet aan als fidget (gewicht = 2)
+6.	childproof (gewicht = 3)
+7.	kinderen vinden het een handig systeem (sticky dot voting) (gewicht = 5)
+
 ![1](https://github.com/user-attachments/assets/82321730-73ae-467f-b200-afb98a09ea20)
 ![2](https://github.com/user-attachments/assets/3c837801-9c69-4012-a3d6-126e33e2ab58)
 ![3](https://github.com/user-attachments/assets/35b4dbff-260a-4947-9231-851e9090738b)
@@ -346,6 +355,33 @@ Om het fidget- en communicatiegedeelte te scheiden, presenteren we verschillende
 Om een beter inzicht te krijgen in geschikte fidgets voor de fidgetfunctie, vroegen we leerlingen naar hun ervaring en voorkeuren. We peilden of ze zelf fidgets gebruiken, welke hun favoriet is, welke fidgets ze vaak in de klas zien en welke hun vrienden gebruiken.
 
 ### Conclusies & implicaties
+Uit de testen van onderzoeksvraag 1 konden we door observatie en de voorkeuren van de leerlingen concluderen dat de hoek van de bank de ideale plek is voor de tool. Deze locatie is het meest comfortabel, omdat leerlingen geen onnatuurlijke beweging hoeven te maken om de tool te pakken. Bovendien is de beweging subtiel, waardoor ze geen ongewenste aandacht van klasgenoten trekken. Het terugplaatsen verloopt eveneens probleemloos, aangezien er geen vaste positie of opzetstuk nodig is. Hierdoor kunnen leerlingen de tool moeiteloos gebruiken zonder er veel aandacht aan te besteden.
+
+> [!IMPORTANT]
+> Design requirements:
+> -D1.9: De plaats van de tool in de klas is op de persoonlijke bank van de leerlingen.
+
+Bij de testen van de grootte van de kubus werd de ideale maat vastgesteld op 79 mm, wat overeenkomt met de gemiddelde handpalmgrootte van 13-jarigen. Alle leerlingen konden deze afmeting vlot hanteren, wat ook bleek uit de stemming. 
+
+Een grotere kubus zou het fidgeten bemoeilijken, vooral na langdurig gebruik. Fidgeting duurt doorgaans langer dan simpelweg een knop indrukken, en een grotere tool zou oncomfortabel worden om vast te houden, wat de effectiviteit en het plezier zou verminderen. Bij een kleinere afmeting merkten we dat leerlingen hun hele hand over de tool moesten bewegen, wat de precisie en het gebruiksgemak verminderde. Daarom kiezen we voor de middenweg van 79 mm, die zowel comfort als functionaliteit biedt, gebaseerd op de antropometrische tabellen.
+
+Uit observatie en feedback bleek dat knoppen van 20 mm diameter het meest geprefereerd werden. We kunnen ook afleiden dat alle knoppen dezelfde grootte moeten hebben, aangezien de helft van de leerlingen geen voorkeur had, terwijl de andere helft dit wel belangrijk vond. Bij het ontwerpen van de finale interface zorgen we ervoor dat de knoppen voldoende afstand van elkaar hebben, zodat de juiste knop gemakkelijk ingedrukt kan worden. Daarnaast plaatsen we de meest gebruikte knoppen dichter bij de duimen en vingers van de kinderen.
+
+![knop1](https://github.com/user-attachments/assets/87d5c8a2-5f00-442c-922f-821b563e8726)
+![knop2](https://github.com/user-attachments/assets/eddb161c-264d-4eed-94b2-63f69e5ee63b)
+![knop3](https://github.com/user-attachments/assets/7505c776-7961-48d5-85e0-a9e51a8f6baf)
+![knop4](https://github.com/user-attachments/assets/22a1f9d9-6df0-4747-83f1-e24d8e9fbd00)
+
+> [!IMPORTANT]
+> Design requirements:
+> D4.1: De grootte van de tool (kubus) is 79 cm.
+> D4.2: De knoppen op de fysieke interface moeten een diameter hebben van 20 mm.
+> D4.3: De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben.
+> D4.4: De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan.
+> D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
+
+
+Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar voren als favorieten uit de keuzematrix met succescriteria, waarbij de mentale modellen van de kinderen aantonen dat deze concepten het beste aansluiten bij wat wij voor ogen hadden, namelijk een lade en een aan-/uitknop van elektronica. De lade roept associaties op met een bureau, terwijl de link met een elektrisch apparaat ervoor zorgt dat de tool minder snel mishandeld wordt, en deze twee concepten nemen we mee naar de volgende testfase om verder te onderzoeken welke de beste optie is.
 
 
 ## Bill of materials
