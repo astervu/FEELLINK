@@ -343,10 +343,15 @@ De succescriteria voor de gewogen beslissingsmatrix is de volgende:
 7.	kinderen vinden het een handig systeem (sticky dot voting) (gewicht = 5)
 
 a. ![1](https://github.com/user-attachments/assets/82321730-73ae-467f-b200-afb98a09ea20)
+  
 b. ![2](https://github.com/user-attachments/assets/3c837801-9c69-4012-a3d6-126e33e2ab58)
+
 c. ![3](https://github.com/user-attachments/assets/35b4dbff-260a-4947-9231-851e9090738b)
+
 d. ![4](https://github.com/user-attachments/assets/840c5432-a1ed-411c-b02f-0b1590df6c27)
+
 e. ![5](https://github.com/user-attachments/assets/3184eaaa-da1a-413a-a3b9-fc4881a3a44a)
+
 f. ![6](https://github.com/user-attachments/assets/d9b65687-5ea9-4799-ac95-b6c3a29b2524)
 
 
