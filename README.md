@@ -359,7 +359,7 @@ Uit de testen van onderzoeksvraag 1 konden we door observatie en de voorkeuren v
 
 > [!IMPORTANT]
 > Design requirements:
-> -D1.9: De plaats van de tool in de klas is op de persoonlijke bank van de leerlingen.
+> - D1.9: De plaats van de tool in de klas is op de persoonlijke bank van de leerlingen.
 
 Bij de testen van de grootte van de kubus werd de ideale maat vastgesteld op 79 mm, wat overeenkomt met de gemiddelde handpalmgrootte van 13-jarigen. Alle leerlingen konden deze afmeting vlot hanteren, wat ook bleek uit de stemming. 
 
@@ -374,11 +374,11 @@ Uit observatie en feedback bleek dat knoppen van 20 mm diameter het meest gepref
 
 > [!IMPORTANT]
 > Design requirements:
-> D4.1: De grootte van de tool (kubus) is 79 cm.
-> D4.2: De knoppen op de fysieke interface moeten een diameter hebben van 20 mm.
-> D4.3: De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben.
-> D4.4: De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan.
-> D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
+> - D4.1: De grootte van de tool (kubus) is 79 cm.
+> - D4.2: De knoppen op de fysieke interface moeten een diameter hebben van 20 mm.
+> - D4.3: De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben.
+> - D4.4: De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan.
+> - D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
 
 
 Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar voren als favorieten uit de keuzematrix met succescriteria, waarbij de mentale modellen van de kinderen aantonen dat deze concepten het beste aansluiten bij wat wij voor ogen hadden, namelijk een lade en een aan-/uitknop van elektronica. De lade roept associaties op met een bureau, terwijl de link met een elektrisch apparaat ervoor zorgt dat de tool minder snel mishandeld wordt (er mee gooien, stuk maken), en deze twee concepten nemen we mee naar de volgende testfase om verder te onderzoeken welke de beste optie is.
