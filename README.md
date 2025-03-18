@@ -308,9 +308,9 @@ In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 
 
 ### Materiaal & methoden 
-- Antropometrische data
-- Gelasercutte kubussen
-- Interfaces met magnetisch verwisselbare knoppen
+- antropometrische data
+- gelasercutte kubussen
+- interfaces met magnetisch verwisselbare knoppen
 - A/B testing
 - mentale modellen
 - sticky dot voting bij conceptschetsen
