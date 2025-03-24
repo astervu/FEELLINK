@@ -397,7 +397,8 @@ Uit observatie en feedback bleek dat knoppen van 20 mm diameter het meest gepref
 > - D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
 
 
-Betreft de bevindingen van onderzoeksvraag 3, kwamen de schuif en de knop naar voren als favorieten uit de keuzematrix met succescriteria, waarbij de mentale modellen van de kinderen aantonen dat deze concepten het beste aansluiten bij wat wij voor ogen hadden, namelijk een lade en een aan-/uitknop van elektronica. De lade roept associaties op met een bureau, terwijl de link met een elektrisch apparaat ervoor zorgt dat de tool minder snel mishandeld wordt (er mee gooien, stuk maken), en deze twee concepten nemen we mee naar de volgende testfase om verder te onderzoeken welke de beste optie is.
+Uit de bevindingen van onderzoeksvraag 3 bleek dat de schuif en de knop als favorieten naar voren kwamen uit de keuzematrix met succescriteria. De mentale modellen van de kinderen toonden aan dat deze concepten het beste aansloten bij onze visie: de lade deed denken aan een bureau, terwijl de knop associaties opriep met een aan-/uitknop van een elektrisch apparaat. De link met een elektrisch toestel zou er bovendien voor zorgen dat de tool minder snel mishandeld wordt (ermee gooien, stuk maken).
+Toch hebben we, omdat communicatie de kern van ons concept vormt en fidgeting een secundaire functie is, besloten de schuif te schrappen en ons te concentreren op de knop. We nemen dit concept mee naar de volgende fasen voor verdere tests en optimalisatie.
 
 ![sticky dot](https://github.com/user-attachments/assets/eb4c0982-3dd8-4f50-8ef9-ee20e07d85da)
 
