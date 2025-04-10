@@ -430,7 +430,7 @@ In de eerste develop fase wilden we volgende 3 onderzoeksvragen behandelen:
 - interview
 
 ### Resultaten
-<ins> Onderzoeksvraag 1:Hoe kunnen we ons product optimaliseren vanuit het standpunt van de leerkracht? </ins>
+<ins> Onderzoeksvraag 1: Hoe kunnen we ons product optimaliseren vanuit het standpunt van de leerkracht? </ins>
 
 Om te onderzoeken hoe leerkrachten het best ondersteund kunnen worden bij het ontvangen van de signalen die leerlingen via FEELLINK doorgeven, zullen we een interview afnemen. 
 Tijdens het interview focussen we ons op:
@@ -445,6 +445,30 @@ Om mogelijke obstakels te identificeren die wij zelf over het hoofd zouden kunne
 
 ![storyboard leerkracht](https://github.com/user-attachments/assets/c6b848b1-3c1d-4762-9940-4423cb9835e0)
 
+<ins> Onderzoeksvraag 2: Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem? </ins>
+
+In een vorige developfase hebben we het concept van een knop onderzocht, maar daarbij kwamen enkele twijfels naar voren: zorgt de knop voor voldoende onderscheid tussen functies, en wordt de interface niet te druk met meerdere knoppen?
+Om dit verder te verfijnen, testen we nu verschillende alternatieven voor de knop die zowel visueel als functioneel beter onderscheid bieden. We beperken ons tot een selectie van mogelijke bedieningsvormen:
+- switch
+- schuifknop
+- draaiknop
+- lange switch?
+  
+Voor de test bouwen we één flexibel prototype waarop we eenvoudig de verschillende knoppen kunnen uitwisselen. We integreren ook fidgets in dit prototype, zodat het volledige concept wordt meegenomen in de beleving. Tijdens de test vertellen we de kinderen verhaaltjes over een fictieve leerling, zodat zij via speelse interactie met de tool kunnen aangeven wat voor hen het prettigst werkt. Zo verkrijgen we gerichte feedback over zowel de gebruiksvriendelijkheid als de voorkeur voor een bepaald type knop.
+
+FOTOS PROTOTYPE
+
+<ins> Onderzoeksvraag 3: Hoe kunnen we ons product zo ergonomisch mogelijk maken? </ins>
+
+Omdat het product tijdens gebruik in de hand wordt gehouden, is het gewicht cruciaal voor de gebruiksvriendelijkheid. Om te voorkomen dat het ontwerp te zwaar wordt, willen we een duidelijke grenswaarde bepalen.
+
+Hiervoor gebruiken we het prototype met de juiste afmetingen uit de groottetest. We voegen geleidelijk gewicht toe en laten kinderen de normale handelingen uitvoeren met de tool. Zo observeren we wanneer vermoeidheid of ongemak optreedt.
+
+Daarnaast testen we hoelang ze het prototype comfortabel met één hand kunnen vasthouden. We laten hen het prototype vijf minuten vasthouden en noteren vanaf welk moment het als te zwaar wordt ervaren.
+
+Tot slot beoordelen we ook of extra gewicht de controle en grip op het product negatief beïnvloedt. Op basis van deze observaties bepalen we de maximale toelaatbare gewichtsklasse voor het uiteindelijke ontwerp.
+
+FOTOS TIJDENS TEST 
 
 
 ## Bill of materials
