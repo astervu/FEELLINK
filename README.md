@@ -412,6 +412,41 @@ Uit de antwoorden van het interview over fidgets blijkt dat de meest gebruikte f
 > Design requirements:
 > - D1.11: De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken.
 
+## Develop 2
+### Doelstellingen
+
+
+In de eerste develop fase wilden we volgende 3 onderzoeksvragen behandelen:
+1.	Hoe kunnen we ons product optimaliseren vanuit het standpunt van de leerkracht?
+2.	Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?
+3.	Hoe kunnen we ons product zo ergonomisch mogelijk maken?
+
+### Materiaal en methoden
+- prototype met fidgets
+- prototype met open kant
+- storyboard met de leerkracht als hoofdrol
+- weegschaal
+- verschillende soorten knoppen
+- interview
+
+### Resultaten
+<ins> Onderzoeksvraag 1:Hoe kunnen we ons product optimaliseren vanuit het standpunt van de leerkracht? </ins>
+
+Om te onderzoeken hoe leerkrachten het best ondersteund kunnen worden bij het ontvangen van de signalen die leerlingen via FEELLINK doorgeven, zullen we een interview afnemen. 
+Tijdens het interview focussen we ons op:
+- voorkeur van ontvangen meldingen
+- dataopvolging
+- voorkeur van apparaat
+- gradatie in meldingen (welke zijn belangrijker)
+- obstakels
+- ...
+
+Om mogelijke obstakels te identificeren die wij zelf over het hoofd zouden kunnen zien, hebben we een storyboard opgesteld waarin de leerkracht de hoofdrol speelt. Tijdens het interview overlopen we dit storyboard samen met de leerkracht en vragen we hen om feedback te geven bij elk moment waarop zij mogelijke obstakels of knelpunten opmerken.
+
+![storyboard leerkracht](https://github.com/user-attachments/assets/c6b848b1-3c1d-4762-9940-4423cb9835e0)
+
+
+
 ## Bill of materials
 - thermoplastische rubber
 - ronde drukknoppen
