@@ -304,6 +304,7 @@ In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 2.	Hoe kunnen we ons product zo ergonomisch mogelijk maken?
 3.	Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?
 4.	Welke soorten fidgets kunnen we integreren in de tool?
+5.	Wat is diepe druk? + Hoe helpt diepe druk kinderen met autisme? + Hoe kunnen we dit integreren in de FEELLINK?
 
 
 
@@ -316,7 +317,8 @@ In de eerste develop fase wilden we volgende 4 onderzoeksvragen behandelen:
 - sticky dot voting bij conceptschetsen
 - beslissingsmatrix met succescriteria
 - peiling
-
+- desk research
+  
 
 ### Resultaten
 <ins> Onderzoeksvraag 1: Hoe wordt het product in de klas geïntegreerd? </ins>
@@ -370,6 +372,10 @@ Hieruit konden we de volgende gewogen beslissingsmatrix opstellen:
 
 Om een beter inzicht te krijgen in geschikte fidgets voor de fidgetfunctie, vroegen we leerlingen naar hun ervaring en voorkeuren. We peilden of ze zelf fidgets gebruiken, welke hun favoriet is, welke fidgets ze vaak in de klas zien en welke hun vrienden gebruiken.
 
+<ins> Onderzoeksvraag 5: Wat is diepe druk? + Hoe helpt het kinderen met autisme? + Hoe kunnen we dit integreren in de FEELLINK?  </ins>
+
+Na het analyseren van de resultaten van onderzoeksvraag 4 viel op dat veel kinderen aangaven rustiger te worden wanneer ze in iets kunnen knijpen. Dit effect is gelinkt aan een vorm van sensorische therapie, namelijk diepe druk. Om te evalueren of dit principe geïntegreerd kan worden in de tool, werd hierover verder onderzoek gedaan.
+
 ### Conclusies & implicaties
 Uit de testen van onderzoeksvraag 1 konden we door observatie en de voorkeuren van de leerlingen concluderen dat de hoek van de bank de ideale plek is voor de tool. Deze locatie is het meest comfortabel, omdat leerlingen geen onnatuurlijke beweging hoeven te maken om de tool te pakken. Bovendien is de beweging subtiel, waardoor ze geen ongewenste aandacht van klasgenoten trekken. Het terugplaatsen verloopt eveneens probleemloos, aangezien er geen vaste positie of opzetstuk nodig is. Hierdoor kunnen leerlingen de tool moeiteloos gebruiken zonder er veel aandacht aan te besteden.
 
@@ -411,6 +417,21 @@ Uit de antwoorden van het interview over fidgets blijkt dat de meest gebruikte f
 > [!IMPORTANT]
 > Design requirements:
 > - D1.11: De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken.
+
+ <ins> 1.	Desk research  </ins> 
+
+1. Wat is diepe druk?
+   
+Diepe druk therapie is een sensorische methode die vaak wordt ingezet bij kinderen met autisme. Ze geeft het lichaam stevige tactiele prikkels en proprioceptieve input via bijvoorbeeld knuffels, omhelzingen of het knijpen in voorwerpen zoals stressballen.
+
+2. Hoe helpt diepe druk kinderen met autisme?
+
+Diepe druk therapie beïnvloedt het autonome zenuwstelsel door stress te verminderen en ontspanning te bevorderen. Het verlaagt de activiteit van het sympathisch zenuwstelsel en verhoogt die van het parasympathisch systeem, wat leidt tot een rustiger hartslag, diepere ademhaling en minder cortisol. Daarnaast verhoogt het de aanmaak van serotonine en dopamine, wat bijdraagt aan een beter humeur en meer ontspanning. Bij kinderen met ASS kan diepe druk stress verlagen, de stemming verbeteren, de focus verhogen en het gedrag positief beïnvloeden. Het effect verschilt per kind, dus het is belangrijk om de toepassing af te stemmen op hun individuele sensorische voorkeuren.
+
+3. Hoe wordt dit toegepast op de tool?
+   
+De onderzochte effecten van diepe druk zijn voornamelijk gebaseerd op toepassingen over het volledige lichaam, zoals massages of omhullende druk. Bij gebruik van de FEELLINK gaat het echter om lokale druk in de handpalm, op momenten waarop de gebruiker daar zelf behoefte aan heeft. Hierdoor worden mildere, maar vergelijkbare effecten verwacht.
+Om diepe druk correct te integreren in de tool, is het belangrijk dat de FEELLINK bestand is tegen knijpen zonder te breken of pijn te veroorzaken. Dit kan worden gerealiseerd door gebruik te maken van zachte en ductiele materialen.
 
 ## Develop 2
 ### Doelstellingen
