@@ -540,7 +540,7 @@ FIDGETGEDEELTE
 -	Investment : … 
 
 Brainstorming investering in de FEELLINK 
-- toe te voegen 
+- Toe te voegen 
     - personalisatie van de tool
        - kleur
        - soort fidgets
@@ -548,7 +548,7 @@ Brainstorming investering in de FEELLINK
        - het overzicht na elke week
     - ze krijgen een soort streak die de leerkracht kan instellen als ze hun emotie positief hebben aangepakt; vragen naar een stiltemoment, spelen met de fidget,…
 
-- automatisch toegepast
+- Automatisch toegepast
   - tijd; de tijd die het kind met het product doorbrengt
     
   - emotionele investering
@@ -571,7 +571,7 @@ Brainstorming investering in de FEELLINK
             - Zijn de kinderen rustig genoeg om de fidget te hanteren?
         -	Routine
         	  - Lijken de fidgets op fidgets die al worden gebruikt, al op de markt staan?
-    -	emotie communicatie: 
+    -	Emotie communicatie: 
         - Fysische effort
             - Zijn de knoppen makkelijk indrukbaar? (te grote knoppen, te kleine knoppen?) (ie test ergonomie)
             - Zijn de fidgets makkelijk te gebruiken?
@@ -583,7 +583,7 @@ Brainstorming investering in de FEELLINK
              - Wordt de tool door meerdere mensen in de klas gebruikt? (kuddegedrag)
 
   - _Trigger_ : nudges
-    - brainstorming nudges:
+    - Brainstorming nudges:
       - Bij lang gebruik van de fidget (meten via timer + bewegingssensor), zal de tool trillen waardoor het kind zich kan herinneren om eens na te denken over hun emotie.
       - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen. 
       
