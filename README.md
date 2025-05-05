@@ -491,6 +491,103 @@ Tot slot beoordelen we ook of extra gewicht de controle en grip op het product n
 
 FOTOS TIJDENS TEST 
 
+### Conclusies & implicaties
+
+## Develop 3
+### Doelstellingen
+
+1. Hoe zorgen we ervoor dat de leerlingen de tool wilt en blijft gebruiken?
+2. Hoe kunnen we de user experience nog optimaliseren?
+
+### Materiaal en methoden
+- theoretische modellen
+- lessimulatie
+- werkende prototypes
+
+
+### Resultaten
+<ins> Onderzoeksvraag 1: Hoe zorgen we ervoor dat de leerlingen de tool wilt en blijft gebruiken? </ins>
+
+We vinden deze onderzoeksvraag belangrijk, omdat het effect van de tool afhangt van het gebruik ervan. Kinderen met autisme staan vaak terughoudend tegenover veranderingen, dus de tool mag zeker niet als verplicht aanvoelen. Om beter te begrijpen wat het gebruik stimuleert, baseren we ons op twee modellen.
+
+1. HOOK MODEL
+   
+Het Hook-model zorgt ervoor dat het gebruik van de Feellink een herhalende cyclus wordt, wat leidt tot gewoontevorming. Dit is belangrijk voor kinderen met ASS, omdat vaste patronen voorspelbaarheid en structuur bieden. Hierdoor voelen ze zich veiliger, ervaren ze minder stress en kunnen ze beter zelfreguleren. De gevormde gewoonte stimuleert bovendien dat het kind de tool blijft gebruiken.
+
+![HOOK MODEL](https://github.com/user-attachments/assets/6b9f90ce-88ea-4650-be75-5d983f23150e)
+
+We passen het model toe op zowel het communicatie gedeelte als het fidgetgedeelte.
+
+COMMUNICATIE GEDEELTE 
+-	Interne trigger: het gevoel dat ze op dat moment ervaren
+-	Action: de tool in communicatiemodus zetten, de emotieknop indrukken
+-	Variable reward; je gevoel wordt erkend door de leerkracht
+  
+    Reward of the tribe = Sociale beloningen die gedreven zijn door samenhorigheid met anderen. Het maakt ons geaccepteerd, aantrekkelijk, belangrijk en inbegrepen voelen. Als je iemand anders ziet beloond worden wil je dit ook (social learning).
+ 	
+    Brainstorming:
+ 	
+    - er is een streak gelinkt aan het gebruik
+    - ze krijgen muntjes bij gebruik die ze kunnen gebruiken om een karakter mee aan te kleden op een acc
+    - als ze de tool gebruikt hebben gaat de meter op bord omhoog op het einde van de dag, gezamelijke mijlpaal op het klasdashbord
+      
+  -	Investment: …
+
+FIDGETGEDEELTE 
+-	Interne trigger: stress, overprikkeling, …
+-	Action: de tool in fidgetmodus plaatsen, prutsen met fidget
+-	Variable reward: positieve invloed van de fidget op je gevoel, men wordt rustiger (zelfregulatie), concentratie in de les, je haalt er plezier uit
+-	Investment : … 
+
+Brainstorming investering in de FEELLINK 
+- toe te voegen 
+    - personalisatie van de tool
+       - kleur
+       - soort fidgets
+       - een persoonlijk acc met feature die aangeeft hoe de leerkracht het kind beter kan begrijpen; geeft aan wat het kind nodig heeft bij welke emotie
+       - het overzicht na elke week
+    - ze krijgen een soort streak die de leerkracht kan instellen als ze hun emotie positief hebben aangepakt; vragen naar een stiltemoment, spelen met de fidget,…
+
+- automatisch toegepast
+  - tijd; de tijd die het kind met het product doorbrengt
+    
+  - emotionele investering
+  
+  Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de Feellink. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen van de attachment theory.
+
+
+2. NUDGES
+![NUDGES](https://github.com/user-attachments/assets/ee21f331-fa73-4892-acfc-767c2a27f4f3)
+
+-	_Motivatie_: vermijden van pijn naar plezier, vermijden van afwijzing en zoeken naar sociale acceptatie
+    -	Vermijden van meer pijn ervaren (stress, overprikkeling, stressoren) naar plezier (concentratie, zelfregulatie, beloning na positieve expressie van emotie en goede aanpak…) 
+    - Vermijden van afwijzing en zoeken naar sociale acceptatie; als de leerling een bepaalde emotie voelt kan die zoeken naar erkenning van de leerkracht
+-	_Ability_: de capaciteiten om de gevoelens te uiten of om de fidget te gebruiken
+    -	Fidget gebruiken: 
+        - Fysische effort
+            - Past de tool makkelijk in een hand? (zie test ergonomie)
+            - Zijn de fidgets makkelijk te gebruiken?
+        -	Cognitieve load
+            - Zijn de kinderen rustig genoeg om de fidget te hanteren?
+        -	Routine
+        	  - Lijken de fidgets op fidgets die al worden gebruikt, al op de markt staan?
+    -	emotie communicatie: 
+        - Fysische effort
+            - Zijn de knoppen makkelijk indrukbaar? (te grote knoppen, te kleine knoppen?) (ie test ergonomie)
+            - Zijn de fidgets makkelijk te gebruiken?
+        -	Cognitieve load
+            - Zijn de kinderen niet te overstuur om hun emoties aan te duiden?
+            - Is de interface duidelijk en simpel genoeg (Miller’s Law)
+        -	Sociale afwijking
+        	  - Is het ingeven van de emotie privé genoeg?
+             - Wordt de tool door meerdere mensen in de klas gebruikt? (kuddegedrag)
+
+  - _Trigger_ : nudges
+    - brainstorming nudges:
+      - Bij lang gebruik van de fidget (meten via timer + bewegingssensor), zal de tool trillen waardoor het kind zich kan herinneren om eens na te denken over hun emotie.
+      - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen. 
+      
+### Conclusies & implicaties 
 
 ## Bill of materials
 - thermoplastische rubber
