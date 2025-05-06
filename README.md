@@ -556,8 +556,9 @@ Brainstorming investering in de FEELLINK
   Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de Feellink. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen van de attachment theory.
 
 
-2. NUDGES
 
+2. NUDGES
+   
 ![NUDGES](https://github.com/user-attachments/assets/ee21f331-fa73-4892-acfc-767c2a27f4f3)
 
 -	_Motivatie_: vermijden van pijn naar plezier, vermijden van afwijzing en zoeken naar sociale acceptatie
