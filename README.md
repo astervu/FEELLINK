@@ -557,6 +557,7 @@ Brainstorming investering in de FEELLINK
 
 
 2. NUDGES
+
 ![NUDGES](https://github.com/user-attachments/assets/ee21f331-fa73-4892-acfc-767c2a27f4f3)
 
 -	_Motivatie_: vermijden van pijn naar plezier, vermijden van afwijzing en zoeken naar sociale acceptatie
