@@ -474,7 +474,6 @@ Om dit verder te verfijnen, testen we nu verschillende alternatieven voor de kno
 - switch
 - schuifknop
 - draaiknop
-- lange switch?
   
 Voor de test bouwen we één flexibel prototype waarop we eenvoudig de verschillende knoppen kunnen uitwisselen. We integreren ook fidgets in dit prototype, zodat het volledige concept wordt meegenomen in de beleving. Tijdens de test vertellen we de kinderen verhaaltjes over een fictieve leerling, zodat zij via speelse interactie met de tool kunnen aangeven wat voor hen het prettigst werkt. Zo verkrijgen we gerichte feedback over zowel de gebruiksvriendelijkheid als de voorkeur voor een bepaald type knop.
 
@@ -490,9 +489,42 @@ Daarnaast testen we hoelang ze het prototype comfortabel met één hand kunnen v
 
 Tot slot beoordelen we ook of extra gewicht de controle en grip op het product negatief beïnvloedt. Op basis van deze observaties bepalen we de maximale toelaatbare gewichtsklasse voor het uiteindelijke ontwerp.
 
-FOTOS TIJDENS TEST 
+![gebruikerstest foto](https://github.com/user-attachments/assets/eb6f3aba-8a7f-43fd-8d28-12fada13129e)
 
 ### Conclusies & implicaties
+
+Uit de interviews konden er enkele design requirements geconcludeerd worden, om ons product te optimaliseren vanuit het standpunt van de leerkracht. Deze kwamen voort uit de suggesties van de geïnterviewde leerkrachten voor de app/interface/tool van de leerkrachten:
+
+- We moeten werken met dezelfde kleuren + emojis als van de FEELLINK.
+-	De leerkrachten krijgen in real-time de meldingen binnen.
+-	Het is handig om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden.
+-	Bij de emotie blij hoeft er geen melding gegeven worden.
+-	De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk).
+-	Een stille trilling is een ideale manier van een melding ontvangen.
+-	Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden.
+-	Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn)
+-	De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas.
+
+
+> [!IMPORTANT]
+> Design requirements:
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+> - Dx.x: xxxxx.
+
+Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een goede grenswaarde is voor het gewicht van de tool. Dit is een goede grenswaarde aangezien een smartphone gemiddeld ook 200g weegt wat relevant is aangezien een smartphone vaak langer dan 5 minuten met 1 hand wordt vastgehouden.
+
+
+> [!IMPORTANT]
+> Design requirements:
+> - D4.6: Het maximaal gewicht van de tool is 200g.
+
 
 ## Develop 3
 ### Doelstellingen
@@ -646,6 +678,7 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 | D4.3 | De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben. | Develop 1 | 12/3/2025 |
 | D4.4 | De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan. | Develop 1 | 12/3/2025 |
 | D4.5 | De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen. | Develop 1 | 12/3/2025 |
+| D4.6 | Het maximaal gewicht van de tool is 200g | Develop 2 | 00/00/2025 |
 
 ## Bijlagen
 
