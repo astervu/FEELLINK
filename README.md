@@ -16,9 +16,7 @@ Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie me
 
 ![render feellink !](https://github.com/user-attachments/assets/1f4cc305-c00d-4ff1-b5f5-f367be5cc081)
 
-
-![image](https://github.com/user-attachments/assets/05638e33-2e71-440f-8102-ae7d94fcf502)  ![png emojidrukker](https://github.com/user-attachments/assets/87ea45fc-cf70-4f22-b4af-9254b3382b94)
-
+![feellink prototype](https://github.com/user-attachments/assets/38a3c3c9-9ab9-4d0b-8bcc-27ca5b5bbe02)
 
 
 
