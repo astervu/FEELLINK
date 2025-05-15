@@ -1,5 +1,12 @@
 # Feellink code
 
+## Opdracht
+
+De FEELLINK stelt de leerling uit het type 9 onderwijs in staat om zijn emoties te delen met de leerkracht. 
+
+Dit gebeurd aan de hand van een aantal knoppen, 6 statusknoppen en emotie verstuurknop.
+
+Elke statusknop bevat een LED, die aan toggled indien de knop wordt ingedrukt. Daarnaast zal er ook een klein trilsignaal gegeven worden
 
 
 ## bedradingsschema
@@ -29,7 +36,7 @@ int LedPin4 = A1;
 int LedPin5 = A2;
 int LedPin6 = A3;
 
-
+int SwitchPint = A6;
 const int Triller = A4;
 const int Sololampje = 13;
 
@@ -53,6 +60,7 @@ void setup() {
     pinMode(ButtonPin6, INPUT_PULLUP);
     pinMode(ButtonPin7, INPUT_PULLUP);
 
+    pinMode(SwitchPin, INPUT);
     pinMode(Triller, OUTPUT);
     pinMode(Sololampje, OUTPUT);
 
@@ -78,7 +86,7 @@ void loop() {
     
 
 //  code die enkel gebeurd als de switch werkt
-    //if(digitalRead(SwitchPin) == HIGH){
+    if(digitalRead(SwitchPin) == HIGH){
             
 
     // wanneer 5 emotieknoppen worden ingeduwd veranderd de staat ervan (toggle aan uit)
@@ -86,7 +94,6 @@ void loop() {
             knop1 = !knop1; 
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 1 is ingedrukt!");
             delay(200);
         } 
 
@@ -94,7 +101,6 @@ void loop() {
             knop2 = !knop2;
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 2 is ingedrukt!");
             delay(200);
         } 
 
@@ -102,7 +108,6 @@ void loop() {
             knop3 = !knop3;
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 3 is ingedrukt!");
             delay(200);
         } 
         
@@ -110,7 +115,6 @@ void loop() {
             knop4 = !knop4;
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 4 is ingedrukt!");
             delay(200);
         }    
 
@@ -118,7 +122,6 @@ void loop() {
             knop5 = !knop5;
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 5 is ingedrukt!");
             delay(200);
         }
 
@@ -126,7 +129,7 @@ void loop() {
             knop6 = !knop6;
             trillertijd(Triller, 200);
             //trillertijd(Sololampje, 200);
-            //B.println("Knop 6 is ingedrukt!");
+            
             delay(200);
         }
 
@@ -181,21 +184,23 @@ void loop() {
         
     }
 
-    // if(digitalRead(SwitchPin) == LOW){
-    //     digitalWrite(LedPin1, LOW);
-    //     digitalWrite(LedPin2, LOW);
-    //     digitalWrite(LedPin3, LOW);
-    //     digitalWrite(LedPin4, LOW);
-    //     digitalWrite(LedPin5, LOW);
+     if(digitalRead(SwitchPin) == LOW){
+         digitalWrite(LedPin1, LOW);
+         digitalWrite(LedPin2, LOW);
+         digitalWrite(LedPin3, LOW);
+         digitalWrite(LedPin4, LOW);
+         digitalWrite(LedPin5, LOW);
+         digitalWrite(LedPin5, LOW);
         
-    //     knop1 = false;
-    //     knop2 = false;
-    //     knop3 = false;
-    //     knop4 = false;
-    //     knop5 = false;
+         knop1 = false;
+         knop2 = false;
+         knop3 = false;
+         knop4 = false;
+         knop5 = false;
+         knop6 = false;
 
-    // }
-// }
+     }
+ }
 ```
 ## code geen feedback
 
