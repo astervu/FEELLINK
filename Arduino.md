@@ -12,7 +12,8 @@ Als de verstuurknop wordt ingedrukt dan worden alle emoties die op dat moment aa
 
 
 ## bedradingsschema
-![bedradingsschema](https://github.com/user-attachments/assets/3fd5d7b0-ea25-47ec-80b7-2f5e5d285d04)
+![versie finaal schema](https://github.com/user-attachments/assets/3e41ae1d-9914-4eed-b2e5-25665518a39b)
+
 
 ## code finaal opkomende technologieën
 
