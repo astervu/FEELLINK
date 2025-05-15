@@ -3,6 +3,7 @@
 
 
 ## bedradingsschema
+![bedradingsschema](https://github.com/user-attachments/assets/3fd5d7b0-ea25-47ec-80b7-2f5e5d285d04)
 
 
 ## code finaal opkomende technologiën
