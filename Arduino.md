@@ -6,7 +6,9 @@ De FEELLINK stelt de leerling uit het type 9 onderwijs in staat om zijn emoties 
 
 Dit gebeurd aan de hand van een aantal knoppen, 6 statusknoppen en emotie verstuurknop.
 
-Elke statusknop bevat een LED, die aan toggled indien de knop wordt ingedrukt. Daarnaast zal er ook een klein trilsignaal gegeven worden
+Elke statusknop bevat een LED, die aan toggled indien de knop wordt ingedrukt. Daarnaast zal er ook een klein trilsignaal gegeven worden als een statusknop wordt ingedrukt. 
+
+Als de verstuurknop wordt ingedrukt dan worden alle emoties die op dat moment aan staan doorgestuurd naar de leerkracht via bleutooth aan de hand van een hc05. Hierbij is er ook een trilling die iets langer is als de statusknoptrilling. De emotiestatussen zullen gereset worden en terug allemaal uit staan.
 
 
 ## bedradingsschema
