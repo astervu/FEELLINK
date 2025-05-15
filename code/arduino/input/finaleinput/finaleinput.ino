@@ -2,22 +2,10 @@
 
 SoftwareSerial B(10, 11);
 
-int ButtonPin1= 2;
-int ButtonPin2= 3;
-int ButtonPin3= 8;
-int ButtonPin4= 5;
-int ButtonPin5= 6;
-int ButtonPin6= 7;
 int ButtonPin7 = 4;
 
-int LedPin1 = 9;
-int LedPin2 = 12;
-int LedPin3 = A5;
-int LedPin4 = A1;
-int LedPin5 = A2;
-int LedPin6 = A3;
 
-int SwitchPint = A6;
+int SwitchPin = A6;
 const int Triller = A4;
 const int Sololampje = 13;
 
@@ -28,30 +16,28 @@ bool knop4 = false;
 bool knop5 = false;
 bool knop6 = false;
 
+int knopPinnen[] = {2, 3, 8, 5, 6, 7};  // ButtonPin1 t.e.m. ButtonPin6
+int ledPinnen[] = {9, 12, A5, A1, A2, A3};
+bool* knoppen[] = {&knop1, &knop2, &knop3, &knop4, &knop5, &knop6};
 
 
 void setup() {
 
     B.begin(9600);
-    pinMode(ButtonPin1, INPUT_PULLUP);
-    pinMode(ButtonPin2, INPUT_PULLUP);
-    pinMode(ButtonPin3, INPUT_PULLUP);
-    pinMode(ButtonPin4, INPUT_PULLUP);
-    pinMode(ButtonPin5, INPUT_PULLUP);
-    pinMode(ButtonPin6, INPUT_PULLUP);
+    
+    for (int i = 0; i < 6; i++) {
+        pinMode(knopPinnen[i], INPUT_PULLUP);
+    }
+
     pinMode(ButtonPin7, INPUT_PULLUP);
 
     pinMode(SwitchPin, INPUT);
     pinMode(Triller, OUTPUT);
     pinMode(Sololampje, OUTPUT);
 
-    pinMode(LedPin1, OUTPUT);
-    pinMode(LedPin2, OUTPUT);
-    pinMode(LedPin3, OUTPUT);
-    pinMode(LedPin4, OUTPUT);
-    pinMode(LedPin5, OUTPUT);
-    pinMode(LedPin6, OUTPUT);
-
+    for (int i = 0; i < 6; i++) {
+        pinMode(ledPinnen[i], OUTPUT);
+    }
 }
 
 
