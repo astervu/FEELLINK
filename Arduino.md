@@ -1,4 +1,10 @@
 # Feellink code
+
+
+
+## bedradingsschema
+
+
 ## code finaal opkomende technologiën
 
 ```cpp
