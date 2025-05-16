@@ -20,6 +20,7 @@ Als de verstuurknop wordt ingedrukt dan worden alle emoties die op dat moment aa
 ```cpp
 
 
+
 #include<SoftwareSerial.h>
 
 SoftwareSerial B(10, 11);
@@ -42,6 +43,16 @@ int knopPinnen[] = {2, 3, 8, 5, 6, 7};  // ButtonPin1 t.e.m. ButtonPin6
 int ledPinnen[] = {9, 12, A5, A1, A2, A3};
 bool* knoppen[] = {&knop1, &knop2, &knop3, &knop4, &knop5, &knop6};
 
+const char* boodschappen[] = {
+  "De leerling is verdrietig!",
+  "De leerling is boos!",
+  "De leerling is blij!",
+  "De leerling is verbaasd!",
+  "De leerling is verward!",
+  "De leerling heeft een vraag!"
+};
+
+
 
 void setup() {
 
@@ -49,6 +60,7 @@ void setup() {
     
     for (int i = 0; i < 6; i++) {
         pinMode(knopPinnen[i], INPUT_PULLUP);
+        pinMode(ledPinnen[i], OUTPUT);
     }
 
     pinMode(ButtonPin7, INPUT_PULLUP);
@@ -57,9 +69,6 @@ void setup() {
     pinMode(Triller, OUTPUT);
     pinMode(Sololampje, OUTPUT);
 
-    for (int i = 0; i < 6; i++) {
-        pinMode(ledPinnen[i], OUTPUT);
-    }
 }
 
 
@@ -75,7 +84,7 @@ void loop() {
     
 
 //  code die enkel gebeurd als de switch werkt
-    if(digitalRead(SwitchPin) == HIGH){
+    //if(digitalRead(SwitchPin) == HIGH){
             
 
     // wanneer 5 emotieknoppen worden ingeduwd veranderd de staat ervan (toggle aan uit)
@@ -101,48 +110,23 @@ void loop() {
             //trillertijd(Sololampje, 100);
             //trillertijd(Sololampje, 100);
 
-            if (*knoppen[0] == true){
-                B.println("De leerling is verdrietig! -----------> Knop 1 is ingedrukt!");
-                *knoppen[0] = !*knoppen[0];
-            }
-            if (*knoppen[1] == true){
-                B.println("De leerling is boos! -----------> Knop 2 is ingedrukt!");
-                *knoppen[1] = !*knoppen[1];
-            }
-            if (*knoppen[2] == true){
-                B.println("De leerling is blij! -----------> Knop 3 is ingedrukt!");
-                *knoppen[2] = !*knoppen[2];
-            }
-            if (*knoppen[3] == true){
-                B.println("De leerling is verbaasd! -----------> Knop 4 is ingedrukt!");
-                *knoppen[3] = !*knoppen[3];
-            }
-            if (*knoppen[4] == true){
-                B.println("De leerling is verward! -----------> Knop 5 is ingedrukt!");
-                *knoppen[4] = !*knoppen[4];
+
+            for (int i = 0; i < 6; i++) {
+                if (*knoppen[i] == true) {
+                    B.print(boodschappen[i]);
+                    B.print(" -----------> Knop ");
+                    B.print(i + 1);
+                    B.println(" is ingedrukt!");
+                    *knoppen[i] = !*knoppen[i];
+                }
             }
 
-            if (*knoppen[5] == true){
-                B.println("De leerling heeft een vraag! -----------> Knop 6 is ingedrukt!");
-                *knoppen[5] = !*knoppen[5];
-
-            }
 
             B.println("Emoties verzonden!");
             delay(200);
         }
         
     }
-
-    if(digitalRead(SwitchPin) == LOW){
-        for (int i = 0; i < 6; i++) {
-                digitalWrite(ledPinnen[i], LOW);
-                *knoppen[i] = false;
-            }
-        
-
-    }
- }
 
 
 ```
