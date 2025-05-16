@@ -62,7 +62,7 @@ void loop() {
     
 
 //  code die enkel gebeurd als de switch werkt
-    if(digitalRead(SwitchPin) == HIGH){
+    //if(digitalRead(SwitchPin) == HIGH){
             
 
     // wanneer 5 emotieknoppen worden ingeduwd veranderd de staat ervan (toggle aan uit)
@@ -91,7 +91,7 @@ void loop() {
 
             for (int i = 0; i < 6; i++) {
                 if (*knoppen[i] == true) {
-                    B.print(*boodschappen[i]);
+                    B.print(boodschappen[i]);
                     B.print(" -----------> Knop ");
                     B.print(i + 1);
                     B.println(" is ingedrukt!");
@@ -105,13 +105,3 @@ void loop() {
         }
         
     }
-
-    if(digitalRead(SwitchPin) == LOW){
-        for (int i = 0; i < 6; i++) {
-                digitalWrite(ledPinnen[i], LOW);
-                *knoppen[i] = false;
-            }
-        
-
-    }
- }
