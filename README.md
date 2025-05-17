@@ -14,9 +14,11 @@ Onze oplossing is een slimme fidget met een ingebouwd apparaatje waarmee leerlin
 
 Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie met het apparaat minder confronterend is dan directe mens-mens communicatie. De visuele iconen bevorderen de zelfexpressie en verbeteren het begrip van de eigen emotie bij de leerling. De fidget helpt met zelfregulatie, focus en het verminderen van angst en stress door tactiele stimulatie. Bovendien merkt de omgeving niet dat de leerling iets communiceert, wat extra comfort biedt. Dit zorgt voor een rustigere en meer begripvolle leeromgeving waarin leerlingen beter ondersteund worden.
 
-![render feellink !](https://github.com/user-attachments/assets/1f4cc305-c00d-4ff1-b5f5-f367be5cc081)
+
 
 ![feellink prototype](https://github.com/user-attachments/assets/38a3c3c9-9ab9-4d0b-8bcc-27ca5b5bbe02)
+
+![render feellink !(met knoppen)](https://github.com/user-attachments/assets/fcdf4aa8-8524-4f7a-b7e8-080d11f1f05f)
 
 
 
