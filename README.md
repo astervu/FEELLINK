@@ -15,12 +15,10 @@ Onze oplossing is een slimme fidget met een ingebouwd apparaatje waarmee leerlin
 Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie met het apparaat minder confronterend is dan directe mens-mens communicatie. De visuele iconen bevorderen de zelfexpressie en verbeteren het begrip van de eigen emotie bij de leerling. De fidget helpt met zelfregulatie, focus en het verminderen van angst en stress door tactiele stimulatie. Bovendien merkt de omgeving niet dat de leerling iets communiceert, wat extra comfort biedt. Dit zorgt voor een rustigere en meer begripvolle leeromgeving waarin leerlingen beter ondersteund worden.
 
 
-
-![feellink prototype](https://github.com/user-attachments/assets/05bf1fa6-864f-46c3-88e9-5f7faa8f2862)
-
-
 ![render feellink !(met knoppen)](https://github.com/user-attachments/assets/fcdf4aa8-8524-4f7a-b7e8-080d11f1f05f)
 
+
+![feellink prototype](https://github.com/user-attachments/assets/05bf1fa6-864f-46c3-88e9-5f7faa8f2862)
 
 
 ## Introductie
@@ -333,10 +331,13 @@ Om de optimale plaatsing van de fidget in de klas te bepalen, beperken we ons to
 
 Om de ergonomie van het product te optimaliseren, focussen we op twee aspecten: de grootte van de kubus en de knoppen. We passen “design for the mean” toe en baseren ons op antropometrische data van 13-jarige kinderen. Voor de kubusbreedte gebruiken we de gemiddelde handbreedte (79 mm) als referentie en testen dit met vijf kubussen (60, 70, 79, 90 en 100 mm). Leerlingen krijgen deze in willekeurige volgorde en simuleren gebruik via situatieschetsen. Ze geven vervolgens hun voorkeur en motivatie aan.
 
+![groottes prototypes](https://github.com/user-attachments/assets/55f64735-9973-4792-86c4-8ad43d62d6f1)
+
 Voor de knoppen testen we drie diameters (10, 15 en 20 mm), omdat er geen geschikte antropometrische data beschikbaar was. Via A/B-testing vergelijken leerlingen twee interfaces en benoemen de voor- en nadelen. Om de test interactiever en leuker te maken, laten we hen in de rol van ontwerper stappen. Ze creëren zelf een interface met verschillende knopgroottes en ordeningen, waarna we hun keuzes en redeneringen bespreken.
 
 ![interface 1](https://github.com/user-attachments/assets/2aee5a03-4a1e-4d38-9b38-5db0cdcd9022)
 ![interface2](https://github.com/user-attachments/assets/913f1d27-8d05-4a9b-b7bb-2d3c516df7c7)
+
 
 
 <ins> Onderzoeksvraag 3: Hoe kunnen we het emotieaanduidsysteem integreren tot een product samen met het fidget systeem?  </ins>
@@ -453,6 +454,7 @@ In de eerste develop fase wilden we volgende 3 onderzoeksvragen behandelen:
 - weegschaal
 - verschillende soorten knoppen
 - interview
+- e-prototype
 
 ### Resultaten
 <ins> Onderzoeksvraag 1: Hoe kunnen we ons product optimaliseren vanuit het standpunt van de leerkracht? </ins>
@@ -522,6 +524,29 @@ Uit de interviews konden er enkele design requirements geconcludeerd worden, om 
 > - Dx.x: xxxxx.
 > - Dx.x: xxxxx.
 > - Dx.x: xxxxx.
+
+
+Bij het bespreken van de testresultaten van onderzoeksvraag 2 blijkt al snel dat de draaiknop geëlimineerd kan worden: ze is niet intuïtief, aangezien sommige kinderen probeerden te duwen of te trekken in plaats van te draaien.
+De voordelen en nadelen van de joystick en switch zijn als volgt:
+
+Joystick:
++ Herkenbaar en goed van formaat
+– Wordt vaak gebruikt als fidget, klikgeluid is storend
+
+Switch:
++ Intuïtief, makkelijk te gebruiken, doet denken aan een lichtknop (mentaal model; men zal hier minder mee prutsen)
+– Te klein
+
+Er is een duidelijke voorkeur voor visuele feedback. Eén kind gaf wel aan dat hij liever niet heeft dat anderen zien dat de FEELLINK aanstaat. Een combinatie van een subtiel lichtje met een aanduiding bij de knop is dus een goede oplossing. 
+
+Uiteindelijk kiezen we voor de switch als aan/uit-knop, op voorwaarde dat ze groter wordt gemaakt.
+Voor de feedback combineren we een verlichte knop met een visuele aanduiding rond de knop voor subtiele maar duidelijke terugkoppeling.
+
+> [!IMPORTANT]
+> Design requirements:
+> - D1.??: De aan/uit knop is een switchknop die groter is dan 9x4 mm.
+> - D.??: De feedback op het aan- /uitzetten van de FEELLINK moet visueel maar subtiel zijn (=een verlichte bevestigingsknop + aanduiding bij de knop)
+
 
 Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een goede grenswaarde is voor het gewicht van de tool. Dit is een goede grenswaarde aangezien een smartphone gemiddeld ook 200g weegt wat relevant is aangezien een smartphone vaak langer dan 5 minuten met 1 hand wordt vastgehouden.
 
