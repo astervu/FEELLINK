@@ -530,12 +530,16 @@ Bij het bespreken van de testresultaten van onderzoeksvraag 2 blijkt al snel dat
 De voordelen en nadelen van de joystick en switch zijn als volgt:
 
 Joystick:
-+ Herkenbaar en goed van formaat
-– Wordt vaak gebruikt als fidget, klikgeluid is storend
+
++++ Herkenbaar en goed van formaat
+
+--- Wordt vaak gebruikt als fidget, klikgeluid is storend
 
 Switch:
-+ Intuïtief, makkelijk te gebruiken, doet denken aan een lichtknop (mentaal model; men zal hier minder mee prutsen)
-– Te klein
+
++++ Intuïtief, makkelijk te gebruiken, doet denken aan een lichtknop (mentaal model; men zal hier minder mee prutsen)
+
+--- Te klein
 
 Er is een duidelijke voorkeur voor visuele feedback. Eén kind gaf wel aan dat hij liever niet heeft dat anderen zien dat de FEELLINK aanstaat. Een combinatie van een subtiel lichtje met een aanduiding bij de knop is dus een goede oplossing. 
 
