@@ -16,7 +16,8 @@ Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie me
 
 
 
-![feellink prototype](https://github.com/user-attachments/assets/38a3c3c9-9ab9-4d0b-8bcc-27ca5b5bbe02)
+![feellink prototype](https://github.com/user-attachments/assets/05bf1fa6-864f-46c3-88e9-5f7faa8f2862)
+
 
 ![render feellink !(met knoppen)](https://github.com/user-attachments/assets/fcdf4aa8-8524-4f7a-b7e8-080d11f1f05f)
 
@@ -478,8 +479,10 @@ Om dit verder te verfijnen, testen we nu verschillende alternatieven voor de kno
 - draaiknop
   
 Voor de test bouwen we één flexibel prototype waarop we eenvoudig de verschillende knoppen kunnen uitwisselen. We integreren ook fidgets in dit prototype, zodat het volledige concept wordt meegenomen in de beleving. Tijdens de test vertellen we de kinderen verhaaltjes over een fictieve leerling, zodat zij via speelse interactie met de tool kunnen aangeven wat voor hen het prettigst werkt. Zo verkrijgen we gerichte feedback over zowel de gebruiksvriendelijkheid als de voorkeur voor een bepaald type knop.
+We werken met e-prototypes die gebruikmaken van Arduino om zowel visuele (lichtjes) als haptische (trilling) feedback te geven bij het aan- en uitzetten van de knop. Dit laat ons toe om de effectiviteit en voorkeur voor beide feedbackvormen nauwkeurig te vergelijken.
 
-FOTOS PROTOTYPE
+![develop 2 foto](https://github.com/user-attachments/assets/4f072a51-7f6c-4002-bbac-223922e0826d)
+
 
 <ins> Onderzoeksvraag 3: Hoe kunnen we ons product zo ergonomisch mogelijk maken? </ins>
 
