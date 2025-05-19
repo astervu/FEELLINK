@@ -651,6 +651,84 @@ Brainstorming investering in de FEELLINK
       - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen.
       - Een verandering van kleur van de aan/uit knop.
 
+<ins> Onderzoeksvraag 2: Hoe kunnen we de user experience nog optimaliseren? </ins>
+
+In het kader van user experience onderzochten we de ideale volgorde van de emotieknoppen op de interface. Dit gebeurde via een test waarbij leerlingen losse knoppen op een bordje konden leggen volgens hun voorkeur. We vroegen daarbij naar hun redenering en observeerden het legproces om inzicht te krijgen in hun keuzes.
+
+Daarnaast testten we de volledige werking van Feellink in een lessimulatie met één werkend prototype. Na elk lessuur gaven we de FEELLINK door tussen leerlingen en deden telkens een kleine aanpassing namens de feedback van het indrukken van knoppen en het versturen van de emoties naar de leerkracht.
+
+De 3 verschillende manieren van feedback:
+1.	Als men op een knop drukt zal zijn eigen led branden totdat er op de verzendingsknop wordt gedrukt of totdat ze de knop nog eens indrukken
+2.	Als men een knop indrukt zal men een trilling voelen en bij het verzenden van de emoties voelt met een langere trilling
+3.	Als men een knop indrukt zal er een ledje flikkeren bij de bevestigingsknop.
+
+Tijdens de test ontvingen wij alle data die de leerling via Feellink doorstuurde. Op basis van die input pasten we in real time de interface van de leerkracht aan via een gedeeld Miro-bord. We zaten beiden achteraan in de klas: één iemand ving de data op, terwijl de andere de interface in het Miro-bord aanpaste. Vooraan in de klas stond een laptop open, zodat de leerkracht de wijzigingen kon volgen. Op die manier werkten we volgens een vorm van Wizard of Oz-testing, waarbij we de indruk wekten dat de interface automatisch functioneerde. Daarnaast gaven we de leerkracht een gsm waarop we de instellingen hadden aangepast. Die ontving enkel trillingsmeldingen wanneer wij handmatig een signaal doorstuurden. Zo testten we het feedbacksysteem met een tijdelijk trillingsdevice.
+
+
+![GITHUB INTERFACE](https://github.com/user-attachments/assets/253a9d44-6b4c-40dc-bfe0-7e3160f1a847)
+
+![gihub mkqdfj](https://github.com/user-attachments/assets/fe3cfa62-c4ee-44cd-b0ad-686474442bd0)
+
+
+
+VRAGENLIJST TRILLING
+
+1.	Ik vond het makkelijk om de FeelLink te gebruiken.
+2.	Ik voelde me op m’n gemak tijdens het gebruik van de FeelLink.
+3.	Ik wist wat elke knop betekende. (Zo niet, welke niet?)
+4.	Ik vond het duidelijk welke knoppen ik allemaal had ingedrukt.
+5.	Ik wist waarom het toestel trilde.
+6.	Ik wist wanneer mijn signaal was aangekomen.
+7.	Ik vond het duidelijk wanneer ik een emotie had doorgestuurd naar de leerkracht.
+8.	Ik merkte een trilling in m’n hand.
+9.	Ik vond de trilling aangenaam.
+10.	Ik stoorde me aan de trilling aan m’n hand.
+11.	Ik durfde meer mijn gevoelens te delen door de FeelLink dan anders.
+
+VRAGENLIJST ALLE LEDS
+
+1.	Ik vond het makkelijk om de FeelLink te gebruiken.
+2.	Ik voelde me op m’n gemak tijdens het gebruik van de FeelLink.
+3.	Ik wist wat elke knop betekende. (Zo niet, welke niet?)
+4.	Ik vond het duidelijk welke knoppen ik allemaal had ingedrukt.
+5.	Ik begreep waarom de lichtjes aan en uit gingen.
+6.	Ik merkte telkens wanneer een lichtje aanging.
+7.	De duur dat het lichtje aanbleef was lang genoeg voor mij.
+8.	Zonder het lichtje zou ik niet zeker zijn dat het werkte.
+9.	Ik wist wanneer mijn signaal was aangekomen.
+10.	Ik vond het duidelijk wanneer ik een emotie had doorgestuurd naar de leerkracht.
+11.	Ik durfde meer mijn gevoelens te delen door de FeelLink dan anders.
+
+VRAGENLIJST ENKELE LED
+
+1.	Ik vond het makkelijk om de FeelLink te gebruiken.
+2.	Ik voelde me op m’n gemak tijdens het gebruik van de FeelLink.
+3.	Ik wist wat elke knop betekende. (Zo niet, welke niet?)
+4.	Ik vond het duidelijk welke knoppen ik allemaal had ingedrukt.
+5.	Ik begreep waarom het lichtje flikkerde.
+6.	Ik merkte telkens wanneer een lichtje aanging.
+7.	De duur dat het lichtje aanbleef was lang genoeg voor mij.
+8.	Zonder het lichtje zou ik niet zeker zijn dat het werkte.
+9.	Ik wist wanneer mijn signaal was aangekomen.
+10.	Ik vond het duidelijk wanneer ik een emotie had doorgestuurd naar de leerkracht.
+11.	Ik durfde meer mijn gevoelens te delen door de FeelLink dan anders.
+
+VRAGENLIJST LEERKRACHT 
+
+1.	De trilling leidde mij niet af tijdens het lesgeven.
+4.	Ik voelde de trilling telkens duidelijk.
+5.	De trilling was storend tijdens het lesgeven.
+6.	De trilling gaf me een duidelijk signaal dat er een boodschap werd doorgestuurd.
+8.	De interface gaf me een duidelijk overzicht van de ontvangen signalen.
+9.	De veranderingen in de interface waren visueel duidelijk.
+10.	De interface hielp mij om sneller te begrijpen wat het kind bedoelde.
+11.	Ik wist goed welke signalen van welke leerlingen kwamen.
+12.	De interface leidde niet af van mijn lesactiviteiten.
+13.	Door de feedback kon ik sneller inspelen op de noden van de leerling.
+14.	Ik voelde mij zekerder in het ondersteunen van de leerling dankzij de FEELLINK-feedback.
+
+
+<img width="605" alt="bert" src="https://github.com/user-attachments/assets/5d0fd648-aa81-4345-9519-d2bce2c02729" />
 
 
 ### Conclusies & implicaties
