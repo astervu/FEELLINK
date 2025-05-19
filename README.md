@@ -657,6 +657,9 @@ In het kader van user experience onderzochten we de ideale volgorde van de emoti
 
 Daarnaast testten we de volledige werking van Feellink in een lessimulatie met één werkend prototype. Na elk lessuur gaven we de FEELLINK door tussen leerlingen en deden telkens een kleine aanpassing namens de feedback van het indrukken van knoppen en het versturen van de emoties naar de leerkracht.
 
+![set up](https://github.com/user-attachments/assets/473560f0-5491-4e6f-9f03-a822b2711414)
+
+
 De 3 verschillende manieren van feedback:
 1.	Als men op een knop drukt zal zijn eigen led branden totdat er op de verzendingsknop wordt gedrukt of totdat ze de knop nog eens indrukken
 2.	Als men een knop indrukt zal men een trilling voelen en bij het verzenden van de emoties voelt met een langere trilling
@@ -732,12 +735,23 @@ VRAGENLIJST LEERKRACHT
 
 
 ### Conclusies & implicaties
-
 We voegen geen extra investment toe, omdat de emotionele band met de Feellink vanzelf ontstaat. Door via de tool gevoelens te uiten en hierbij gepaste steun te ervaren, groeit het vertrouwen en het positieve gevoel rond het gebruik. Volgens de attachment theory zorgt dit voor een duurzame motivatie om de tool te blijven gebruiken, waardoor bijkomende investeringsprikkels niet nodig zijn. Extra investeringen of triggers zouden zelfs contraproductief kunnen zijn, omdat ze het natuurlijke en vrijwillige karakter van de interactie kunnen verstoren.
 
 Na deze brainstorm hadden we al enkele tests uitgevoerd met trilsignalen als vorm van feedback. Hieruit bleek al snel dat dit geen effectieve methode was: de trilling was ofwel te luid en daardoor storend, ofwel te zwak en werd niet opgemerkt bij gebruik. Tijdens de lessimulaties hebben we de Feellink op bepaalde momenten laten trillen wanneer ze langere tijd niet gebruikt werd, maar dit leidde tot geen enkele reactie van de gebruikers. Dit bevestigt dat trilling geen geschikte feedbackvorm is voor deze doelgroep en context.
 
 Verder konden we onze brainstorming niet uitwerken door gebrek aan tijd.
+
+
+Uit de test en de vragenlijsten blijkt dat elke knop best voorzien wordt van LED-verlichting. Zo ziet de leerling meteen of de knop is ingedrukt, wat twijfel voorkomt. Voor het verzenden van emoties wordt een knipperend lampje toegevoegd, omdat dit als de duidelijkste vorm van bevestiging werd ervaren. Ook de trilfunctie voor leerkrachten blijkt essentieel, zodat zij tijdens het rondlopen signalen kunnen blijven ontvangen.
+Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te zien welke leerling een emotie verzendt. Wel blijkt een extra aanduiding nodig voor wanneer dezelfde emotie kort na elkaar opnieuw wordt ingedrukt, bijvoorbeeld via een tijdstempel of symbool.
+
+
+> [!IMPORTANT]
+> Design requirements:
+> - D2.10: Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is.
+> - D2.11: Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker.
+> - D3.11: Het systeem moet een trilfunctie bevatten die meldingen naar een mobiel toestel van de leerkracht stuurt, zodat deze ook tijdens het rondlopen signalen ontvangt.
+> - D1.14: Een nudge mag geen gebruik maken van trillingen.
 
 
 ## Bill of materials
@@ -796,6 +810,7 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D1.11 | De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken. | Develop 1 | 12/3/2025 |
 | D1.12 | De aan/uit knop is een switchknop die groter is dan 9x4 mm. | Develop 2 | 14/5/2025 |
 | D1.13 | De feedback op het aan- /uitzetten van de FEELLINK moet visueel maar subtiel zijn (=een verlichte bevestigingsknop + aanduiding bij de knop) | Develop 2 | 14/5/2025 |
+| D1.14 | Een nudge mag geen gebruik maken van trillingen. | Develop 3 | 19/5/2025 |
 | **D2**  | **Emoties aanduiden** |  |  |
 | D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
 | D2.2 | Het aanduiden van emoties moet onopvallend kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
@@ -806,6 +821,8 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D2.7 | Er moet een bevestigingsknop zijn om de error proofness te vergroten. | Definition wave 2 | 13/12/2024 |
 | D2.8 | Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
+| D2.10 | Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is. | Develop 3, lessimulatie | 19/5/2025 |
+| D2.11 | Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker. | Develop 3, lessimulatie | 19/5/2025 |
 | **D3** | **Leerkracht** |  |  |
 | D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
 | D3.2 | We moeten werken met dezelfde kleuren + emojis als van de FEELLINK. | Develop 2 | 5/5/2025 |
@@ -817,6 +834,7 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D3.8 | Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden. | Develop 2 | 5/5/2025  |
 | D3.9 | Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn) | Develop 2 | 5/5/2025  |
 | D3.10 | De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas. | Develop 2 | 5/5/2025  |
+| D3.11 | Het systeem moet een trilfunctie bevatten die meldingen naar een mobiel toestel van de leerkracht stuurt, zodat deze ook tijdens het rondlopen signalen ontvangt. | Develop 3, lessimulatie | 19/5/2025  |
 | **D4** | **Ergonomie** |  |  |
 | D4.1 | De grootte van de tool (kubus) is 79 cm. | Develop 1 | 12/3/2025 |
 | D4.2 | De knoppen op de fysieke interface moeten een diameter hebben van 20 mm. | Develop 1 | 12/3/2025 |
