@@ -741,6 +741,14 @@ Na deze brainstorm hadden we al enkele tests uitgevoerd met trilsignalen als vor
 
 Verder konden we onze brainstorming niet uitwerken door gebrek aan tijd.
 
+We concluderen dat de emotieknoppen als volgt op de interface zullen staan:
+•	Positie 1 : blije emotieknop
+•	Positie 2: verdrietige emotieknop
+•	Positie 3: verbaasde emotieknop
+•	Positie 4: verwarde emotieknop
+•	Positie 5: boze emotieknop
+Dit is bepaald op basis van waar ze het meest geplaatst zijn, waarbij verdrietig positie 2 opvult.
+
 
 Uit de test en de vragenlijsten blijkt dat elke knop best voorzien wordt van LED-verlichting. Zo ziet de leerling meteen of de knop is ingedrukt, wat twijfel voorkomt. Voor het verzenden van emoties wordt een knipperend lampje toegevoegd, omdat dit als de duidelijkste vorm van bevestiging werd ervaren. Ook de trilfunctie voor leerkrachten blijkt essentieel, zodat zij tijdens het rondlopen signalen kunnen blijven ontvangen.
 Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te zien welke leerling een emotie verzendt. Wel blijkt een extra aanduiding nodig voor wanneer dezelfde emotie kort na elkaar opnieuw wordt ingedrukt, bijvoorbeeld via een tijdstempel of symbool.
@@ -751,6 +759,7 @@ Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te 
 > - D2.10: Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is.
 > - D2.11: Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker.
 > - D3.11: Het systeem moet een trilfunctie bevatten die meldingen naar een mobiel toestel van de leerkracht stuurt, zodat deze ook tijdens het rondlopen signalen ontvangt.
+> - D2.12: De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos.
 > - D1.14: Een nudge mag geen gebruik maken van trillingen.
 
 
@@ -823,6 +832,7 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
 | D2.10 | Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is. | Develop 3, lessimulatie | 19/5/2025 |
 | D2.11 | Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker. | Develop 3, lessimulatie | 19/5/2025 |
+| D2.11 | De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos. | Develop 3 | 14/5/2025 |
 | **D3** | **Leerkracht** |  |  |
 | D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
 | D3.2 | We moeten werken met dezelfde kleuren + emojis als van de FEELLINK. | Develop 2 | 5/5/2025 |
