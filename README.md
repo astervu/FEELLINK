@@ -502,28 +502,17 @@ Tot slot beoordelen we ook of extra gewicht de controle en grip op het product n
 
 Uit de interviews konden er enkele design requirements geconcludeerd worden, om ons product te optimaliseren vanuit het standpunt van de leerkracht. Deze kwamen voort uit de suggesties van de geïnterviewde leerkrachten voor de app/interface/tool van de leerkrachten:
 
-- We moeten werken met dezelfde kleuren + emojis als van de FEELLINK.
--	De leerkrachten krijgen in real-time de meldingen binnen.
--	Het is handig om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden.
--	Bij de emotie blij hoeft er geen melding gegeven worden.
--	De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk).
--	Een stille trilling is een ideale manier van een melding ontvangen.
--	Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden.
--	Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn)
--	De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas.
-
-
 > [!IMPORTANT]
 > Design requirements:
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
-> - Dx.x: xxxxx.
+> - D3.2: We moeten werken met dezelfde kleuren + emojis als van de FEELLINK.
+> - D3.3: De leerkrachten krijgen in real-time de meldingen binnen.
+> - D3.4: Het moet een mogelijkheid zijn om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden.
+> - D3.5: Bij de emotie blij hoeft er geen melding gegeven worden.
+> - D3.6: De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk).
+> - D3.7: Een stille trilling is een ideale manier van een melding ontvangen.
+> - D3.8: Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden.
+> - D3.9: Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn)
+> - D3.10: De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas.
 
 
 Bij het bespreken van de testresultaten van onderzoeksvraag 2 blijkt al snel dat de draaiknop geëlimineerd kan worden: ze is niet intuïtief, aangezien sommige kinderen probeerden te duwen of te trekken in plaats van te draaien.
@@ -548,8 +537,8 @@ Voor de feedback combineren we een verlichte knop met een visuele aanduiding ron
 
 > [!IMPORTANT]
 > Design requirements:
-> - D1.??: De aan/uit knop is een switchknop die groter is dan 9x4 mm.
-> - D.??: De feedback op het aan- /uitzetten van de FEELLINK moet visueel maar subtiel zijn (=een verlichte bevestigingsknop + aanduiding bij de knop)
+> - D1.12: De aan/uit knop is een switchknop die groter is dan 9x4 mm.
+> - D1.13: De feedback op het aan- /uitzetten van de FEELLINK moet visueel maar subtiel zijn (=een verlichte bevestigingsknop + aanduiding bij de knop)
 
 
 Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een goede grenswaarde is voor het gewicht van de tool. Dit is een goede grenswaarde aangezien een smartphone gemiddeld ook 200g weegt wat relevant is aangezien een smartphone vaak langer dan 5 minuten met 1 hand wordt vastgehouden.
@@ -694,6 +683,8 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 | D1.9 | De plaats van de tool in de klas is op de persoonlijke bank van de leerlingen. | Develop 1 | 12/3/2025 |
 | D1.10 | De fysieke interface moet lichtjes bevatten die aantonen dat de knoppen aanstaan en werken. | Develop 1 | 12/3/2025 |
 | D1.11 | De leerlingen moeten in de fidget kunnen knijpen zonder zichzelf pijn te doen en zonder de tool kapot te maken. | Develop 1 | 12/3/2025 |
+| D1.12 | De aan/uit knop is een switchknop die groter is dan 9x4 mm. | Develop 2 | 14/5/2025 |
+| D1.13 | De feedback op het aan- /uitzetten van de FEELLINK moet visueel maar subtiel zijn (=een verlichte bevestigingsknop + aanduiding bij de knop) | Develop 2 | 14/5/2025 |
 | **D2**  | **Emoties aanduiden** |  |  |
 | D2.1 | Bij het aanduiden van emoties moeten kleuren gebruikt worden. | Discovery benchmarking | 28/10/2024 |
 | D2.2 | Het aanduiden van emoties moet onopvallend kunnen gebeuren ten opzichte van de medeleerlingen. | Discovery benchmarking | 28/10/2024 |
@@ -704,15 +695,24 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 | D2.7 | Er moet een bevestigingsknop zijn om de error proofness te vergroten. | Definition wave 2 | 13/12/2024 |
 | D2.8 | Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
-| **D3** | **App** |  |  |
+| **D3** | **Leerkracht** |  |  |
 | D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
+| D3.2 | We moeten werken met dezelfde kleuren + emojis als van de FEELLINK. | Develop 2 | 5/5/2025 |
+| D3.3 | De leerkrachten krijgen in real-time de meldingen binnen. | Develop 2 | 5/5/2025  |
+| D3.4 | DHet moet een mogelijkheid zijn om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden. | Develop 2 | 5/5/2025  |
+| D3.5 | Bij de emotie blij hoeft er geen melding gegeven worden. | Develop 2 | 5/5/2025  |
+| D3.6 | De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk). | Develop 2 | 5/5/2025  |
+| D3.7 | Een stille trilling is een ideale manier van een melding ontvangen. | Develop 2 | 5/5/2025  |
+| D3.8 | Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden. | Develop 2 | 5/5/2025  |
+| D3.9 | Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn) | Develop 2 | 5/5/2025  |
+| D3.10 | De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas. | Develop 2 | 5/5/2025  |
 | **D4** | **Ergonomie** |  |  |
 | D4.1 | De grootte van de tool (kubus) is 79 cm. | Develop 1 | 12/3/2025 |
 | D4.2 | De knoppen op de fysieke interface moeten een diameter hebben van 20 mm. | Develop 1 | 12/3/2025 |
 | D4.3 | De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben. | Develop 1 | 12/3/2025 |
 | D4.4 | De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan. | Develop 1 | 12/3/2025 |
 | D4.5 | De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen. | Develop 1 | 12/3/2025 |
-| D4.6 | Het maximaal gewicht van de tool is 200g | Develop 2 | 00/00/2025 |
+| D4.6 | Het maximaal gewicht van de tool is 200g | Develop 2 | 26/4/2025 |
 
 ## Bijlagen
 
