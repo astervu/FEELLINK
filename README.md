@@ -670,6 +670,9 @@ Verder konden we onze brainstorming niet uitwerken door gebrek aan tijd.
 
 
 ## Kritische reflectie
+
+<ins> SEMESTER 1 </ins>
+
 Tijdens ons lopende project hebben we ervaren hoe essentieel het is om een grondige voorkennis en diepgaand inzicht te hebben in ASS (autismespectrumstoornis) om een product te ontwerpen dat aansluit bij de specifieke noden van deze doelgroep. De complexiteit van ASS als spectrumstoornis maakt het echter uitdagend om een universele oplossing te bieden. Elk individu met ASS is uniek, en waar sommige kinderen moeite hebben met het uiten van hun gevoelens, ervaren anderen die drempel veel minder. Dit werd duidelijk tijdens onze gebruikerstests, waarin de diversiteit van ervaringen en behoeften naar voren kwam. 
 
 Een belangrijk aspect van ons product is de ontwikkeling van een ondersteunende app. Om de interface-indeling te testen, hebben we in onze derde wave gekozen voor een enquête, aangezien deze fase zich dicht bij de kerstvakantie bevond. Met een enquête konden we efficiënt en snel feedback verzamelen zonder fysieke afspraken te maken met leerkrachten, wat moeilijk te organiseren was in deze periode. Helaas bleef de respons onder onze verwachtingen, waardoor we nog wachten met het opstellen van een volledig verslag. Dit gebrek aan data is jammer, omdat het ons verhindert om conclusies te trekken en verdere stappen te nemen. 
@@ -680,7 +683,7 @@ Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om h
 
 De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
-
+<ins> SEMESTER 2 </ins>
 
 Na het tweede semester kijken we met voldoening terug op wat we tot nu toe gerealiseerd hebben. We zijn trots op de stappen die we hebben gezet, maar beseffen tegelijk dat het project nog niet af is. Er blijven nog belangrijke elementen over die verder uitgewerkt en getest moeten worden. Zo willen we de nudges beter onderbouwen met uitgebreidere testen, extra iteraties van de interface uitvoeren, en een trilfeedbacksysteem ontwikkelen dat specifiek gericht is op leerkrachten. Helaas was hier binnen de beschikbare tijd geen ruimte meer voor.
 
