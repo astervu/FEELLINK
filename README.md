@@ -682,6 +682,21 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 
 
 
+Na het tweede semester kijken we met voldoening terug op wat we tot nu toe gerealiseerd hebben. We zijn trots op de stappen die we hebben gezet, maar beseffen tegelijk dat het project nog niet af is. Er blijven nog belangrijke elementen over die verder uitgewerkt en getest moeten worden. Zo willen we de nudges beter onderbouwen met uitgebreidere testen, extra iteraties van de interface uitvoeren, en een trilfeedbacksysteem ontwikkelen dat specifiek gericht is op leerkrachten. Helaas was hier binnen de beschikbare tijd geen ruimte meer voor.
+
+Een van de grootste struikelblokken ontstond na de eerste ontwikkelingsfase (develop 1). Waar we in het begin vlot contact hadden met scholen, viel dat contact plots stil. We kregen geen reacties meer, wat een duidelijke blokkage veroorzaakte in onze testplanning. In develop 2 hadden we een onderzoeksvraag met meer focus op de leerkrachten. Achteraf gezien was dit misschien te veel gevraagd. Leerkrachten hebben het al druk, en de bereidheid om diepgaand deel te nemen bleek beperkt. Dit hadden we ook al ondervonden tijdens define wave 3, toen we een enquête uitstuurden en daar nauwelijks respons op kregen. Aanvankelijk dachten we dat dit lag aan de vorm van de enquête, maar uiteindelijk werd duidelijk dat de beperkte betrokkenheid eerder te maken had met een overvraging van de doelgroep.
+
+We zijn ons er ook van bewust dat we sommige testen anders konden aanpakken. Zo was het ideaal geweest om in de lessimulatie met meerdere Feellinks te werken, of om vroeger in het proces de indrukbare knopjes grondiger te testen. Helaas beschikten we niet over voldoende Arduino’s of HC-05 modules om deze tests uit te voeren met Bluetooth-functionaliteit. Bovendien moesten de knopjes stevig bevestigd worden in de prototypes, wat het lastig maakte om ze netjes te hergebruiken of snel te wisselen voor een ander ontwerp. Deze praktische beperkingen hebben onze testmogelijkheden dus sterk beïnvloed.
+
+Ondanks deze uitdagingen kunnen we terugkijken op een vlotte en positieve samenwerking binnen het team. Net als in het eerste semester gebruikten we Trello om onze taken te plannen, wat hielp om structuur te behouden. De gedeelde mappen maakten het makkelijk om elkaars werk op te volgen en aan te vullen waar nodig. We hebben goed op elkaar ingespeeld.
+
+Wat ons sterk bijbleef, is het enthousiasme van zowel leerlingen als leerkrachten tijdens de testen, vooral tijdens de lessimulatie. Velen gingen ervan uit dat Feellink een echt product zou worden en vonden het jammer dat het project zou stoppen. Dit geeft aan dat ons werk er wel toe doet. 
+
+Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerking. Toch nemen we er veel inzichten en motivatie uit mee.
+
+
+
+
 ## Design Requirements
 
 | Nummer  | Design requirement | Source | Datum |
