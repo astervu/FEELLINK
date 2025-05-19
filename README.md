@@ -476,9 +476,14 @@ Om mogelijke obstakels te identificeren die wij zelf over het hoofd zouden kunne
 
 In een vorige developfase hebben we het concept van een knop onderzocht, maar daarbij kwamen enkele twijfels naar voren: zorgt de knop voor voldoende onderscheid tussen functies, en wordt de interface niet te druk met meerdere knoppen?
 Om dit verder te verfijnen, testen we nu verschillende alternatieven voor de knop die zowel visueel als functioneel beter onderscheid bieden. We beperken ons tot een selectie van mogelijke bedieningsvormen:
-- switch
+- joystick
 - schuifknop
 - draaiknop
+- 
+![joystick](https://github.com/user-attachments/assets/f676c660-a7ea-4618-8491-c8bbba4d0948)
+![switch](https://github.com/user-attachments/assets/8c54efdb-aa82-4b9b-93de-66105373de0a)
+![draaiknop](https://github.com/user-attachments/assets/6544822e-76fe-4733-90b6-5f0818c83a88)
+
   
 Voor de test bouwen we één flexibel prototype waarop we eenvoudig de verschillende knoppen kunnen uitwisselen. We integreren ook fidgets in dit prototype, zodat het volledige concept wordt meegenomen in de beleving. Tijdens de test vertellen we de kinderen verhaaltjes over een fictieve leerling, zodat zij via speelse interactie met de tool kunnen aangeven wat voor hen het prettigst werkt. Zo verkrijgen we gerichte feedback over zowel de gebruiksvriendelijkheid als de voorkeur voor een bepaald type knop.
 We werken met e-prototypes die gebruikmaken van Arduino om zowel visuele (lichtjes) als haptische (trilling) feedback te geven bij het aan- en uitzetten van de knop. Dit laat ons toe om de effectiviteit en voorkeur voor beide feedbackvormen nauwkeurig te vergelijken.
@@ -643,9 +648,19 @@ Brainstorming investering in de FEELLINK
   - _Trigger_ : nudges
     - Brainstorming nudges:
       - Bij lang gebruik van de fidget (meten via timer + bewegingssensor), zal de tool trillen waardoor het kind zich kan herinneren om eens na te denken over hun emotie.
-      - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen. 
-      
-### Conclusies & implicaties 
+      - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen.
+      - Een verandering van kleur van de aan/uit knop.
+
+
+
+### Conclusies & implicaties
+
+We voegen geen extra investment toe, omdat de emotionele band met de Feellink vanzelf ontstaat. Door via de tool gevoelens te uiten en hierbij gepaste steun te ervaren, groeit het vertrouwen en het positieve gevoel rond het gebruik. Volgens de attachment theory zorgt dit voor een duurzame motivatie om de tool te blijven gebruiken, waardoor bijkomende investeringsprikkels niet nodig zijn. Extra investeringen of triggers zouden zelfs contraproductief kunnen zijn, omdat ze het natuurlijke en vrijwillige karakter van de interactie kunnen verstoren.
+
+Na deze brainstorm hadden we al enkele tests uitgevoerd met trilsignalen als vorm van feedback. Hieruit bleek al snel dat dit geen effectieve methode was: de trilling was ofwel te luid en daardoor storend, ofwel te zwak en werd niet opgemerkt bij gebruik. Tijdens de lessimulaties hebben we de Feellink op bepaalde momenten laten trillen wanneer ze langere tijd niet gebruikt werd, maar dit leidde tot geen enkele reactie van de gebruikers. Dit bevestigt dat trilling geen geschikte feedbackvorm is voor deze doelgroep en context.
+
+Verder konden we onze brainstorming niet uitwerken door gebrek aan tijd.
+
 
 ## Bill of materials
 - thermoplastische rubber
