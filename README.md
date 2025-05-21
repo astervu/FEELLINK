@@ -41,15 +41,14 @@ Hierna is er over gegaan naar developfase 1. In deze fase is er begonnen met het
 
 In developfase 2 vertrokken we vanuit de vraag het product te optimaliseren vanuit het standpunt van de leerkracht. Dit is gebeurd aan de hand van interviews met leerkrachten waarin er gefocust werd op: de meldingen die de leerkracht zou ontvangen bij emotieverandering, dataopvolging van de leerling, het apparaat waarop de leerkracht de stand van de leerling kan zien en eventuele obstakels die door ons gemist waren. Om deze mogelijke obstakels te identificeren is er gebruik gemaakt van een storyboard. Ook is er onderzocht hoe we het emotieaanduidsysteem kunnen integreren tot een product samen met het fidget systeem, dit gebeurde aan de hand van A/B/C-testing waarna de pro's en cons van de twee favorieten afgewogen werden tegen elkaar. Daarnaast is er ook nog even verder ingepikt op de ergonomietesten uit develop 1, waarbij er maximaal gewichtttesten zijn gebeurd.
 
-In de laatste fase, developfase 3, is er onderzocht hoe ervoor kan gezorgd worden dat de leerlingen de tool wilt en blijft gebruiken, dit is gebeurd aan de hand van theoretische modellen en een beperkte literatuurstudie. Hierna volgde een PESTEL analyse door studenten uit het vak De kennismaatschappij en ICT die vanuit een buitenstaand standpunt feedback en tips gaven. Daarnaast is er ook een codesign test gebeurd met de leerlingen waarbij ze zelf konden beslissen in welke volgorde de emotieknoppen moeten staan op de interface. In deze fase is er ook een lessimulatie met een (zo goed als) werkend prototype gebeurd. Hierbij werd er gekeken naar de user experience bij verschillende feedbackmethoden. Om daarnaast ook de algemene integratie in de klas te simuleren is er gebruik gemaakt van Wizard of Oz-testing, waarbij telkens als de leerling een emotie aanduidde, deze werd veranderd op een gedeelde interface met de leerkracht en de leerkracht dan een trilling kreeg doorgestuurd. Na deze simulatie kregen de leerlingen en de leerkrachten een vragenlijst om de user experience beter te kunnen inschatten.
+In de laatste fase, developfase 3, is er onderzocht hoe ervoor kan gezorgd worden dat de leerlingen de tool wilt en blijft gebruiken, dit is gebeurd aan de hand van theoretische modellen en een beperkte literatuurstudie. Hierna volgde een PESTEL analyse door studenten uit het vak De kennismaatschappij en ICT die vanuit een buitenstaand standpunt feedback en tips gaven. Daarnaast is er ook een co-design test gebeurd met de leerlingen waarbij ze zelf konden beslissen in welke volgorde de emotieknoppen moeten staan op de interface. In deze fase is er ook een lessimulatie met een (zo goed als) werkend prototype gebeurd. Hierbij werd er gekeken naar de user experience bij verschillende feedbackmethoden. Om daarnaast ook de algemene integratie in de klas te simuleren is er gebruik gemaakt van Wizard of Oz-testing, waarbij telkens als de leerling een emotie aanduidde, deze werd veranderd op een gedeelde interface met de leerkracht en de leerkracht dan een trilling kreeg doorgestuurd. Na deze simulatie kregen de leerlingen en de leerkrachten een vragenlijst om de user experience beter te kunnen inschatten.
 
 
-Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept.
-
-De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
+Na elke testfase werd er een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten werden zowel gebruikt als richtlijn doorheen het project maar zijn ook eisen die moeten aangehouden bij verdere ontwikkeling van het product..
 
 
-![image](https://github.com/user-attachments/assets/2f27896e-2531-45f9-8a3e-e494e48dd6c6)
+![image](https://github.com/user-attachments/assets/99acb52d-7e5b-4de3-b5bb-c43d53236411)
+
 
 
 ## Discovery
@@ -580,7 +579,7 @@ Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een
 - leerkracht interface
 - vragenlijst
 - PESTEL-analyse dankzij studenten vak De kennismaatschappij en ICT
-- codesign with children
+- co-design with children
 
 
 ### Resultaten
@@ -631,7 +630,9 @@ Brainstorming investering in de FEELLINK
     
   - emotionele investering
   
-  Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de Feellink. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen van de attachment theory.
+  Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de FEELLINK. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen van de attachment theory.
+  Dit staat verder beschreven in het protocol van deze developfase.
+
 
 
 
