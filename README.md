@@ -3,7 +3,7 @@
 
 *Projectteam: Aster Vuylsteke, Aimé Van Alboom*
 
-*Datum: 07/01/2025*
+*Datum: 21/05/2025*
 
 ## Samenvatting
 Kinderen met ASS hebben vaak moeite om hun emoties en gevoelens te communiceren. Ze ervaren een hoge drempel om dit te doen of communiceren hun behoeften niet duidelijk, wat kan leiden tot conflicten, ongemak en frustratie.
