@@ -15,6 +15,7 @@ Onze oplossing is een slimme fidget met een ingebouwd apparaatje waarmee leerlin
 Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie met het apparaat minder confronterend is dan directe mens-mens communicatie. De visuele iconen bevorderen de zelfexpressie en verbeteren het begrip van de eigen emotie bij de leerling. De fidget helpt met zelfregulatie, focus en het verminderen van angst en stress door tactiele stimulatie. Bovendien merkt de omgeving niet dat de leerling iets communiceert, wat extra comfort biedt. Dit zorgt voor een rustigere en meer begripvolle leeromgeving waarin leerlingen beter ondersteund worden.
 
 
+
 ![render feellink !(met knoppen)](https://github.com/user-attachments/assets/fcdf4aa8-8524-4f7a-b7e8-080d11f1f05f)
 
 
@@ -36,9 +37,14 @@ In de exploratiefase zijn we eerst een vooral begonnen met onderzoek naar de geb
 
 In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
 
-Hierna is er over gegaan naar de developfase. In deze fase is er in de eerste wave begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface. Daarnaast is er ook gekeken naar de integratie van het emotieaanduidsysteem tot een product samen met de fidget, dit is gebeurd aan de hand van een beslissingsmatrix met vooraf opgestelde succescriteria en aan de hand van de verschillende mentale modellen die de leerlingen opbouwden bij enkele conceptschetsen. Ook is er een korte peiling gebeurd om te achterhalen met welke fidgets de kinderen het meest vertrouwd zijn.
+Hierna is er over gegaan naar developfase 1. In deze fase is er begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface. Daarnaast is er ook gekeken naar de integratie van het emotieaanduidsysteem tot een product samen met de fidget, dit is gebeurd aan de hand van een beslissingsmatrix met vooraf opgestelde succescriteria en aan de hand van de verschillende mentale modellen die de leerlingen opbouwden bij enkele conceptschetsen. Ook is er een korte peiling gebeurd om te achterhalen met welke fidgets de kinderen het meest vertrouwd zijn.
 
-Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept. 
+In developfase 2 vertrokken we vanuit de vraag het product te optimaliseren vanuit het standpunt van de leerkracht. Dit is gebeurd aan de hand van interviews met leerkrachten waarin er gefocust werd op: de meldingen die de leerkracht zou ontvangen bij emotieverandering, dataopvolging van de leerling, het apparaat waarop de leerkracht de stand van de leerling kan zien en eventuele obstakels die door ons gemist waren. Om deze mogelijke obstakels te identificeren is er gebruik gemaakt van een storyboard. Ook is er onderzocht hoe we het emotieaanduidsysteem kunnen integreren tot een product samen met het fidget systeem, dit gebeurde aan de hand van A/B/C-testing waarna de pro's en cons van de twee favorieten afgewogen werden tegen elkaar. Daarnaast is er ook nog even verder ingepikt op de ergonomietesten uit develop 1, waarbij er maximaal gewichtttesten zijn gebeurd.
+
+In de laatste fase, developfase 3, is er onderzocht hoe ervoor kan gezorgd worden dat de leerlingen de tool wilt en blijft gebruiken, dit is gebeurd aan de hand van theoretische modellen en een beperkte literatuurstudie. Hierna volgde een PESTEL analyse door studenten uit het vak De kennismaatschappij en ICT die vanuit een buitenstaand standpunt feedback en tips gaven. Daarnaast is er ook een codesign test gebeurd met de leerlingen waarbij ze zelf konden beslissen in welke volgorde de emotieknoppen moeten staan op de interface. In deze fase is er ook een lessimulatie met een (zo goed als) werkend prototype gebeurd. Hierbij werd er gekeken naar de user experience bij verschillende feedbackmethoden. Om daarnaast ook de algemene integratie in de klas te simuleren is er gebruik gemaakt van Wizard of Oz-testing, waarbij telkens als de leerling een emotie aanduidde, deze werd veranderd op een gedeelde interface met de leerkracht en de leerkracht dan een trilling kreeg doorgestuurd. Na deze simulatie kregen de leerlingen en de leerkrachten een vragenlijst om de user experience beter te kunnen inschatten.
+
+
+Na elke testfase voerden we een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten gaan worden gebruikt als richtlijn voor de verdere ontwikkeling van het uiteindelijke concept.
 
 De momenteel opgestelde eisen werden ook al gebruikt voor een gedetailleerde conceptschets op te stellen.
 
@@ -454,6 +460,9 @@ In de eerste develop fase wilden we volgende 3 onderzoeksvragen behandelen:
 - weegschaal
 - verschillende soorten knoppen
 - interview
+- gewichtstesten
+- A/B/C-testen
+- pro's en cons afweging
 - e-prototype
 
 ### Resultaten
@@ -479,7 +488,7 @@ Om dit verder te verfijnen, testen we nu verschillende alternatieven voor de kno
 - joystick
 - schuifknop
 - draaiknop
-- 
+  
 ![joystick](https://github.com/user-attachments/assets/f676c660-a7ea-4618-8491-c8bbba4d0948)
 ![switch](https://github.com/user-attachments/assets/8c54efdb-aa82-4b9b-93de-66105373de0a)
 ![draaiknop](https://github.com/user-attachments/assets/6544822e-76fe-4733-90b6-5f0818c83a88)
@@ -558,12 +567,20 @@ Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een
 ### Doelstellingen
 
 1. Hoe zorgen we ervoor dat de leerlingen de tool wilt en blijft gebruiken?
-2. Hoe kunnen we de user experience nog optimaliseren?
+2. PESTEL-analyse
+3. Hoe kunnen we de user experience nog optimaliseren?
 
 ### Materiaal en methoden
 - theoretische modellen
+- beknopte literatuurstudie
+- PESTEL analyse
 - lessimulatie
 - werkende prototypes
+- Wizard of Oz-testing
+- leerkracht interface
+- vragenlijst
+- PESTEL-analyse dankzij studenten vak De kennismaatschappij en ICT
+- codesign with children
 
 
 ### Resultaten
@@ -651,9 +668,13 @@ Brainstorming investering in de FEELLINK
       - Bij het begin van de dag/ na elke pauze is er een visuele nudge / trilling die de kinderen een check in laat doen.
       - Een verandering van kleur van de aan/uit knop.
 
+<ins> PESTEL-analyse </ins>
+
+Er is een analyse ontvangen van studenten uit het vak De kennismaatschappij en ICT, deze hadden onze Github pagina bekeken en op basis daarvan een PESTEL-analyse uitgevoerd op ons project. Er werden tips en feedback meegedeeld met de kijk vanuit de verschillende aspecten van PESTEL. (Political, Economic, Social, Technological, Environmental en Legal)
+
 <ins> Onderzoeksvraag 2: Hoe kunnen we de user experience nog optimaliseren? </ins>
 
-In het kader van user experience onderzochten we de ideale volgorde van de emotieknoppen op de interface. Dit gebeurde via een test waarbij leerlingen losse knoppen op een bordje konden leggen volgens hun voorkeur. We vroegen daarbij naar hun redenering en observeerden het legproces om inzicht te krijgen in hun keuzes.
+In het kader van user experience onderzochten we de ideale volgorde van de emotieknoppen op de interface. Dit gebeurde via een codesign test waarbij leerlingen losse knoppen op een bordje konden leggen volgens hun voorkeur. We vroegen daarbij naar hun redenering en observeerden het legproces om inzicht te krijgen in hun keuzes.
 
 Daarnaast testten we de volledige werking van Feellink in een lessimulatie met één werkend prototype. Na elk lessuur gaven we de FEELLINK door tussen leerlingen en deden telkens een kleine aanpassing namens de feedback van het indrukken van knoppen en het versturen van de emoties naar de leerkracht.
 
@@ -741,6 +762,8 @@ Na deze brainstorm hadden we al enkele tests uitgevoerd met trilsignalen als vor
 
 Verder konden we onze brainstorming niet uitwerken door gebrek aan tijd.
 
+Uit de PESTEL analyse en de argumenten errond werd er besloten de neutrale emotie van de tool te verwijderen. Dit aangezien het een emotie is die niet per se noodzakelijk is om gedeeld te worden en het dus misschien een uitweg kan zijn voor de leerling om zijn echte emotie door te sturen. Daarnaast vonden we nog enkele andere dingen die opgebracht waren interessant om op verder te werken, zoals het draadloos oplaadsysteem achteraan de klas en de economie rond fabricatie en onderhoud. Er werd echter besloten om hier niet dieper op in te gaan en dit buiten de scope van het project te plaatsen omwille van de vrij nabije einddeadline en prioriseringen in testen.
+
 We concluderen dat de emotieknoppen als volgt op de interface zullen staan:
 •	Positie 1 : blije emotieknop
 •	Positie 2: verdrietige emotieknop
@@ -750,16 +773,17 @@ We concluderen dat de emotieknoppen als volgt op de interface zullen staan:
 Dit is bepaald op basis van waar ze het meest geplaatst zijn, waarbij verdrietig positie 2 opvult.
 
 
-Uit de test en de vragenlijsten blijkt dat elke knop best voorzien wordt van LED-verlichting. Zo ziet de leerling meteen of de knop is ingedrukt, wat twijfel voorkomt. Voor het verzenden van emoties wordt een knipperend lampje toegevoegd, omdat dit als de duidelijkste vorm van bevestiging werd ervaren. Ook de trilfunctie voor leerkrachten blijkt essentieel, zodat zij tijdens het rondlopen signalen kunnen blijven ontvangen.
+Uit de tests en de vragenlijsten blijkt dat elke knop best voorzien wordt van LED-verlichting. Zo ziet de leerling meteen of de knop is ingedrukt, wat twijfel voorkomt. Voor het verzenden van emoties wordt een knipperend lampje toegevoegd, omdat dit als de duidelijkste vorm van bevestiging werd ervaren. Ook de trilfunctie voor leerkrachten blijkt essentieel, zodat zij tijdens het rondlopen signalen kunnen blijven ontvangen.
 Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te zien welke leerling een emotie verzendt. Wel blijkt een extra aanduiding nodig voor wanneer dezelfde emotie kort na elkaar opnieuw wordt ingedrukt, bijvoorbeeld via een tijdstempel of symbool.
 
 
 > [!IMPORTANT]
 > Design requirements:
-> - D2.10: Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is.
-> - D2.11: Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker.
+> - D2.10: De neutrale emotie mag niet op de tool aanwezig zijn.
+> - D2.11: Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is.
+> - D2.12: Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker.
 > - D3.11: Het systeem moet een trilfunctie bevatten die meldingen naar een mobiel toestel van de leerkracht stuurt, zodat deze ook tijdens het rondlopen signalen ontvangt.
-> - D2.12: De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos.
+> - D2.13: De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos.
 > - D1.14: Een nudge mag geen gebruik maken van trillingen.
 
 
@@ -790,7 +814,7 @@ De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeel
 
 <ins> SEMESTER 2 </ins>
 
-Na het tweede semester kijken we met voldoening terug op wat we tot nu toe gerealiseerd hebben. We zijn trots op de stappen die we hebben gezet, maar beseffen tegelijk dat het project nog niet af is. Er blijven nog belangrijke elementen over die verder uitgewerkt en getest moeten worden. Zo willen we de nudges beter onderbouwen met uitgebreidere testen, extra iteraties van de interface uitvoeren, een trilfeedbacksysteem ontwikkelen dat specifiek gericht is op leerkrachten en ook een oplaadsysteem ontwerpen. Helaas was hier binnen de beschikbare tijd geen ruimte meer voor.
+Na het tweede semester kijken we met voldoening terug op wat we tot nu toe gerealiseerd hebben. We zijn trots op de stappen die we hebben gezet, maar beseffen tegelijk dat het project nog niet af is. Er blijven nog belangrijke elementen over die verder uitgewerkt en getest moeten worden. Zo willen we de nudges beter onderbouwen met uitgebreidere testen, extra iteraties van de interface uitvoeren, een trilfeedbacksysteem ontwikkelen dat specifiek gericht is op leerkrachten en ook een draadloos oplaadsysteem ontwerpen. Helaas was hier binnen de beschikbare tijd geen ruimte meer voor.
 
 Een van de grootste struikelblokken ontstond na de eerste ontwikkelingsfase (develop 1). Waar we in het begin vlot contact hadden met scholen, viel dat contact plots stil. We kregen geen reacties meer, wat een duidelijke blokkage veroorzaakte in onze testplanning. In develop 2 hadden we een onderzoeksvraag met meer focus op de leerkrachten. Achteraf gezien was dit misschien te veel gevraagd. Leerkrachten hebben het al druk, en de bereidheid om diepgaand deel te nemen bleek beperkt. Dit hadden we ook al ondervonden tijdens define wave 3, toen we een enquête uitstuurden en daar nauwelijks respons op kregen. Aanvankelijk dachten we dat dit lag aan de vorm van de enquête en de periode van het jaar (vakantieperiode), maar uiteindelijk werd duidelijk dat de beperkte betrokkenheid eerder te maken had met een overvraging van de doelgroep.
 
@@ -800,7 +824,7 @@ Ondanks deze uitdagingen kunnen we terugkijken op een vlotte en positieve samenw
 
 Wat ons sterk bijbleef is het enthousiasme van zowel leerlingen als leerkrachten tijdens de testen, vooral tijdens de lessimulatie. Velen gingen ervan uit dat FEELLINK een echt product zou worden en vonden het jammer dat het project zou stoppen. Dit geeft aan dat ons werk er wel toe doet. 
 
-Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerking. Toch nemen we er veel inzichten en motivatie uit mee naar v.
+Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerking. Toch nemen we er veel inzichten en motivatie uit mee naar volgende projecten.
 
 
 
@@ -834,9 +858,10 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D2.7 | Er moet een bevestigingsknop zijn om de error proofness te vergroten. | Definition wave 2 | 13/12/2024 |
 | D2.8 | Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
-| D2.10 | Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is. | Develop 3, lessimulatie | 19/5/2025 |
-| D2.11 | Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker. | Develop 3, lessimulatie | 19/5/2025 |
-| D2.11 | De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos. | Develop 3 | 14/5/2025 |
+| D2.10 |De neutrale emotie mag niet op de tool aanwezig zijn. | Develop 3, PESTEL-analyse | 24/4/2025 |
+| D2.11 | Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is. | Develop 3, lessimulatie | 19/5/2025 |
+| D2.12 | Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker. | Develop 3, lessimulatie | 19/5/2025 |
+| D2.13 | De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos. | Develop 3 | 14/5/2025 |
 | **D3** | **Leerkracht** |  |  |
 | D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
 | D3.2 | We moeten werken met dezelfde kleuren + emojis als van de FEELLINK. | Develop 2 | 5/5/2025 |
@@ -884,14 +909,21 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 **Develop**
 - protocol
   - [Develop wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcwJWgr-xsBJjngo-9FJzZwBsNQBkmoPG4wla99mNBSVtA?e=9QsmC6)
+  - [Develop wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EejmUnNeMNFEjsj-9BCKlJkBLbdw6e6AeDup7qnyZyZ91Q?e=55h9Wf)
+  - [Develop wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EcYTZnFerQpDj0eg7eIXzvoB0uRsl7Z3En2yfOHTXnrhGA?e=sEfqPw)
 - report
   - [Develop wave 1](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EV3ZKc4KRPtKllTtCGGaY94BTPROrd_bZDGaFCj3kz3DkQ?e=tfjdJa)
+  - [Develop wave 2](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EbNVyaqHaJtMg0e7sJLOAjsBvLlpE9gyNBSCZp0jFgEYDQ?e=PdY0IU)
+  - [Develop wave 3](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/EQIKyDxqgS5HkR-E2PZK00UBrE9afi9QE5m03gJtK3fpnQ?e=RR1PGa)
 
+- Pestel-analyse
+  - [Report PESTEL-analyse](https://ugentbe-my.sharepoint.com/:w:/g/personal/aster_vuylsteke_ugent_be/Edba3LgmJX9BgD9vSkCcdPABsAu8UNJzoBpfg0GzRIj6jw?e=pF42Z2)
 
 
 **Storyboard**
 
 ![storyboard](https://github.com/user-attachments/assets/0fa13b35-bcf6-4280-995f-1649b2283089)
+![storyboard leerkracht](https://github.com/user-attachments/assets/c6b848b1-3c1d-4762-9940-4423cb9835e0)
 
       
 
