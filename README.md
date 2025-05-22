@@ -33,18 +33,18 @@ Dit onderzoek richt zich op de ontwikkeling van een product dat kinderen met ASS
 ## Methodologie
 Doorheen het ontwerpproces hebben we gewerkt met een gestructureerde aanpak die steeds de gebruiker centraal stelde in het ontwerpproces. Zo hebben we zoveel mogelijk de gebruikersdoelgroep aangesproken om hen te betrekken in het ontwerpproces. Ook konden we zo het product zo gebruikersvriendelijk mogelijk maken.
 
-In de exploratiefase zijn we eerst een vooral begonnen met onderzoek naar de gebruiker, aangezien de gebruikers vaak specifieke noden kunnen hebben was het belangrijk om te gaan onderzoeken waar gebruikers veel belang aan hechten. Hiermee ging gepaard dat we een goed doordachte identificatie van het probleem opstelden alsook de analyse ervan. Dit deden we aan de hand van literatuuronderzoek, gebruiker interviews, expert interviews en een ‘day in the life’.  Het ondervonden probleem is dan verder onderzocht geweest, dit aan de hand van literatuuronderzoek en benchmarking over bestaande systemen die men gebruikt bij kinderen met ASS.
+In de exploratiefase zijn we eerst en vooral begonnen met onderzoek naar de gebruiker. Aangezien de gebruikers vaak specifieke noden kunnen hebben, was het belangrijk om te gaan onderzoeken waar gebruikers veel belang aan hechten. Hiermee ging gepaard dat we een goed doordachte identificatie van het probleem opstelden alsook de analyse ervan. Dit deden we aan de hand van literatuuronderzoek, gebruiker interviews, expert interviews en een ‘day in the life’.  Het ondervonden probleem is dan verder onderzocht geweest, dit aan de hand van literatuuronderzoek en benchmarking over bestaande systemen die men gebruikt bij kinderen met ASS.
 
-In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
+In de definitiefase vertrokken we vanuit een storyboard om ons te verdiepen in de noden van de gebruiker. In deze fase hebben we zowel fysieke als digitale prototypes gemaakt die we getest hebben bij onze gebruikersdoelgroep in 3 design waves. Zo moesten we het concept opsplitsen in twee delen met twee verschillende gebruikers, de leerling en de leerkracht. De eerste 2 design waves hebben we besteed aan het zo goed mogelijk voldoen aan de eisen en noden van de leerling. Dit deden we aan de hand van usertesting en userinterviews tijdens deze test om hun eerlijke mening te krijgen. Voor het tweede deel van het concept, de tool voor de leerkrachten, hebben we een enquête gemaakt om insteek te krijgen van de leerkrachten in het maken van de interface van deze tool. Dit deden we aan de hand van vragen te stellen over low fidelity interfaces die we enkele simpele gebruiksinteracties hadden toegekend.
 
-Hierna is er over gegaan naar developfase 1. In deze fase is er begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vast gelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface. Daarnaast is er ook gekeken naar de integratie van het emotieaanduidsysteem tot een product samen met de fidget, dit is gebeurd aan de hand van een beslissingsmatrix met vooraf opgestelde succescriteria en aan de hand van de verschillende mentale modellen die de leerlingen opbouwden bij enkele conceptschetsen. Ook is er een korte peiling gebeurd om te achterhalen met welke fidgets de kinderen het meest vertrouwd zijn.
+Hierna is er over gegaan naar developfase 1. In deze fase is er begonnen met het onderzoeken van de integratie van het product in de klas als ook onderzoek naar de ergonomie van het product. Dit is vooral gebeurd aan de hand van A/B testing van prototypes gebaseerd op data uit antropometrische tabellen. Zo kon de plaats van het product in de klas worden vastgelegd en ook de grootte van het product en de grootte van de knoppen op de fysieke interface. Daarnaast is er ook gekeken naar de integratie van het emotieaanduidsysteem tot een product samen met de fidget. Dit is gebeurd aan de hand van een beslissingsmatrix met vooraf opgestelde succescriteria en aan de hand van de verschillende mentale modellen die de leerlingen opbouwden bij enkele conceptschetsen. Ook is er een korte peiling gebeurd om te achterhalen met welke fidgets de kinderen het meest vertrouwd zijn.
 
 In developfase 2 vertrokken we vanuit de vraag het product te optimaliseren vanuit het standpunt van de leerkracht. Dit is gebeurd aan de hand van interviews met leerkrachten waarin er gefocust werd op: de meldingen die de leerkracht zou ontvangen bij emotieverandering, dataopvolging van de leerling, het apparaat waarop de leerkracht de stand van de leerling kan zien en eventuele obstakels die door ons gemist waren. Om deze mogelijke obstakels te identificeren is er gebruik gemaakt van een storyboard. Ook is er onderzocht hoe we het emotieaanduidsysteem kunnen integreren tot een product samen met het fidget systeem, dit gebeurde aan de hand van A/B/C-testing waarna de pro's en cons van de twee favorieten afgewogen werden tegen elkaar. Daarnaast is er ook nog even verder ingepikt op de ergonomietesten uit develop 1, waarbij er maximaal gewichtttesten zijn gebeurd.
 
-In de laatste fase, developfase 3, is er onderzocht hoe ervoor kan gezorgd worden dat de leerlingen de tool wilt en blijft gebruiken, dit is gebeurd aan de hand van theoretische modellen en een beperkte literatuurstudie. Hierna volgde een PESTEL analyse door studenten uit het vak De kennismaatschappij en ICT die vanuit een buitenstaand standpunt feedback en tips gaven. Daarnaast is er ook een co-design test gebeurd met de leerlingen waarbij ze zelf konden beslissen in welke volgorde de emotieknoppen moeten staan op de interface. In deze fase is er ook een lessimulatie met een (zo goed als) werkend prototype gebeurd. Hierbij werd er gekeken naar de user experience bij verschillende feedbackmethoden. Om daarnaast ook de algemene integratie in de klas te simuleren is er gebruik gemaakt van Wizard of Oz-testing, waarbij telkens als de leerling een emotie aanduidde, deze werd veranderd op een gedeelde interface met de leerkracht en de leerkracht dan een trilling kreeg doorgestuurd. Na deze simulatie kregen de leerlingen en de leerkrachten een vragenlijst om de user experience beter te kunnen inschatten.
+In de laatste fase, developfase 3, is er onderzocht hoe ervoor kan gezorgd worden dat de leerlingen de tool willen en blijven gebruiken. Dit is gebeurd aan de hand van theoretische modellen en een beperkte literatuurstudie. Hierna volgde een PESTEL analyse door studenten uit het vak De kennismaatschappij en ICT die vanuit een buitenstaander standpunt feedback en tips gaven. Daarnaast is er ook een co-design test gebeurd met de leerlingen waarbij ze zelf konden beslissen in welke volgorde de emotieknoppen moeten staan op de interface. In deze fase is er ook een lessimulatie met een (zo goed als) werkend prototype gebeurd. Hierbij werd er gekeken naar de user experience bij verschillende feedbackmethoden. Om daarnaast ook de algemene integratie in de klas te simuleren is er gebruik gemaakt van Wizard of Oz-testing, waarbij telkens als de leerling een emotie aanduidde, deze werd veranderd op een gedeelde interface met de leerkracht en de leerkracht dan een trilling kreeg doorgestuurd. Na deze simulatie kregen de leerlingen en de leerkrachten een vragenlijst om de user experience beter te kunnen inschatten.
 
 
-Na elke testfase werd er een grondige analyse uit om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten werden zowel gebruikt als richtlijn doorheen het project maar zijn ook eisen die moeten aangehouden bij verdere ontwikkeling van het product..
+Na elke testfase werd er een grondige analyse uitgevoerd om de belangrijkste ontwerpvereisten te identificeren. Deze vereisten werden zowel gebruikt als richtlijn doorheen het project maar zijn ook eisen die moeten aangehouden worden bij verdere ontwikkeling van het product.
 
 
 ![image](https://github.com/user-attachments/assets/99acb52d-7e5b-4de3-b5bb-c43d53236411)
@@ -70,14 +70,13 @@ We bekijken kritisch welke hulpmiddelen er momenteel beschikbaar zijn voor kinde
 
   <ins>  4.	Onderzoek naar de schoolomgeving</ins> 
 
-Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om die grondig te verkennen. We analyseren fysieke beperkingen en praktische aspecten zoals: Past dit op een schoolbank? Hoe ziet het schoolmeubilair uit? Verplaatsen de kinderen vaak van klaslokaal naar klaslokaal? Heeft de leerkracht steeds toegang tot hun gsm/ laptop? …?
+Omdat het product in een schoolomgeving zal worden gebruikt is het belangrijk om die grondig te verkennen. We analyseren fysieke beperkingen en praktische aspecten zoals: Past dit op een schoolbank? Hoe ziet het schoolmeubilair eruit? Verplaatsen de kinderen zich vaak van klaslokaal naar klaslokaal? Heeft de leerkracht steeds toegang tot zijn/haar gsm/ laptop? …?
 
 ### Materiaal & methoden
 1.	Literatuuronderzoek
 
-Tijdens het onderzoek naar de doelgroep werd voornamelijk gebruik gemaakt van onlinebronnen. Aan de hand van zeven verschillende bronnen werd onderzocht wat het betekent om ASS te hebben.
-Voor de analyse van bestaande producten/ hulpmiddelen werden 4 bronnen geraadpleegd. De focus lag daarbij op de vraag: Hoe kan ik de communicatie en sociale interacties vlotter doen verlopen
-voor kinderen met autisme?
+Tijdens het onderzoek naar de doelgroep werd voornamelijk gebruik gemaakt van online bronnen. Aan de hand van zeven verschillende bronnen werd onderzocht wat het betekent om ASS te hebben.
+Voor de analyse van bestaande producten/ hulpmiddelen werden 4 bronnen geraadpleegd. De focus lag daarbij op de vraag: Hoe kan ik de communicatie en sociale interacties vlotter doen verlopen voor kinderen met autisme?
 
 2.	Interviews (N = 6)
 
@@ -100,7 +99,7 @@ Enkele aspecten die de communicatie en sociale interacties en het leerproces vlo
 
   -	PECS
 
-Het Picture Exchange Communication System helpt kinderen non-verbaal hun wensen en behoeften uiten met visuele hulpmiddelen zoals afbeeldingen en pictogrammen. Het bevordert sociale vaardigheden, zelfexpressie en draagt bij aan een betere zelfwaardering en onafhankelijkheid.
+Het Picture Exchange Communication System helpt kinderen non-verbaal hun wensen en behoeften te uiten met visuele hulpmiddelen zoals afbeeldingen en pictogrammen. Het bevordert sociale vaardigheden, zelfexpressie en draagt bij aan een betere zelfwaardering en onafhankelijkheid.
 
   -	Mens-robot
 
@@ -113,7 +112,7 @@ Het is bewezen dat kinderen met autisme profiteren van fidget-toys in een educat
 
  <ins> 2.	Interviews  </ins> 
 
-Tijdens de interviews zijn er bepaalde problemen die gedefinieerd konden zijn: 
+Tijdens de interviews konden bepaalde problemen gedefinieerd worden: 
 -	Angst om vragen te stellen aan de leerkracht
 -	Moeite met confrontaties met medeleerlingen
 -	Problemen met het vinden van woorden om gevoelens te uiten
@@ -121,8 +120,8 @@ Tijdens de interviews zijn er bepaalde problemen die gedefinieerd konden zijn:
 -	Leerkrachtentekort door de kleine auti-klassen
 -	Leerlingen die goed kunnen uitleggen hoe ze zich voelen, botsen vaak met diegenen die dit niet kunnen
 
-Enkele vereisten die de respondenten me meegaven:
--	Het product moet stevig zijn, omdat leerlingen de neiging hebben om dingen uit elkaar te halen.
+Enkele vereisten die de respondenten ons meegaven:
+-	Het product moet stevig zijn omdat leerlingen de neiging hebben om dingen uit elkaar te halen.
 -	Het doel van het product moet duidelijk zijn, anders wordt het niet gebruikt.
 -	Er moet ruimte zijn voor fouten, aangezien kinderen met ASS impulsief zijn.
 -	Het product mag geen geluid maken, om de les niet te verstoren.
@@ -143,7 +142,7 @@ Na deze interviews hebben we persona’s aangemaakt voor de mensen die in contac
 
  <ins> 3.	Benchmarking  </ins>
 
-Veel bestaande oplossingen gebruiken gezichtsuitdrukkingen om kinderen te helpen emoties aan te duiden. Deze methoden leren hun herkennen hoe ze zich voelen en hoe ze daarop kunnen reageren. Het lijkt nuttig om ook kleuren te gebruiken, zodat kinderen intuïtief het systeem begrijpen zonder dat het extra prikkels geeft tijdens een crisis.
+Veel bestaande oplossingen gebruiken gezichtsuitdrukkingen om kinderen te helpen emoties aan te duiden. Deze methoden leren hen herkennen hoe ze zich voelen en hoe ze daarop kunnen reageren. Het lijkt nuttig om ook kleuren te gebruiken, zodat kinderen intuïtief het systeem begrijpen zonder dat het extra prikkels geeft tijdens een crisis.
 
 ![image](https://github.com/user-attachments/assets/a74fa657-a542-404c-92d6-e39e40f023c3)
 
@@ -161,8 +160,8 @@ Er werd gelet op de fysieke beperkingen van de klas, die meestal klein is en bes
 
 > [!IMPORTANT]
 > Design requirements:
-> - D1.5: Het product moet kubusvormig zijn en moet een neutrale kleur hebben om goed in het klasbeeld te blenderen.
-> - D3.1: De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer.
+> - D1.5: Het product moet kubusvormig zijn en moet een neutrale kleur hebben om goed in het klasbeeld te blenden.
+> - D3.1: De app mag niet zichtbaar zijn op de laptop wanneer verbonden met digibord/beamer.
 
 
 ### Conclusies & implicaties
@@ -171,11 +170,11 @@ Belangrijkste inzichten
 -	Het niet kunnen herkennen en communiceren van emoties is het kernprobleem, wat leidt tot miscommunicatie en sociale conflicten. Dit wordt versterkt doordat kinderen met ASS sneller overprikkeld raken, vooral na speeltijden of groepsactiviteiten, waardoor ze extra prikkelbaar zijn.
 -	Er is behoefte aan:
     -	duidelijkheid: Zonder een duidelijk doel zal het product niet gebruikt worden. 
- 	  -	herkenbaarheid: Hierdoor voelt het kind zich vertrouwt met het product zonder dat het overprikkeld raakt door verwarrende elementen of onverwachte veranderingen.
-    -	ruimte voor fouten: De impulsiviteit van kinderen met ASS maakt het belangrijk om hun een kans te geven om te experimenteren met het product zonder dat ze stress krijgen om fouten te maken.
+ 	  -	herkenbaarheid: Hierdoor voelt het kind zich vertrouwd met het product zonder dat het overprikkeld raakt door verwarrende elementen of onverwachte veranderingen.
+    -	ruimte voor fouten: De impulsiviteit van kinderen met ASS maakt het belangrijk om hen een kans te geven om te experimenteren met het product zonder dat ze stress krijgen om fouten te maken.
 
 Design implicaties 
--	Visuele hulpmiddelen zoals pictogrammen, gezichtsuitdrukkingen en kleurencodes die emoties herkenbaar maakt.
+-	Visuele hulpmiddelen zoals pictogrammen, gezichtsuitdrukkingen en kleurencodes die emoties herkenbaar maken.
 -	Om de emotionele regulatie en focus te optimaliseren kunnen fidgets een behulpzame maar secundaire tool in het ontwerp zijn.
 -	Een applicatie voor de leerkracht die overzicht biedt over de gevoelens van alle leerlingen zodat ze kunnen inspringen op de emotionele behoeften van het kind.
 
@@ -192,7 +191,7 @@ De algemene doelstelling is een helder gedefinieerd finaal ontwerpconcept.
 
 WAVE 1: In de eerste wave willen we achterhalen op welke manier we het best de kinderen hun emoties laten aanduiden. Daarnaast willen we ook testen of gebruik van kleur het aanduiden van emoties kan bevorderen en welke kleur de kinderen associëren met welke emotie.
 
-WAVE 2: In de tweede wave zouden we voortbouwen op de eerste wave, hierin zouden we al iets meer gespecifieerd te werk gaan om de testpool te vergroten en duidelijkere verbanden te vinden. Ook zouden we in deze tweede wave willen testen welke materialen geschikt zijn voor het maken van de fidgettoy. 
+WAVE 2: In de tweede wave zullen we voortbouwen op de eerste wave, hierin zullen we al iets meer gespecifieerd te werk gaan om de testpool te vergroten en duidelijkere verbanden te vinden. Ook zullen we in deze tweede wave testen welke materialen geschikt zijn voor het maken van de fidgettoy. 
 
 WAVE 3: Het doel van de derde wave is om te definiëren hoe we de interface van de leerkracht optimaal kunnen ontwerpen.
 
@@ -208,11 +207,11 @@ WAVE 3: Het doel van de derde wave is om te definiëren hoe we de interface van 
 
 <ins> WAVE 1 (N = 4) </ins>
 
-Op basis van benchmarks zijn er verschillende oplossingen geprototyped om emoties aan te duiden. Namelijk de emotieradar, emotiedraaiknop, emotiedraairad, emotieschuifknop en emotieknoppen. Aan de hand van verschillende verhalen waarin het kind zich moest inleven, moest het kind aanduiden op deze verschillende prototypes hoe de persoon in het verhaal zich voelde. Hierbij keken we hoe gemakkelijk dat het kind de emoties kon aanduiden en stelden hun ook enkele vragen omtrent de gebruikservaring en hun mening over wat ze het beste vonden en waarom ze dit vonden.
+Op basis van benchmarks zijn er verschillende oplossingen geprototyped om emoties aan te duiden. Namelijk de emotieradar, emotiedraaiknop, emotiedraairad, emotieschuifknop en emotieknoppen. Aan de hand van verschillende verhalen waarin het kind zich moest inleven, moest het kind aanduiden op deze verschillende prototypes hoe de persoon in het verhaal zich voelde. Hierbij keken we hoe gemakkelijk dat het kind de emoties kon aanduiden en stelden hen ook enkele vragen omtrent de gebruikservaring en hun mening over wat ze het beste vonden en waarom ze dit vonden.
 
 ![image](https://github.com/user-attachments/assets/44ab07b7-6ce2-48bd-90ea-7e05bfd8bb5d)
 
-Daarna kreeg het kind een blaadje met emoticons van de verschillende gebruikte emoties. Deze konden ze inkleuren in de kleuren die zij associëren met de emoties. Hierna hebben we opnieuw verhaaltjes vertelt waarin ze zich moesten inleven. Hierbij hebben we vooral gelet op de invloed van de kleuren op het gebruiksgemak en de gebruiksvriendelijkheid. 
+Daarna kreeg het kind een blaadje met emoticons van de verschillende gebruikte emoties. Deze konden ze inkleuren in de kleuren die zij associëren met de emoties. Hierna hebben we opnieuw verhaaltjes verteld waarin ze zich moesten inleven. Hierbij hebben we vooral gelet op de invloed van de kleuren op het gebruiksgemak en de gebruiksvriendelijkheid. 
 
 ![image](https://github.com/user-attachments/assets/6a847068-b1d9-494f-a202-a8cdc49f84e6)
 ![image](https://github.com/user-attachments/assets/b73c17c0-780c-4565-8ef3-53ddb635f249)
@@ -247,12 +246,12 @@ In de enquête zullen we ook verschillende ontwerpvoorstellen doen. Enerzijds vo
 
 ![image](https://github.com/user-attachments/assets/2b9a36bd-08aa-4bca-8751-47aaf0d25770)
 
-Ook naar een emotiescherm, hier hebben we 9 schermen van. We polsen opnieuw naar de overzichtelijkheid en wat er kan toegevoegd en verbeterd worden. Er werd gevraagd naar een top 3 van favorieten en niet-preferente. De resultaten van de samengestelde top 3’s werden verwerkt in een scoringsmatrix. Prototypes die op de eerste plaats stonden, kregen +3 punten, terwijl de tweede en derde plaatsen respectievelijk +2 en +1 punten opleverden. Prototypes waarvoor deelnemers een afkeur uitten, kregen -1 punt. Door de scores van alle deelnemers per interface op te tellen, werd een eindscore bepaald. 
+Anderzijds ook voor een emotiescherm, hier hebben we 9 schermen van. We polsen opnieuw naar de overzichtelijkheid en wat er kan toegevoegd en verbeterd worden. Er werd gevraagd naar een top 3 van favorieten en niet-preferente. De resultaten van de samengestelde top 3’s werden verwerkt in een scoringsmatrix. Prototypes die op de eerste plaats stonden, kregen +3 punten, terwijl de tweede en derde plaatsen respectievelijk +2 en +1 punten opleverden. Prototypes waarvoor deelnemers een afkeur uitten, kregen -1 punt. Door de scores van alle deelnemers per interface op te tellen, werd een eindscore bepaald. 
 
 ![image](https://github.com/user-attachments/assets/23c2d314-9b69-4312-8696-06832d3c86c6)
 ![image](https://github.com/user-attachments/assets/8c569576-21d8-4c3b-835b-29764aef77cd)
 
-Hierna werd er ook nog gepolst naar de positieve en negatieve punten van een interface voor een leerlingpanneel. Alsook naar wat er eventueel nog aan kan verbeterd worden.
+Hierna werd er ook nog gepolst naar de positieve en negatieve punten van een interface voor een leerlingpaneel. Alsook naar wat er eventueel nog aan kan verbeterd worden.
 ![image](https://github.com/user-attachments/assets/33a0f243-2e85-45ce-b9f6-af1bc9ca7cf1)
 
 ### Conclusies & implicaties
@@ -266,36 +265,32 @@ Daarnaast zagen we dat het gebruik van kleur het gebruiksgemak weinig beïnvloed
 > - D1.6: Er moet een draaiend fidgeting element aanwezig zijn.
 
 
-In wave 2 hebben we voor het emotieaanduidsysteem gekozen voor het drukknoppensysteem. Ook al was dit niet het populairst hebben we toch besloten om deze te nemen. Dit omdat we merkten dat de nood om verschillende emoties aan te duiden groot was. Op de emotieradar en emotieslider kon je wel verschillende emoties aanduiden maar werd je steeds beperkt doordat je enkel combinaties kon maken van emoties die naast elkaar lagen georiënteerd op het product. Bij het gekozen drukknopsysteem zouden we wel een bevestigingsknop toevoegen, zo kunnen de leerlingen meerdere emoties aanduiden en dan bevestigen. Dit zorgt ook voor een extra staps verificatie waardoor de angst om fouten te maken kleiner zal zijn voor de leerling.
+In wave 2 hebben we voor het emotieaanduidsysteem gekozen voor het drukknoppensysteem. Ook al was dit niet het populairst toch hebben we besloten om deze te nemen. Dit omdat we merkten dat de nood om verschillende emoties aan te duiden groot was. Op de emotieradar en emotieslider kon je wel verschillende emoties aanduiden maar werd je steeds beperkt doordat je enkel combinaties kon maken van emoties die naast elkaar lagen georiënteerd op het product. Bij het gekozen drukknopsysteem zouden we wel een bevestigingsknop toevoegen, zo kunnen de leerlingen meerdere emoties aanduiden en dan bevestigen. Dit zorgt ook voor een extra staps verificatie waardoor de angst om fouten te maken kleiner zal zijn voor de leerling.
 
-Voor de vraag en hulpfunctie hebben we besloten om te werken met knoppen. Dit aangezien deze ze een schuifknop niet zo duidelijk vonden. Omdat het verschil tussen de twee functies (‘ik wil mijn hand opsteken’ en ‘ik heb hulp nodig’) vaak als niet zo duidelijk werd ervaren is er nu ook gekozen om één knop te voorzien voor beide functies. Deze knop heeft een vraagteken aangezien de leerlingen het handje van ‘hand in de lucht steken’ associeerden met STOP.
+Voor de vraag en hulpfunctie hebben we besloten om te werken met knoppen. Dit aangezien onze testgroep een schuifknop niet zo duidelijk vond. Omdat het verschil tussen de twee functies (‘ik wil mijn hand opsteken’ en ‘ik heb hulp nodig’) vaak als niet zo duidelijk werd ervaren is er nu ook gekozen om één knop te voorzien voor beide functies. Deze knop heeft een vraagteken aangezien de leerlingen het handje van ‘hand in de lucht steken’ associeerden met STOP.
 
-Bij de kleurassociaties hebben we besloten de 7 emoties te versimpelen en naar 6 emoties aangezien we merkten dat de kinderen het verschil niet wisten tussen de 2 ernsten van verdriet, en ook willen we het symbool van gefrustreerd aanpassen aangezien deze vaak voor verwarring zorgde.
+Bij de kleurassociaties hebben we besloten de 7 emoties te vereenvoudigen naar 6 emoties aangezien we merkten dat de kinderen het verschil niet wisten tussen de 2 gradaties van verdriet, en ook willen we het symbool van gefrustreerd aanpassen aangezien dit vaak voor verwarring zorgde.
 
 Uit de kleurassociaties zijn volgende verbanden gekomen: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin.
 
 ![image](https://github.com/user-attachments/assets/fbd15cd2-9d34-4aac-a533-76b59f53e8d1)
 
-Uit de gebruikerstesten met het touch and feel board zijn we tot de conclusie gekomen dat we gaan gebruikmaken van het materiaal waaruit de dogbone is gemaakt, namelijk thermoplastische rubber. Ook al was de topfavoriet de middelste textuurmat. Dit aangezien de reden voor het kiezen van de middelste textuurmat vaak was dat het lichtjes indruk baar was zoals computertoetsen dachten we dat dit beter zou zijn als fidgeting element op het eindconcept.
+Uit de gebruikerstesten met het touch and feel board zijn we tot de conclusie gekomen dat we gaan gebruikmaken van het materiaal waaruit de dogbone is gemaakt, namelijk thermoplastische rubber. Ook al was de topfavoriet de middelste textuurmat. Dit aangezien de reden voor het kiezen van de middelste textuurmat vaak was dat het lichtjes indrukbaar was zoals computertoetsen en we dachten dat dit beter zou zijn als fidgeting element op het eindconcept.
 
 > [!IMPORTANT]
 > Design requirements:
-> - D1.7: Het de buitenkant van het product moet gemaakt zijn van thermoplastische rubber.
-> - D1.8: Er moet een element zijn op het product met dezelfde kenmerken in indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board.
+> - D1.7: De buitenkant van het product moet gemaakt zijn van thermoplastische rubber.
+> - D1.8: Er moet een element zijn op het product met dezelfde kenmerken van indrukbaarheid als de ‘middelste textuurmat’ van het touch and feel board.
 > - D2.4: Je moet meerdere verschillende emoties tegelijk kunnen aanduiden.
 > - D2.5: De emoties moeten zo simpel mogelijk gehouden worden.
 > - D2.6: De emoties moeten aangeduid kunnen worden aan de hand van verschillende knoppen.
 > - D2.7: Er moet een bevestigingsknop zijn om de error proofness te vergroten.
-> - D2.8: Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen.
+> - D2.8: Er moet een knop aanwezig zijn met een vraagteken en die betekent dat er een vraag is en er een leerkracht moet komen.
 > - D2.9: De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin.
 
 
 
-De grote besluiten uit wave 3 hebben we nog niet genomen, dit aangezien nog net iets te weinig testpersonen de enquête hebben kunnen laten invullen. We zouden hier later nog eens op terug komen om het nog beter uit te werken en meer focus te leggen op het standpunt van de leerkracht zelf om het product vanuit hun kant ook te optimaliseren.
-Er zijn wel enkele suggesties verkregen en ook zijn er enkele zaken opgevallen die zeker nuttig kunnen zijn voor de volgende ontwerpfase. 
-Zo kan er bij de volgende ontwerpfase eens op de verschillende aangehaalde leerkrachtentools kijken om inspiratie te halen voor verschillende functies en handelingen.
-Daarnaast is bij het emotiescherm ook bevestigd dat werken met emoticons en kleuren ook vanuit het standpunt van de leerkrachten, die er dagelijks mee in contact komen, een goed idee lijkt. 
-Dit bleek namelijk uit de decision matrix die opgesteld werd waarbij we zagen dat de favorieten en commentaren steeds deze richting uitwezen.
+De grote besluiten uit wave 3 hebben we nog niet genomen, dit aangezien we nog net iets te weinig testpersonen de enquête hebben kunnen laten invullen. We zouden hier later nog eens op terug komen om het nog beter uit te werken en meer focus te leggen op het standpunt van de leerkracht zelf om het product vanuit zijn/haar kant ook te optimaliseren. Er zijn wel enkele suggesties verkregen en ook zijn er enkele zaken opgevallen die zeker nuttig kunnen zijn voor de volgende ontwerpfase. Zo kan er bij de volgende ontwerpfase eens naar de verschillende aangehaalde leerkrachtentools gekeken worden om inspiratie te halen voor verschillende functies en handelingen. Daarnaast is bij het emotiescherm ook bevestigd dat werken met emoticons en kleuren ook vanuit het standpunt van de leerkrachten, die er dagelijks mee in contact komen, een goed idee lijkt. Dit bleek namelijk uit de decision matrix die opgesteld werd waarbij we zagen dat de favorieten en commentaren steeds deze richting uitwezen.
 
 ![image](https://github.com/user-attachments/assets/6369d812-4ed1-4b74-9d66-4b1c98cfcfff)
 
