@@ -6,7 +6,7 @@
 *Datum: 21/05/2025*
 
 ## Samenvatting
-Kinderen met ASS hebben vaak moeite om hun emoties en gevoelens te communiceren. Ze ervaren een hoge drempel om dit te doen of communiceren hun behoeften niet duidelijk, wat kan leiden tot conflicten, ongemak en frustratie.
+Kinderen met ASS hebben vaak moeite om over hun emoties en gevoelens te communiceren. Ze ervaren een hoge drempel om dit te doen of communiceren hun behoeften niet duidelijk, wat kan leiden tot conflicten, ongemak en frustratie.
 
 Om dit probleem te onderzoeken, observeerden we een type 9-klas en voerden we drie interviews uit: met een persoon met ASS, een leerling met ASS en een leerkracht met ervaring in autiklassen. Deze inzichten benadrukten de noodzaak van een laagdrempelig communicatiemiddel dat ook helpt bij zelfregulatie.
 
