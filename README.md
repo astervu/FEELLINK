@@ -795,7 +795,7 @@ Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te 
 - 3D geprinte casing
 - silicone
 - ronde drukknoppen
-- 7 witte LED's
+- 7 witte LED's ([Gotron](https://www.gotron.be/componenten/actief/leds/5mm-led/led-5mm-warm-wit-water-clear.html))
 - 7 weerstanden
 - 1 HC05
 - 1 schuifschakelaar
