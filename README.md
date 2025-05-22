@@ -788,15 +788,144 @@ Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te 
 > - D1.14: Een nudge mag geen gebruik maken van trillingen.
 
 
-## Bill of materials
-- thermoplastische rubber
+## Technische beschrijving
+
+
+Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
+Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
+
+<ins> Finale bill of materials </ins>
+- thermoplastische rubber (later)
+- 3D geprinte casing
+- silicone
 - ronde drukknoppen
-- LED's
-- weerstanden
-- HC05
-- schakelaar
-- microcontroller (arduino)
+- 7 LED's
+- 7 weerstanden
+- 1 HC05
+- 1 schuifschakelaar
+- 1 microcontroller (arduino nano)
 - fidgets: draaiend element, textuurmat, joystick, ...
+- device met Serial Bluetooth Terminal
+
+<ins> Code </ins>
+
+```cpp
+
+#include<SoftwareSerial.h>
+
+SoftwareSerial B(10, 11);
+
+int ButtonPin7 = 4;
+
+
+int SwitchPin = A6;
+const int Sololampje = 13;
+
+bool knop1 = false;
+bool knop2 = false;
+bool knop3 = false;
+bool knop4 = false;
+bool knop5 = false;
+bool knop6 = false;
+
+int knopPinnen[] = {2, 3, 8, 5, 6, 7};  // ButtonPin1 t.e.m. ButtonPin6
+int ledPinnen[] = {9, 12, A5, A1, A2, A3};
+bool* knoppen[] = {&knop1, &knop2, &knop3, &knop4, &knop5, &knop6};
+
+const char* boodschappen[] = {
+  "De leerling is verdrietig!",
+  "De leerling is boos!",
+  "De leerling is blij!",
+  "De leerling is verbaasd!",
+  "De leerling is verward!",
+  "De leerling heeft een vraag!"
+};
+
+
+
+void setup() {
+
+    B.begin(9600);
+    
+    for (int i = 0; i < 6; i++) {
+        pinMode(knopPinnen[i], INPUT_PULLUP);
+        pinMode(ledPinnen[i], OUTPUT);
+    }
+
+    pinMode(ButtonPin7, INPUT_PULLUP);
+
+    pinMode(SwitchPin, INPUT);
+    pinMode(Sololampje, OUTPUT);
+
+}
+
+
+void trillertijd(int pin, int duur) {
+  digitalWrite(pin, HIGH);
+  delay(duur);
+  digitalWrite(pin, LOW);
+}
+
+
+
+void loop() {
+    
+
+//  code die enkel gebeurd als de switch werkt
+    if(digitalRead(SwitchPin) == HIGH){
+            
+
+    // wanneer 5 emotieknoppen worden ingeduwd veranderd de staat ervan (toggle aan uit)
+        
+        for (int i = 0; i < 6; i++) {
+            if (digitalRead(knopPinnen[i]) == LOW) {
+                *knoppen[i] = !*knoppen[i];
+                delay(200);
+            }
+
+    // wanneer de knoppen aan getoggled zijn dan moet hun lampje respectievelijk branden
+            digitalWrite(ledPinnen[i], *knoppen[i]);
+        }
+        
+
+    // wanneer de verzend knop wordt ingeduwd worden de emoties die aan stonden doorgestuurd en worden ze terug afgezet
+
+        if (digitalRead(ButtonPin7) == LOW) { 
+            
+            trillertijd(Sololampje, 100);
+            delay(200);
+            trillertijd(Sololampje, 100);
+
+
+            for (int i = 0; i < 6; i++) {
+                if (*knoppen[i] == true) {
+                    B.print(boodschappen[i]);
+                    B.print(" -----------> Knop ");
+                    B.print(i + 1);
+                    B.println(" is ingedrukt!");
+                    *knoppen[i] = !*knoppen[i];
+                }
+            }
+
+
+            B.println("Emoties verzonden!");
+            delay(200);
+        }
+        
+    }
+
+    if(digitalRead(SwitchPin) == LOW){
+        
+        for (int i = 0; i < 6; i++) {
+            digitalWrite(ledPinnen[i], LOW);
+            *knoppen[i] = false;
+        }
+    }
+ }
+
+```
+
+<ins> Build instructions </ins>
 
 
 ## Kritische reflectie
