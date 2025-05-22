@@ -404,7 +404,7 @@ Uit observatie en feedback bleek dat knoppen van 20 mm diameter het meest gepref
 > - D4.1: De grootte van de tool (kubus) is 79 cm.
 > - D4.2: De knoppen op de fysieke interface moeten een diameter hebben van 20 mm.
 > - D4.3: De knoppen op de fysieke interface moeten allemaal dezelfde grootte hebben.
-> - D4.4: De knoppen op de fysieke interface moeten voldoen ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan.
+> - D4.4: De knoppen op de fysieke interface moeten voldoende ver van elkaar gespreid zijn en dus niet vlak naast elkaar staan.
 > - D4.5: De door de leerlingen het meest gebruikte knoppen moeten het makkelijkst bereikbaar zijn binnen de range of motion van de duimen.
 
 
@@ -517,7 +517,7 @@ Uit de interviews konden er enkele design requirements geconcludeerd worden, om 
 > - D3.4: Het moet een mogelijkheid zijn om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden.
 > - D3.5: Bij de emotie blij hoeft er geen melding gegeven worden.
 > - D3.6: De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk).
-> - D3.7: Een stille trilling is een ideale manier van een melding ontvangen.
+> - D3.7: Een stille trilling is een ideale manier om een melding te ontvangen.
 > - D3.8: Het bijhouden van de data in een weekoverzicht per leerling is handig voor de klassenraden.
 > - D3.9: Er moet een optie zijn om de meldingen voor een bepaalde periode te snoozen (na de bepaalde periode zullen de meldingen automatisch ingeschakeld zijn)
 > - D3.10: De leerkracht krijgt enkel meldingen als die lesgeeft aan de klas.
@@ -560,7 +560,7 @@ Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een
 ## Develop 3
 ### Doelstellingen
 
-1. Hoe zorgen we ervoor dat de leerlingen de tool wilt en blijft gebruiken?
+1. Hoe zorgen we ervoor dat de leerlingen de tool willen en blijven gebruiken?
 2. PESTEL-analyse
 3. Hoe kunnen we de user experience nog optimaliseren?
 
@@ -578,7 +578,7 @@ Uit de testen omtrent onderzoeksvraag 3 kan er geconcludeerd worden dat 200g een
 
 
 ### Resultaten
-<ins> Onderzoeksvraag 1: Hoe zorgen we ervoor dat de leerlingen de tool wilt en blijft gebruiken? </ins>
+<ins> Onderzoeksvraag 1: Hoe zorgen we ervoor dat de leerlingen de tool willen en blijven gebruiken? </ins>
 
 We vinden deze onderzoeksvraag belangrijk, omdat het effect van de tool afhangt van het gebruik ervan. Kinderen met autisme staan vaak terughoudend tegenover veranderingen, dus de tool mag zeker niet als verplicht aanvoelen. Om beter te begrijpen wat het gebruik stimuleert, baseren we ons op twee modellen.
 
@@ -588,9 +588,9 @@ Het Hook-model zorgt ervoor dat het gebruik van de Feellink een herhalende cyclu
 
 ![HOOK MODEL](https://github.com/user-attachments/assets/6b9f90ce-88ea-4650-be75-5d983f23150e)
 
-We passen het model toe op zowel het communicatie gedeelte als het fidgetgedeelte.
+We passen het model toe op zowel het communicatiegedeelte als het fidgetgedeelte.
 
-COMMUNICATIE GEDEELTE 
+COMMUNICATIEGEDEELTE 
 -	Interne trigger: het gevoel dat ze op dat moment ervaren
 -	Action: de tool in communicatiemodus zetten, de emotieknop indrukken
 -	Variable reward; je gevoel wordt erkend door de leerkracht
@@ -600,7 +600,7 @@ COMMUNICATIE GEDEELTE
     Brainstorming:
  	
     - er is een streak gelinkt aan het gebruik
-    - ze krijgen muntjes bij gebruik die ze kunnen gebruiken om een karakter mee aan te kleden op een acc
+    - ze krijgen muntjes bij gebruik die ze kunnen gebruiken om een karakter mee aan te kleden op een app
     - als ze de tool gebruikt hebben gaat de meter op bord omhoog op het einde van de dag, gezamelijke mijlpaal op het klasdashbord
       
   -	Investment: …
@@ -608,7 +608,7 @@ COMMUNICATIE GEDEELTE
 FIDGETGEDEELTE 
 -	Interne trigger: stress, overprikkeling, …
 -	Action: de tool in fidgetmodus plaatsen, prutsen met fidget
--	Variable reward: positieve invloed van de fidget op je gevoel, men wordt rustiger (zelfregulatie), concentratie in de les, je haalt er plezier uit
+-	Variable reward: positieve invloed van de fidget op je gevoel, je wordt rustiger (zelfregulatie), concentratie in de les, je haalt er plezier uit
 -	Investment : … 
 
 Brainstorming investering in de FEELLINK 
@@ -616,7 +616,7 @@ Brainstorming investering in de FEELLINK
     - personalisatie van de tool
        - kleur
        - soort fidgets
-       - een persoonlijk acc met feature die aangeeft hoe de leerkracht het kind beter kan begrijpen; geeft aan wat het kind nodig heeft bij welke emotie
+       - een persoonlijk app met feature die aangeeft hoe de leerkracht het kind beter kan begrijpen; geeft aan wat het kind nodig heeft bij welke emotie
        - het overzicht na elke week
     - ze krijgen een soort streak die de leerkracht kan instellen als ze hun emotie positief hebben aangepakt; vragen naar een stiltemoment, spelen met de fidget,…
 
@@ -625,7 +625,7 @@ Brainstorming investering in de FEELLINK
     
   - emotionele investering
   
-  Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de FEELLINK. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen van de attachment theory.
+  Doordat het kind via de tool zijn emoties kan delen en daardoor beter geholpen wordt bij overprikkeling, ontstaat een positief gevoel en een emotionele band met de FEELLINK. Deze emotionele investering motiveert het kind om de tool blijvend te gebruiken. Dit kunnen we achterhalen uit de attachment theory.
   Dit staat verder beschreven in het protocol van deze developfase.
 
 
@@ -646,13 +646,13 @@ Brainstorming investering in de FEELLINK
         -	Cognitieve load
             - Zijn de kinderen rustig genoeg om de fidget te hanteren?
         -	Routine
-        	  - Lijken de fidgets op fidgets die al worden gebruikt, al op de markt staan?
+        	  - Lijken de fidgets op fidgets die al worden gebruikt, al op de markt bestaan?
     -	Emotie communicatie: 
         - Fysische effort
             - Zijn de knoppen makkelijk indrukbaar? (te grote knoppen, te kleine knoppen?) (ie test ergonomie)
             - Zijn de fidgets makkelijk te gebruiken?
         -	Cognitieve load
-            - Zijn de kinderen niet te overstuur om hun emoties aan te duiden?
+            - Zijn de kinderen niet te overstuurd om hun emoties aan te duiden?
             - Is de interface duidelijk en simpel genoeg (Miller’s Law)
         -	Sociale afwijking
         	  - Is het ingeven van de emotie privé genoeg?
@@ -666,7 +666,7 @@ Brainstorming investering in de FEELLINK
 
 <ins> PESTEL-analyse </ins>
 
-Er is een analyse ontvangen van studenten uit het vak De kennismaatschappij en ICT, deze hadden onze Github pagina bekeken en op basis daarvan een PESTEL-analyse uitgevoerd op ons project. Er werden tips en feedback meegedeeld met de kijk vanuit de verschillende aspecten van PESTEL. (Political, Economic, Social, Technological, Environmental en Legal)
+Er is een analyse ontvangen van studenten uit het vak De kennismaatschappij en ICT. Deze hadden onze Github pagina bekeken en op basis daarvan een PESTEL-analyse uitgevoerd op ons project. Er werden tips en feedback meegedeeld met de kijk vanuit de verschillende aspecten van PESTEL. (Political, Economic, Social, Technological, Environmental en Legal)
 
 <ins> Onderzoeksvraag 2: Hoe kunnen we de user experience nog optimaliseren? </ins>
 
@@ -1006,17 +1006,17 @@ Ook wij vinden het jammer dat het project hier eindigt zonder volledige uitwerki
 | D2.5 | De emoties moeten zo simpel mogelijk gehouden worden. | Definition wave 2 | 13/12/2024 |
 | D2.6 | De emoties moeten aangeduid kunnen worden aan de hand van verschillende knoppen. | Definition wave 2 | 13/12/2024 |
 | D2.7 | Er moet een bevestigingsknop zijn om de error proofness te vergroten. | Definition wave 2 | 13/12/2024 |
-| D2.8 | Er moet een knop aanwezig met een vraagteken op die betekend dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
+| D2.8 | Er moet een knop aanwezig met een vraagteken dat betekent dat er een vraag is en er een leerkracht moet komen. | Definition wave 2 | 13/12/2024 |
 | D2.9 | De emotie-kleur verdeling moet zijn: verdriet = blauw, blij = geel, boos = rood, verbaasd = roze, neutraal = oranje , verward = bruin. | Definition wave 2 | 13/12/2024 |
 | D2.10 |De neutrale emotie mag niet op de tool aanwezig zijn. | Develop 3, PESTEL-analyse | 24/4/2025 |
 | D2.11 | Elke emotieknop moet voorzien zijn van een LED die oplicht bij het indrukken, zodat de gebruiker visueel bevestigd krijgt dat de input geregistreerd is. | Develop 3, lessimulatie | 19/5/2025 |
 | D2.12 | Er moet een knipperend lampje voorzien worden dat aangeeft wanneer een emotie succesvol is verzonden, om zekerheid te bieden aan de gebruiker. | Develop 3, lessimulatie | 19/5/2025 |
 | D2.13 | De emotieknoppen moeten steeds in dezelfde volgorde geplaatst worden op de interface, namelijk: positie 1 = blij, positie 2 = verdrietig, positie 3 = verbaasd, positie 4 = verward, positie 5 = boos. | Develop 3 | 14/5/2025 |
 | **D3** | **Leerkracht** |  |  |
-| D3.1 | De app moet enkel zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
+| D3.1 | De app mag niet zichtbaar op de laptop zijn wanneer verbonden met digibord/beamer. | Discovery ‘A day in the life’ | 21/10/2024 |
 | D3.2 | We moeten werken met dezelfde kleuren + emojis als van de FEELLINK. | Develop 2 | 5/5/2025 |
 | D3.3 | De leerkrachten krijgen in real-time de meldingen binnen. | Develop 2 | 5/5/2025  |
-| D3.4 | DHet moet een mogelijkheid zijn om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden. | Develop 2 | 5/5/2025  |
+| D3.4 | Het moet een mogelijkheid zijn om een gast toe te kunnen voegen bij het co-teachen of als er hulp moet ingeschakeld worden. | Develop 2 | 5/5/2025  |
 | D3.5 | Bij de emotie blij hoeft er geen melding gegeven worden. | Develop 2 | 5/5/2025  |
 | D3.6 | De interface mag niet gekoppeld worden aan de gsm (privé niet koppelen aan werk). | Develop 2 | 5/5/2025  |
 | D3.7 | Een stille trilling is een ideale manier van een melding ontvangen. | Develop 2 | 5/5/2025  |
