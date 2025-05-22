@@ -790,16 +790,12 @@ Wat de leerkrachteninterface betreft, werkt de huidige indeling goed om snel te 
 
 ## Technische beschrijving
 
-
-Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
-Hiermee moet iemand die wil verderweren op je product genoeg hebben om dit na te bouwen.
-
 <ins> Finale bill of materials </ins>
 - thermoplastische rubber (later)
 - 3D geprinte casing
 - silicone
 - ronde drukknoppen
-- 7 LED's
+- 7 witte LED's
 - 7 weerstanden
 - 1 HC05
 - 1 schuifschakelaar
@@ -926,6 +922,35 @@ void loop() {
 ```
 
 <ins> Build instructions </ins>
+
+1. Casing
+
+De casing van het product bestaat uit 2 onderdelen, deze kun je over elkaar schuiven om de casing te sluiten. In deze casing zijn er gaten voorzien om de knoppen en LED's door te steken zodat ze kunnen ingedrukt worden. Daarnaast is er op de casing ook plaats voorzien waar dat de fidgets op bevestigd kunnen worden.
+De casing zelf zou uit thermoplastische rubber bestaan maar is voorlopig nog ge-3D-print.
+
+![image](https://github.com/user-attachments/assets/d6504959-5fcf-4f50-b63d-d269425a207c)
+
+
+2. Elektrische componenten
+
+De elektrische componenten worden aan elkaar geconnecteerd volgens onderstaand elektrisch bedradingsschema. Hierna werden deze ook aan elkaar gesoldeerd en werd er gebruik gemaakt van een custom soldeerbordje gemaakt uit karton zodat de knoppen en LED's op de juiste plek zaten en goed en makkelijk gingen passen in de interface.
+
+![image](https://github.com/user-attachments/assets/ffb71023-2cb0-41be-b778-cb34fcdb6ec4)
+
+
+3. Serial Bluetooth Monitor - applicatie
+
+Dankzij deze applicatie konden we gegevens van de knoppen via de HC-05 Bluetooth-module doorsturen. Zo werd ook de exacte tijd geregistreerd waarop een emotieknop werd ingedrukt.
+
+Daarnaast konden we via de applicatie ook input naar de HC-05 sturen. Dit was bijzonder handig, omdat we de Arduino tijdens de testfase niet telkens uit het prototype hoefden te halen om nieuwe code te uploaden. In plaats daarvan konden we de volledige code vooraf laden en via de applicatie eenvoudig schakelen tussen verschillende codeonderdelen.
+
+![image](https://github.com/user-attachments/assets/1f7472be-3340-48d3-b769-a01af99f8a51)
+
+
+4. Silicone
+
+Zowel de fidgets als cover boven de knoppen op het product zijn gemaakt uit silicone. Dit is gebeurd door silicone samen met wat pigment in een mal te gieten. Deze mallen werden ge-3D-print zodat we de fidgets en knopcovers in exact de juiste maat en vorm konden krijgen.
+
 
 
 ## Kritische reflectie
