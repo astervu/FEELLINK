@@ -1,5 +1,8 @@
 # FEELLINK
-![LOGO fin](https://github.com/user-attachments/assets/819cd1ce-b41f-4927-96d9-ea4155fc63d6)
+
+![LOGO fin](https://github.com/user-attachments/assets/26571970-89a3-4ec6-91ae-163342a02f57)
+
+
 
 *Met FEELLINK kan een leerling uit een autiklas zijn emoties en gevoelens makkelijk en laagdrempelig communiceren met de leerkracht om zo conflicten, ongemakken en frustraties bij leerlingen in de klas makkelijker te begrijpen en op te lossen. Ook helpt FEELLINK bij zelfregulatie van de leerling door middel van fidgeting en stimming.* 
 
