@@ -952,7 +952,7 @@ Zowel de fidgets als cover boven de knoppen op het product zijn gemaakt uit sili
 
 5. Interfaces leerkrachten
 
-De interfaces voor leerkrachten zijn ontwikkeld op basis van veelgebruikte schoolapplicaties zoals Nearpod, Smartschool en Schoolware. Ze zijn ontworpen in een speelsere en gebruiksvriendelijkere stijl, waarbij ook rekening is gehouden met de ontwerpeisen uit Define Wave 3 en Develop 2. Voor het ontwerp is Affinity Designer gebruikt.
+De interfaces voor leerkrachten zijn ontwikkeld op basis van veelgebruikte schoolapplicaties zoals Nearpod, Smartschool en Schoolware. Ze zijn ontworpen in een speelsere en gebruiksvriendelijkere stijl, waarbij ook rekening is gehouden met de ontwerpeisen uit Define Wave 3 en Develop 2. Voor het ontwerp is Affinity Designer gebruikt. Alle ontworpen interfaces zijn te zien in het mapje interfaces leerkrachten.
 
 ## Kritische reflectie
 
