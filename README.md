@@ -950,7 +950,9 @@ Daarnaast konden we via de applicatie ook input naar de HC-05 sturen. Dit was bi
 
 Zowel de fidgets als cover boven de knoppen op het product zijn gemaakt uit silicone. Dit is gebeurd door silicone samen met wat pigment in een mal te gieten. Deze mallen werden ge-3D-print (stl-files te vinden in mapje BillOfMaterials) zodat we de fidgets en knopcovers in exact de juiste maat en vorm konden krijgen.
 
+5. Interfaces leerkrachten
 
+De interfaces voor leerkrachten zijn ontwikkeld op basis van veelgebruikte schoolapplicaties zoals Nearpod, Smartschool en Schoolware. Ze zijn ontworpen in een speelsere en gebruiksvriendelijkere stijl, waarbij ook rekening is gehouden met de ontwerpeisen uit Define Wave 3 en Develop 2. Voor het ontwerp is Affinity Designer gebruikt. Alle ontworpen interfaces zijn te zien in het mapje interfaces leerkrachten.
 
 ## Kritische reflectie
 
