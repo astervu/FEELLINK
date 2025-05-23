@@ -924,7 +924,7 @@ void loop() {
 1. Casing
 
 De casing van het product bestaat uit 2 onderdelen, deze kun je over elkaar schuiven om de casing te sluiten. In deze casing zijn er gaten voorzien om de knoppen en LED's door te steken zodat ze kunnen ingedrukt worden. Daarnaast is er op de casing ook plaats voorzien waar dat de fidgets op bevestigd kunnen worden.
-De casing zelf zou uit thermoplastische rubber bestaan maar is voorlopig nog ge-3D-print.
+De casing zelf zou uit thermoplastische rubber bestaan maar is voorlopig nog ge-3D-print (files te vinden in mapje BillOfMaterials)
 
 ![image](https://github.com/user-attachments/assets/d6504959-5fcf-4f50-b63d-d269425a207c)
 
@@ -948,7 +948,7 @@ Daarnaast konden we via de applicatie ook input naar de HC-05 sturen. Dit was bi
 
 4. Silicone
 
-Zowel de fidgets als cover boven de knoppen op het product zijn gemaakt uit silicone. Dit is gebeurd door silicone samen met wat pigment in een mal te gieten. Deze mallen werden ge-3D-print zodat we de fidgets en knopcovers in exact de juiste maat en vorm konden krijgen.
+Zowel de fidgets als cover boven de knoppen op het product zijn gemaakt uit silicone. Dit is gebeurd door silicone samen met wat pigment in een mal te gieten. Deze mallen werden ge-3D-print (files te vinden in mapje BillOfMaterials) zodat we de fidgets en knopcovers in exact de juiste maat en vorm konden krijgen.
 
 
 
