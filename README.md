@@ -18,8 +18,9 @@ Het ingebouwde apparaatje maakt communicatie eenvoudiger, omdat de interactie me
 
 ![render feellink !(met knoppen)](https://github.com/user-attachments/assets/fcdf4aa8-8524-4f7a-b7e8-080d11f1f05f)
 
+![LOGO fin](https://github.com/user-attachments/assets/819cd1ce-b41f-4927-96d9-ea4155fc63d6)
 
-![feellink prototype](https://github.com/user-attachments/assets/05bf1fa6-864f-46c3-88e9-5f7faa8f2862)
+
 
 
 ## Introductie
