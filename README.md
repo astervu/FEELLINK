@@ -930,6 +930,7 @@ De casing zelf zou uit thermoplastische rubber bestaan maar is voorlopig nog ge-
 
 De elektrische componenten worden aan elkaar geconnecteerd volgens onderstaand elektrisch bedradingsschema. Hierna werden deze ook aan elkaar gesoldeerd en werd er gebruik gemaakt van een custom soldeerbordje gemaakt uit karton zodat de knoppen en LED's op de juiste plek zaten en goed en makkelijk gingen passen in de interface.
 
+![BOM_bedradingsschema 1](https://github.com/user-attachments/assets/d205125b-70b4-4100-955d-5aa173d2738d)
 ![image](https://github.com/user-attachments/assets/ffb71023-2cb0-41be-b778-cb34fcdb6ec4)
 
 
@@ -958,9 +959,9 @@ Een belangrijk aspect van ons product is de ontwikkeling van een ondersteunende 
 
 Daarnaast hebben we nog meer gebruikerstests nodig om ons product goed in context te plaatsen. We willen aspecten zoals de bevestiging op de schoolbanken, het oplaadsysteem en de plaatsing van de knoppen verder optimaliseren. Door deze praktische toepassingen te testen, kunnen we zorgen voor een naadloze integratie in de klasomgeving en een betere gebruikerservaring. Een groot voordeel van samenwerken met scholen is dat zij een breed testpubliek bieden. De scholen waarmee we werken, zijn enthousiast over ons project en ondersteunen graag de verdere ontwikkeling. Hun positieve houding en bereidheid tot samenwerking motiveren ons enorm, en het is bemoedigend om te zien hoe zij onze inzet voor kinderen met ASS waarderen. 
 
-Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om het overzicht te bewaren. Toch liep de planning niet altijd even soepel. Onze eerste wave kon pas laat plaatsvinden door beperkte beschikbaarheid van de school die ik eerder had bezocht. Hoewel de school uiteindelijk akkoord ging, mocht Aimé niet deelnemen aan deze wave omdat ik daar al een interview en observatiedag had gehad. Dit was een teleurstelling, omdat we de inzichten van beide teamleden hadden willen combineren voor een completere evaluatie. Met twee personen was het bovendien makkelijker geweest om de kinderen snel te testen, aangezien we onder tijdsdruk stonden door het lesrooster. 
+Voor de projectplanning hebben we gebruik gemaakt van Trello, wat ons hielp om het overzicht te bewaren. Toch liep de planning niet altijd even soepel. Onze eerste wave kon pas laat plaatsvinden door beperkte beschikbaarheid van de school die eerder bezocht waren door Aster. Hoewel de school uiteindelijk akkoord ging, mocht Aimé niet deelnemen aan deze wave aangezien Aster op die school al een interview en observatiedag had gehad en het moeizamer zou zijn voor de kinderen om hun emoties te delen met een onbekende en onvertrouwde persoon erbij. Dit was een teleurstelling, omdat we de inzichten van beide teamleden hadden willen combineren voor een completere evaluatie. Met twee personen was het bovendien makkelijker geweest om de kinderen snel te testen, aangezien we onder tijdsdruk stonden door het lesrooster. 
 
-De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden we onze bevindingen bundelen en verschillende perspectieven samenbrengen. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
+De samenwerking binnen ons team verliep echter vlot. De taken waren goed verdeeld, en een belangrijk pluspunt was dat Aimé voor de pitch ook al bezig was met onderzoek rond kinderen met ASS. Hierdoor konden onze bevindingen gebundeld worden en verschillende perspectieven samenbracht worden. Bovendien is dit project voor ons beiden persoonlijk, aangezien we allebei een broer met autisme hebben. Dit persoonlijke verband heeft ons extra gemotiveerd om een betekenisvolle bijdrage te leveren.
 
 <ins> SEMESTER 2 </ins>
 
